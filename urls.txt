@@ -21,23 +21,22 @@
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
-    "TMDB_ID": 12092,
+    "TMDB_ID": 11688,
     "ID_OKRU": "12356596992750",
-    "TITULO": "Alicia en el país de las maravillas",
-    "FECHA": "1951-08-09",
-    "PORTADA": "https://image.tmdb.org/t/p/w500/zOJKtTdToc8FcjmmbavkjUxv2Ue.jpg",
-    "BACKDROP": "https://image.tmdb.org/t/p/w500/tyj0QztA0PkYo6XauifWjkx7UVi.jpg",
-    "GENERO": "Animación, Familia, Fantasía, Aventura",
-    "RATING": 7.2,
-    "DURACION": 75,
-    "FRASE_PROMOCIONAL": "Un mundo de maravillas en una gran película",
-    "SINOPSIS": "Historia de magia y fantasía en el que la joven Alicia se sumerge en el sorprendente País de las Maravillas y conoce a extraordinarios personajes como Tweedledee y Tweedledum, el Sombrerero Loco, La Reina de Corazones y el frenético Conejo Blanco.",
-    "ACTORES": "  • Kathryn Beaumont (Alice (voice))\n  • Ed Wynn (Mad Hatter (voice))\n  • Richard Haydn (Caterpillar (voice))\n  • Sterling Holloway (Cheshire Cat (voice))\n  • Jerry Colonna (March Hare (voice))",
-    "DIRECTOR": "Clyde Geronimi",
-    "TRAILER": "No disponible",
+    "TITULO": "El emperador y sus locuras",
+    "FECHA": "2000-12-15",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/X9jChoAotaGU81lEraUVi8RHOe.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg",
+    "GENERO": "Aventura, Animación, Comedia, Familia, Fantasía",
+    "RATING": 7.565,
+    "DURACION": 78,
+    "FRASE_PROMOCIONAL": "Así soy yo.",
+    "SINOPSIS": "El arrogante y egoísta emperador Cuzco es traicionado y convertido en llama por la ambiciosa Yzma y su guardaespaldas Kronk. El emperador, que una vez lo tuvo todo, se verá abocado a confiar en un llano y simpático campesino llamado Pacha, para encontrarse a sí mismo.",
+    "ACTORES": "  • David Spade (Kuzco (voice))\n  • John Goodman (Pacha (voice))\n  • Eartha Kitt (Yzma (voice))\n  • Patrick Warburton (Kronk (voice))\n  • Wendie Malick (Chicha (voice))",
+    "DIRECTOR": "Mark Dindal",
+    "TRAILER": "https://youtube.com/watch?v=ZrCWAQaMNdQ",
     "URLS_OKRU": [
-      "https://ok.ru/video/12356596992750",
-      "https://ok.ru/video/12257566984942"
+      "https://ok.ru/video/12356596992750"
     ]
   },
   {
@@ -78,6 +77,66 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/14070562818798"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 11224,
+    "ID_OKRU": "9499578862203",
+    "TITULO": "La Cenicienta",
+    "FECHA": "1950-02-22",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/vqzeSm5Agvio7DahhKXaySUbUUW.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/puJKgNcWaGgMk5VHanSSomUTpmw.jpg",
+    "GENERO": "Familia, Fantasía, Animación, Romance",
+    "RATING": 7.051,
+    "DURACION": 74,
+    "FRASE_PROMOCIONAL": "La más grande historia de amor jamás contada.",
+    "SINOPSIS": "Cenicienta vive con su madrastra y las dos hijas de ésta. Las tres le hacen la vida imposible y la tienen trabajando sin parar en las labores del hogar. Pero ella establece amistad con los animales de la casa, que le ayudarán a asistir al baile Real al que su madre no le permite ir.",
+    "ACTORES": "  • Ilene Woods (Cinderella (voice))\n  • Eleanor Audley (Lady Tremaine (voice))\n  • Verna Felton (Fairy Godmother (voice))\n  • Claire Du Brey ((credit only) (voice))\n  • Rhoda Williams (Drizella (voice))",
+    "DIRECTOR": "Clyde Geronimi",
+    "TRAILER": "https://youtube.com/watch?v=niLYmZoEfA0",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9499578862203"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 16119,
+    "ID_OKRU": "9499579255419",
+    "TITULO": "La Cenicienta III: Qué pasaría si…",
+    "FECHA": "2007-02-06",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/hnu7CGMc1zQejwjUIEGcSikdhmV.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/3mmV3DuOpqc0eTUcrlFGoVl1p9T.jpg",
+    "GENERO": "Animación, Romance, Familia, Fantasía",
+    "RATING": 6.551,
+    "DURACION": 70,
+    "FRASE_PROMOCIONAL": "¿Qué pasaría si el zapato no fuera de su talla?",
+    "SINOPSIS": "La madrastra de Cenicienta se apodera de la varita mágica del Hada Madrina para viajar atrás en el tiempo y lograr cambiar el curso de los acontecimientos mediante un maléfico hechizo.",
+    "ACTORES": "  • Jennifer Hale (Cinderella (voice))\n  • Christopher Daniel Barnes (Prince Charming (voice))\n  • Susanne Blakeslee (Lady Tremaine (voice))\n  • Tress MacNeille (Anastasia (voice))\n  • Russi Taylor (The Fairy Godmother / Drizella (voice))",
+    "DIRECTOR": "Frank Nissen",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9499579255419"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 14128,
+    "ID_OKRU": "9494704491131",
+    "TITULO": "La Cenicienta II: ¡La magia no termina a media noche!",
+    "FECHA": "2002-02-23",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/eUoQl8Bhd4s5woTc35lHFijhLcW.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/w7H4II0nbwMLAWJjtC6fQ3EwHEm.jpg",
+    "GENERO": "Familia, Animación, Romance, Fantasía",
+    "RATING": 6.123,
+    "DURACION": 73,
+    "FRASE_PROMOCIONAL": "¡La magia no termina a media noche!",
+    "SINOPSIS": "Recién coronada como princesa, Cenicienta aprende rápidamente que la vida en palacio y sus responsabilidades reales son más complicadas de lo que había imaginado. En tres conmovedoras historias, Cenicienta pide a sus amigos los animales y a su Hada Madrina que la ayuden a desempeñar su papel real, y descubre que ser fiel a uno mismo es la mejor manera de hacer sus sueños realidad.",
+    "ACTORES": "  • Jennifer Hale (Cinderella (voice))\n  • Rob Paulsen (Jaq / The Baker / Sir Hugh / Grand Duke / Bert / Flower Vendor (voice))\n  • Corey Burton (Gus / Mert / Stable Hand (voice))\n  • Andre Stojka (The King (voice))\n  • Russi Taylor (Fairy Godmother / Mary Mouse / Beatrice / Daphne / Drizella / Countess Le Grande (voice))",
+    "DIRECTOR": "John Kafka",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9494704491131"
     ]
   }
 ]
