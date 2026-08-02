@@ -258,5 +258,85 @@
     "URLS_OKRU": [
       "https://ok.ru/video/8605591014011"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 10198,
+    "ID_OKRU": "8482230504031",
+    "TITULO": "Tiana y el sapo",
+    "FECHA": "2009-12-08",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/lSNqVycC40mujo0tiRZvp6Ef5qQ.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/y5tad0a4yRbxYgOHGllEIEeCCKt.jpg",
+    "GENERO": "Animación, Romance, Fantasía, Familia",
+    "RATING": 7.232,
+    "DURACION": 97,
+    "FRASE_PROMOCIONAL": "A veces los sueños salen rana.",
+    "SINOPSIS": "Tiana, una muchacha de origen humilde que vive en Nueva Orleans, trabaja como camarera y cocinera para conseguir realizar el sueño que compartio con su padre, conseguir abrir su propio restaurante.Pero todo cambia cuando el Príncipe Naveen, heredero de la corona de Maldonia, llega a la ciudad. En su camino se cruza el Doctor Facilier, un brujo vudú que engaña al príncipe y lo convierte en una rana. Atrapado en su nueva forma, Naveen intentará romper el encantamiento utilizando la forma clásica de los cuentos, es decir, con el beso de una princesa. Convence a Tiana para que le bese pero, las cosas no son tan sencillas.",
+    "ACTORES": "  • Anika Noni Rose (Tiana (voice))\n  • Bruno Campos (Prince Naveen (voice))\n  • Jim Cummings (Ray (voice))\n  • Michael-Leon Wooley (Louis (voice))\n  • Keith David (Dr. Facilier (voice))",
+    "DIRECTOR": "Ron Clements",
+    "TRAILER": "https://youtube.com/watch?v=QIB5xThGLcU",
+    "URLS_OKRU": [
+      "https://ok.ru/video/8482230504031"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 10882,
+    "ID_OKRU": "6262620621315",
+    "TITULO": "La bella durmiente",
+    "FECHA": "1959-02-17",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/ofoVXR8gBYhV4e0MpRQtSpeXLiK.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg",
+    "GENERO": "Fantasía, Animación, Romance, Familia",
+    "RATING": 6.946,
+    "DURACION": 75,
+    "FRASE_PROMOCIONAL": "La más maravillosa y mágica historia de amor jamás contada",
+    "SINOPSIS": "Había una vez dos reyes que esperaban con alegría el nacimiento de su primera hija, a la que llamarían Aurora. Para celebrarlo, organizaron una fiesta a la que invitaron a todos los habitantes del reino. Pero olvidaron invitar a la malvada bruja Maléfica que, enfurecida, lanzó un terrible hechizo sobre la princesa: el día de su décimosexto cumpleaños, se pincharía con el uso de una rueca y moriría. Pero sus tres divertidas hadas madrinas descubren una forma de romper el maleficio: no morirá, permanecerá dormida hasta que un valiente príncipe la bese.",
+    "ACTORES": "  • Mary Costa (Princess Aurora (voice))\n  • Bill Shirley (Prince Phillip (voice))\n  • Eleanor Audley (Maleficent (voice))\n  • Verna Felton (Flora / Queen Leah (voice))\n  • Barbara Luddy (Merryweather (voice))",
+    "DIRECTOR": "Clyde Geronimi",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/6262620621315"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 426960,
+    "ID_OKRU": "6252798544387",
+    "TITULO": "Blancanieves y los 7 enanitos",
+    "FECHA": "1984-07-16",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/1K1eYIjGC1CyHkHGVv8rIW34vxq.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/66XLgykXgoDkOXVakUqsQhIILnc.jpg",
+    "GENERO": "Fantasía, Romance, Película de TV",
+    "RATING": 6.4,
+    "DURACION": 46,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "El buen corazón de una hermosa joven triunfa sobre la maldad y los celos en esta espléndida versión animada del más celebrado cuento de todos los tiempos. Blancanieves, la chica más bonita de la tierra, vive en un castillo con su malvada y orgullosa madarastra, una reina que no soporta su deslumbrante belleza sobre todo después de que el misterioso espejo mágico le dice que la más bella del reino es Blancanieves. La malvada reina intenta que uno de sus vasallos le quite la vida a la joven para volver a convertirse en \"la más bella del reino\". Afortunadamente Blancanieves logra escapar del plan de la Reina y se interna en el bosque donde conocerá a los Siete Enanitos. Sin embargo, la Reina consigue dar con Blancanieves y la engaña para que coma una manzana envenenada que la sume en un profundo sueño. Pero como en los grandes cuentos, un apuesto príncipe consigue con un hermoso beso que se despierte y vivir felices para siempre. (FILMAFFINITY)",
+    "ACTORES": "  • Elizabeth McGovern (Snow White)\n  • Vanessa Redgrave (The Evil Queen)\n  • Rex Smith (The Prince)\n  • Michael Preston (The Huntsman)\n  • Vincent Price (The Magic Mirror)",
+    "DIRECTOR": "Peter Medak",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/6252798544387"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 10020,
+    "ID_OKRU": "6252344904195",
+    "TITULO": "La bella y la bestia",
+    "FECHA": "1991-10-22",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/1FxMtEUc6DP1MXsTBftOFaoCVVO.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg",
+    "GENERO": "Romance, Familia, Animación, Fantasía",
+    "RATING": 7.727,
+    "DURACION": 84,
+    "FRASE_PROMOCIONAL": "La más bella historia de amor jamás contada.",
+    "SINOPSIS": "Una hermosa joven llamada Bella acepta alojarse en un castillo con una bestia a cambio de la libertad de su padre. La bestia es, en realidad, un príncipe encantado. Para romper el hechizo, deberá ganarse el amor de una preciosa dama antes de que caiga el último pétalo de una rosa encantada.",
+    "ACTORES": "  • Paige O'Hara (Belle (voice))\n  • Robby Benson (Beast (voice))\n  • Richard White (Gaston (voice))\n  • Jerry Orbach (Lumiere (voice))\n  • David Ogden Stiers (Cogsworth (voice))",
+    "DIRECTOR": "Gary Trousdale",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/6252344904195"
+    ]
   }
 ]
