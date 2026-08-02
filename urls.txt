@@ -519,5 +519,45 @@
     "URLS_OKRU": [
       "https://ok.ru/video/16013411617304"
     ]
+  },
+  {
+    "CATEGORIA": "RANMA_OVAS",
+    "TMDB_ID": 897589,
+    "ID_OKRU": "16015205403160",
+    "TITULO": "Ranma ½ - ¡Pesadilla! El incienso del sueño primaveral",
+    "FECHA": "2008-07-30",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/aaYni3OHcE0wkdPJT2G7JFknMn8.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/gMnQLYsZHZ2DGjexFWc1OY6NjX8.jpg",
+    "GENERO": "Animación",
+    "RATING": 7.0,
+    "DURACION": 32,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Como parte de la exposición \"It's a Rumic World\" en honor a Rumiko Takahashi, se proyectó un especial de treinta minutos sobre Ranma 1/2 del 30 de julio al 11 de agosto. Representa la primera animación del manga en más de 12 años y está basada en el capítulo »Nightmare! Incense of Spring Sleep« del volumen 34 del manga. El contenido incluye el intento de Happosai de poner a Ranma en un estado de sueño que dura toda la primavera usando un incienso especial. El único problema es que por un lado no es Ranma sino Akane quien inhala la mezcla de gases y por otro lado Happosai no ha leído las instrucciones de uso, lo que tiene consecuencias imprevistas.",
+    "ACTORES": "  • Kappei Yamaguchi (Ranma Saotome ♂ (voice))\n  • Megumi Hayashibara (Ranma Saotome ♀ (voice))\n  • Noriko Hidaka (Akane Tendo (voice))",
+    "DIRECTOR": "Takeshi Mori",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/16015205403160"
+    ]
+  },
+  {
+    "CATEGORIA": "RANMA_OVAS",
+    "TMDB_ID": 1670509,
+    "ID_OKRU": "16015205665304",
+    "TITULO": "Ranma ½: Creciendo con Miss Hinako",
+    "FECHA": "1994-01-01",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/wVpknH6cgjvyUgWpwEmyh2zBEPX.jpg",
+    "BACKDROP": "",
+    "GENERO": "Animación, Comedia",
+    "RATING": 0.0,
+    "DURACION": 25,
+    "FRASE_PROMOCIONAL": "Ranma ½: Creciendo con Miss Hinako",
+    "SINOPSIS": "Cuarta OVA de Ranma ½. Hinako Ninomiya, la nueva y aniñada profesora del Instituto Furinkan, posee una técnica mediante la cual puede absorber el aura de los estudiantes conflictivos y de los delincuentes. Esto la hace convertirse en una atractiva mujer además de proporcionarle una gran fuerza. Por supuesto, Ranma desea aprender esa técnica...",
+    "ACTORES": "",
+    "DIRECTOR": "N/A",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/16015205665304"
+    ]
   }
 ]
