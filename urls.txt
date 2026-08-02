@@ -358,5 +358,25 @@
     "URLS_OKRU": [
       "https://ok.ru/video/16015205730840"
     ]
+  },
+  {
+    "CATEGORIA": "RANMA_OVAS",
+    "TMDB_ID": 1669725,
+    "ID_OKRU": "16015205468696",
+    "TITULO": "Ranma ½: El Ogro Demoníaco",
+    "FECHA": "1995-01-01",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/jByNKf66IDRbyMiajB3DpJnw3Mv.jpg",
+    "BACKDROP": "",
+    "GENERO": "",
+    "RATING": 0.0,
+    "DURACION": 30,
+    "FRASE_PROMOCIONAL": "Ranma ½: El Ogro Demoníaco",
+    "SINOPSIS": "Happo desata al demonio malvado sellado. El demonio que huyó está obsesionado con Kasumi, la hija mayor de los Tendoriya, y causa una gran confusión.",
+    "ACTORES": "",
+    "DIRECTOR": "N/A",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/16015205468696"
+    ]
   }
 ]
