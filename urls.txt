@@ -498,5 +498,25 @@
     "URLS_OKRU": [
       "https://ok.ru/video/16014161414680"
     ]
+  },
+  {
+    "CATEGORIA": "RANMA_OVAS",
+    "TMDB_ID": 1669510,
+    "ID_OKRU": "16013411617304",
+    "TITULO": "Ranma ½: La maldición de la doble joya",
+    "FECHA": "1993-10-21",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/osHAnrTChM2KXmcc2OVCiOGaCtU.jpg",
+    "BACKDROP": "",
+    "GENERO": "Animación, Comedia",
+    "RATING": 9.0,
+    "DURACION": 29,
+    "FRASE_PROMOCIONAL": "Ranma ½: La maldición de la doble joya",
+    "SINOPSIS": "Primer OVA de Ranma ½.. Shampoo encuentra un broche con una particularidad: si lo usa hacia arriba, hace que su poseedor odie a la persona a la que ama y si lo usa hacia abajo, su poseedor hace que toda la vergüenza se convierta en amor.",
+    "ACTORES": "",
+    "DIRECTOR": "Junji Nishimura",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/16013411617304"
+    ]
   }
 ]
