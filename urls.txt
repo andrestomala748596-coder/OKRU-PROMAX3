@@ -338,5 +338,25 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6252344904195"
     ]
+  },
+  {
+    "CATEGORIA": "RANMA_OVAS",
+    "TMDB_ID": 1670537,
+    "ID_OKRU": "16015205730840",
+    "TITULO": "Ranma ½: Akane y sus hermanas",
+    "FECHA": "1994-01-01",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/dMtdMD1OPO76ByM9NrV6HR4WzCg.jpg",
+    "BACKDROP": "",
+    "GENERO": "Animación, Comedia",
+    "RATING": 0.0,
+    "DURACION": 53,
+    "FRASE_PROMOCIONAL": "Ranma ½: Akane y sus hermanas",
+    "SINOPSIS": "Natsume y Kurumi, dos hermanas que se dedican a robar comida por falta de dinero, son acogidas en el dojo Tendo durante unos días ya que llevan tiempo viviendo en la calle en busca de su padre.",
+    "ACTORES": "",
+    "DIRECTOR": "N/A",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/16015205730840"
+    ]
   }
 ]
