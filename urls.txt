@@ -39,5 +39,45 @@
       "https://ok.ru/video/12356596992750",
       "https://ok.ru/video/12257566984942"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 62177,
+    "ID_OKRU": "10025084259054",
+    "TITULO": "Indomable",
+    "FECHA": "2012-06-21",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/eVt6IKkzKqNs80TX0JVan6sjH5Z.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/qx9ts2hBYJrkIQxhryitxnLlm2u.jpg",
+    "GENERO": "Aventura, Animación, Familia, Fantasía",
+    "RATING": 7.033,
+    "DURACION": 100,
+    "FRASE_PROMOCIONAL": "Cambia tu destino.",
+    "SINOPSIS": "Mérida, la indómita hija del Rey Fergus y de la Reina Elinor, es una hábil arquera que decide romper con una antigua costumbre, que es sagrada para los señores de la tierra: el gigantesco Lord MacGuffin, el malhumorado Lord Macintosh y el cascarrabias Lord Dingwall. Las acciones de Merida desencadenan el caos y la furia en el reino. Además, pide ayuda a una sabia anciana que le concede un deseo muy desafortunado. La muchacha tendrá que afrontar grandes peligros antes de aprender qué es la auténtica valentía.",
+    "ACTORES": "  • Kelly Macdonald (Merida (voice))\n  • Emma Thompson (Elinor (voice))\n  • Billy Connolly (Fergus (voice))\n  • Julie Walters (The Witch (voice))\n  • Robbie Coltrane (Lord Dingwall (voice))",
+    "DIRECTOR": "Brenda Chapman",
+    "TRAILER": "https://youtube.com/watch?v=0gc36idTb3c",
+    "URLS_OKRU": [
+      "https://ok.ru/video/10025084259054"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 22643,
+    "ID_OKRU": "14070562818798",
+    "TITULO": "El club de los villanos",
+    "FECHA": "2002-09-03",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/wK49KfZsVgyEKeFtIJUMWpFhBR4.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/e40eTcwQuYtQBUUgmAsJJ6v81MN.jpg",
+    "GENERO": "Familia, Animación, Comedia, Fantasía",
+    "RATING": 7.303,
+    "DURACION": 75,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "El encuentro más esperado de la historia se produce cuando Mickey invita a los más malvados villanos de Disney a una fiesta en su club \"House of Mouse\" en la noche de Halloween, para mostrarles divertidísimas historias de miedo. Pero Jafar prepara un malvado plan: con la ayuda de Cruella, Hades, Úrsula, Garfio, Maléfica y el resto de los villanos de Disney, intentará convertir el club de Mickey en el \"Club de los Villanos\". ¿Podrán Jafar y el resto de los villanos quedarse con el \"House of Mouse\"? ¿Se lo impedirán Mickey, Minnie, Pluto y Goofy?.",
+    "ACTORES": "  • Wayne Allwine (Mickey Mouse (voice))\n  • Tony Anselmo (Donald Duck/Huey/Dewey/Louie (voice))\n  • Jeff Bennett (Salesman (\"Mickey's Mechanical House\") (Archive Audio) (voice))\n  • Susanne Blakeslee (Cruella De Vil (voice))\n  • Corey Burton (Captain Hook/Chernabog/Narrator/Chief O'Hara (voice))",
+    "DIRECTOR": "Jamie Mitchell",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/14070562818798"
+    ]
   }
 ]
