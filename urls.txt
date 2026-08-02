@@ -138,5 +138,125 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9494704491131"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 543583,
+    "ID_OKRU": "9489019439739",
+    "TITULO": "La Cenicienta y el príncipe secreto",
+    "FECHA": "2018-09-30",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/dwOn22Gjlh7Tvzg03LJbpB1jPee.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/i93UV4ECaLUWaLRRjcTf77x5rbr.jpg",
+    "GENERO": "Animación, Aventura, Familia, Fantasía",
+    "RATING": 6.5,
+    "DURACION": 90,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Cenicienta y sus amigos ratones están en el multitudinario baile Royal. Durante la fiesta, ella descubre que el príncipe que está allí es falso y que el verdadero fue transformado en ratón por una malvada bruja. Ahora, Cinderella precisa ayudar al príncipe a vencer esa fuerza del mal y que el príncipe vuelva a ser él mismo.",
+    "ACTORES": "  • Cassandra Lee Morris (Ella (voice))\n  • Stephen Mendel (Olaf (voice))\n  • R. Martin Klein (Manny (voice))\n  • Stephanie Sanditz (Wicked Witch / Stepmother (voice))\n  • Terrence Stone (Eagle (voice))",
+    "DIRECTOR": "Lynne Southerland",
+    "TRAILER": "https://youtube.com/watch?v=hc_sTi1wu-8",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9489019439739"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 10865,
+    "ID_OKRU": "8854633712251",
+    "TITULO": "Atlantis: El imperio perdido",
+    "FECHA": "2001-06-02",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/uR7AKWMDTwyAub5r4QoPPiJImvx.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/4eTiLRTYwAVQyQAjuFuf3BXAony.jpg",
+    "GENERO": "Animación, Familia, Aventura, Ciencia ficción",
+    "RATING": 7.047,
+    "DURACION": 95,
+    "FRASE_PROMOCIONAL": "Atlantis está esperando...",
+    "SINOPSIS": "Un joven aventurero llamado Milo encuentra un antiguo diario que contiene pistas de cómo llegar a Atlantis, el mítico reino hundido. Junto a otros intrépidos personajes Milo decide embarcarse en el Ulises, un impresionante submarino, en una arriesgada expedición al fondo del mar.",
+    "ACTORES": "  • Michael J. Fox (Milo James Thatch (voice))\n  • Cree Summer (Princess 'Kida' Kidagakash (voice))\n  • James Garner (Commander Lyle Tiberius Rourke (voice))\n  • Claudia Christian (Helga Katrina Sinclair (voice))\n  • Corey Burton (Gaetan 'The Mole' Moliere (voice))",
+    "DIRECTOR": "Gary Trousdale",
+    "TRAILER": "https://youtube.com/watch?v=r39ys9K3LgA",
+    "URLS_OKRU": [
+      "https://ok.ru/video/8854633712251"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 9016,
+    "ID_OKRU": "8810199779963",
+    "TITULO": "El planeta del tesoro",
+    "FECHA": "2002-11-26",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/cwwRIK1V1R6QQKromGi0OaJLD8l.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/f2opsSUSiMdEp6AiY2sbC8QPd8S.jpg",
+    "GENERO": "Ciencia ficción, Aventura, Animación, Familia, Fantasía",
+    "RATING": 7.576,
+    "DURACION": 95,
+    "FRASE_PROMOCIONAL": "Encuentra tu lugar en el Universo",
+    "SINOPSIS": "Jim, un surfista solar, se enfrenta a una cacería intergaláctica de tesoros cuando cae en sus manos un legendario mapa que le llevará a buscar la fortuna más grande del Universo. A bordo de un espectacular 'galeón solar', Jim se convierte en el ayudante del cocinero del barco, John Silver -mitad hombre, mitad máquina-, que le enseña a ser un buen explorador del espacio.",
+    "ACTORES": "  • Joseph Gordon-Levitt (Jim Hawkins (voice))\n  • Brian Murray (John Silver (voice))\n  • Emma Thompson (Captain Amelia (voice))\n  • David Hyde Pierce (Doctor Doppler (voice))\n  • Martin Short (B.E.N. (voice))",
+    "DIRECTOR": "Ron Clements",
+    "TRAILER": "https://youtube.com/watch?v=G4uMQMMdFeg",
+    "URLS_OKRU": [
+      "https://ok.ru/video/8810199779963"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 355338,
+    "ID_OKRU": "8789493418619",
+    "TITULO": "¿La primera cita de Riley?",
+    "FECHA": "2015-11-03",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/tYId7ILR86oAr00LoJ5WWbxdzhM.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/q2haCPQUzeMlRlX0wKJgddMbE0o.jpg",
+    "GENERO": "Animación, Familia",
+    "RATING": 7.192,
+    "DURACION": 6,
+    "FRASE_PROMOCIONAL": "Un Corto de Josh Cooley",
+    "SINOPSIS": "Riley, que ahora tiene doce años, está pasando el rato con sus padres en casa, en San Francisco, cuando se presenta un problema. ¿Podrán papá y mamá gestionar las emociones que siente Riley por su primera cita?",
+    "ACTORES": "  • Kaitlyn Dias (Riley (voice))\n  • Ben Cox (Jordan (voice))\n  • Kyle MacLachlan (Dad (voice))\n  • Diane Lane (Mom (voice))\n  • Pete Docter (Dad's Anger (voice))",
+    "DIRECTOR": "Josh Cooley",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/8789493418619"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 50321,
+    "ID_OKRU": "8702908959355",
+    "TITULO": "Marte necesita madres",
+    "FECHA": "2011-03-09",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/xbUoWCdb3v0bAak7XQTc1dmTXtM.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/sU9wVEAgWPXPULYQMctd0T5MCdI.jpg",
+    "GENERO": "Aventura, Animación, Familia",
+    "RATING": 5.982,
+    "DURACION": 88,
+    "FRASE_PROMOCIONAL": "Operación Rescate",
+    "SINOPSIS": "Un niño, fanático del legendario grupo musical Kiss, es muy desobediente con su madre, pero una noche, un grupo de marcianos la secuestran y se la llevan a Marte. El niño tendrá que embarcarse en la aventura de su búsqueda para así poder rescatar a su madre.",
+    "ACTORES": "  • Seth Green (Milo (performance capture))\n  • Seth Robert Dusky (Milo (voice) (as Seth Dusky))\n  • Joan Cusack (Mom (voice))\n  • Dan Fogler (Gribble (voice))\n  • Breckin Meyer (Alien (voice))",
+    "DIRECTOR": "Simon Wells",
+    "TRAILER": "https://youtube.com/watch?v=h0aVp3xCexg",
+    "URLS_OKRU": [
+      "https://ok.ru/video/8702908959355"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 9444,
+    "ID_OKRU": "8605591014011",
+    "TITULO": "Anastasia",
+    "FECHA": "1997-11-20",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/bppGWGA8zq1sRvTdDJnUzVW9GcH.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/h6VshReCGaGQoaGZwT2wqiqrcZW.jpg",
+    "GENERO": "Animación, Familia, Fantasía, Aventura",
+    "RATING": 7.606,
+    "DURACION": 94,
+    "FRASE_PROMOCIONAL": "Descubre la aventura detrás del mayor misterio de nuestro tiempo.",
+    "SINOPSIS": "Cuando la sombra de la revolución se cierne sobre Rusia, Anastasia, la hija más joven de la familia real, apenas consigue escapar con vida. Años despúes conoce al joven Dimitri. Cuando se dirigen a París para reclamar los derechos del legado de Anastasia, se verán envueltos en una cruenta lucha contra el malvado monje Rasputín y su sicario, el murciélago Bartok.",
+    "ACTORES": "  • Meg Ryan (Anastasia (voice))\n  • John Cusack (Dimitri (voice))\n  • Kelsey Grammer (Vladimir (voice))\n  • Christopher Lloyd (Rasputin (voice))\n  • Hank Azaria (Bartok (voice))",
+    "DIRECTOR": "Don Bluth",
+    "TRAILER": "https://youtube.com/watch?v=NFVpoI_Qjq8",
+    "URLS_OKRU": [
+      "https://ok.ru/video/8605591014011"
+    ]
   }
 ]
