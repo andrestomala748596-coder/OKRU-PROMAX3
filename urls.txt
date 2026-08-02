@@ -342,7 +342,7 @@
   {
     "CATEGORIA": "RANMA_OVAS",
     "TMDB_ID": 1670537,
-    "ID_OKRU": "16013984205336",
+    "ID_OKRU": "16013984270872",
     "TITULO": "Ranma ½: Akane y sus hermanas",
     "FECHA": "1994-01-01",
     "PORTADA": "https://image.tmdb.org/t/p/w500/dMtdMD1OPO76ByM9NrV6HR4WzCg.jpg",
@@ -356,7 +356,8 @@
     "DIRECTOR": "N/A",
     "TRAILER": "No disponible",
     "URLS_OKRU": [
-      "https://ok.ru/video/16013984205336"
+      "https://ok.ru/video/16013984270872",
+      "https://ok.ru/video/16013984270872"
     ]
   },
   {
