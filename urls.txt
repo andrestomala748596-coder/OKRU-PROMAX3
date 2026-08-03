@@ -1281,5 +1281,105 @@
     "URLS_OKRU": [
       "https://ok.ru/video/1424139881093"
     ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 280507,
+    "ID_OKRU": "1718520318593",
+    "TITULO": "El nacimiento de Doraemon",
+    "FECHA": "1995-03-04",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/6II4Mf9Bgzqr6G4i6WKrN0OBhJm.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/i6qwflCtcoxxCqsfxj4QNapcUna.jpg",
+    "GENERO": "Familia, Animación",
+    "RATING": 8.081,
+    "DURACION": 30,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Película que narra el origen de Doraemon, el gato-robot que fue creado el 3 de septiembre de 2112 y que fue enviado al siglo XX.",
+    "ACTORES": "  • 大山のぶ代 (Doraemon (voice))\n  • 横山智佐 (Yellow Doraemon (voice))\n  • Keiko Yokozawa (Dorami (voice))\n  • 太田淑子 (Sewashi Nobi (voice))\n  • Yuko Minaguchi (Noramyaako (voice))",
+    "DIRECTOR": "Yoshitomo Yonetani",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/1718520318593"
+    ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 326906,
+    "ID_OKRU": "16108614126104",
+    "TITULO": "Dorami y Los Doraemons: El Parque de Atracciones Galáctico",
+    "FECHA": "2001-03-09",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/yL34HPtpSl7PmvbCPQUzwJJR5Cd.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/vWdTzwum5se3iWSdAAbo61xM13w.jpg",
+    "GENERO": "Animación",
+    "RATING": 8.0,
+    "DURACION": 15,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "",
+    "ACTORES": "",
+    "DIRECTOR": "Hiroshi Nishikiori",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/16108614126104"
+    ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 139274,
+    "ID_OKRU": "16108592761368",
+    "TITULO": "Los Doraemons: La Gran Misión de los Insectos",
+    "FECHA": "1998-03-07",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/1ABrJDkBW8S8qgrlQc0Gso3Ju9l.jpg",
+    "BACKDROP": "",
+    "GENERO": "Animación",
+    "RATING": 7.9,
+    "DURACION": 16,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "",
+    "ACTORES": "",
+    "DIRECTOR": "Yoshitomo Yonetani",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/16108592761368"
+    ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 326919,
+    "ID_OKRU": "16108629854744",
+    "TITULO": "Los Doraemons: El Reino del Dulce Feliz",
+    "FECHA": "1999-03-06",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/ZWnsEYMBncY86b8Sacj8JnDTkP.jpg",
+    "BACKDROP": "",
+    "GENERO": "Animación",
+    "RATING": 5.3,
+    "DURACION": 16,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "",
+    "ACTORES": "  • 大山のぶ代 ()\n  • Rei Sakuma ()\n  • 一龍斎貞友 ()\n  • Megumi Hayashibara ()\n  • Koichi Yamadera ()",
+    "DIRECTOR": "Yoshitomo Yonetani",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/16108629854744"
+    ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 326925,
+    "ID_OKRU": "16108642372120",
+    "TITULO": "Los Doraemons: Gol! Gol! Gol!",
+    "FECHA": "2002-03-09",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/3XhRS5tL4w6yGkIXEowEGZK6vvo.jpg",
+    "BACKDROP": "",
+    "GENERO": "Animación",
+    "RATING": 9.3,
+    "DURACION": 7,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "",
+    "ACTORES": "",
+    "DIRECTOR": "やすみ哲夫",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/16108642372120"
+    ]
   }
 ]
