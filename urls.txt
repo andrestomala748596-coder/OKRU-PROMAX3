@@ -559,5 +559,25 @@
     "URLS_OKRU": [
       "https://ok.ru/video/16015205665304"
     ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 160642,
+    "ID_OKRU": "7360274958909",
+    "TITULO": "Doraemon en busca del escarabajo dorado",
+    "FECHA": "2012-03-03",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/3EqSZnjgzGCroTPDD3cDAiUEsZC.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/jxIcuIIHEGeT9RZ1zE9UBI3WzxS.jpg",
+    "GENERO": "Familia, Animación, Aventura, Fantasía, Comedia, Ciencia ficción",
+    "RATING": 6.838,
+    "DURACION": 100,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Nobita está obsesionado con conseguir un insecto que pueda rivalizar con el escarabajo de Gigante y pide ayuda a Doraemon para encontrar a mítico escarabajo extinto hace muchos años. En el primer intento no lo encuentran, pero se traen a un pájaro moa con ellos. Para evitar que se extinga, lo mandan a la isla Belegamond, un lugar donde viven especies animales extintas. Secuela de \"Doraemon y el pequeño dinosaurio\" (2006).",
+    "ACTORES": "  • Wasabi Mizuta (Doraemon (voice))\n  • 大原めぐみ (Nobita (voice))\n  • かかずゆみ (Shizuka (voice))\n  • Subaru Kimura (Gian (voice))\n  • Tomokazu Seki (Suneo (voice))",
+    "DIRECTOR": "Kōzō Kusuba",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7360274958909"
+    ]
   }
 ]
