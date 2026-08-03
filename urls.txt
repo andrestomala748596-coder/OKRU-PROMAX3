@@ -3341,5 +3341,325 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10025626897134"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 16187,
+    "ID_OKRU": "10777945049610",
+    "TITULO": "Buzz Lightyear: La película",
+    "FECHA": "2000-08-08",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/tgI2qNyRGmJJIlx3mAlK5xQr4F5.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/2r6tLi4p21dqVmOP5Lwge4hcDAU.jpg",
+    "GENERO": "Acción, Aventura, Animación, Comedia, Familia, Ciencia ficción, Película de TV",
+    "RATING": 6.4,
+    "DURACION": 70,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Tras descubrir los orígenes de Woody en En Toy Story 2 , ahora en Buzz Lightyear: La Película se muestra descubrir cómo Buzz se convirtió en Guardián del Espacio, el auténtico Buzz Lightyear que tendrá que vérselas con el malvado Emperador Zurg, en una lucha intergaláctica para salvar el Universo. Buzz no está sólo, le acompañan nuevos personajes y los gracioso Hombrecillos Verdes.",
+    "ACTORES": "  • Tim Allen (Buzz Lightyear (voice))\n  • Nicole Sullivan (Mira Nova (voice))\n  • Stephen Furst (Booster Muchapper (voice))\n  • Larry Miller (XR (voice))\n  • Adam Carolla (Commander Nebula (voice))",
+    "DIRECTOR": "Tad Stones",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/10777945049610"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 301528,
+    "ID_OKRU": "4199574604393",
+    "TITULO": "Toy Story 4",
+    "FECHA": "2019-06-19",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/yF1vPDuHVrAUMX5dy1tVMbAjkEL.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+    "GENERO": "Familia, Comedia, Animación, Aventura",
+    "RATING": 7.464,
+    "DURACION": 90,
+    "FRASE_PROMOCIONAL": "La aventura de toda una vida.",
+    "SINOPSIS": "Woody siempre ha tenido claro cuál es su labor en el mundo y cuál es su prioridad: cuidar a su dueño, ya sea Andy o Bonnie. Sin embargo, Woody descubrirá lo grande que puede ser el mundo para un juguete cuando Forky se convierta en su nuevo compañero de habitación. Los juguetes se embarcarán en una aventura de la que no se olvidarán jamás.",
+    "ACTORES": "  • Tom Hanks (Woody (voice))\n  • Tim Allen (Buzz Lightyear (voice))\n  • Annie Potts (Bo Peep (voice))\n  • Tony Hale (Forky (voice))\n  • Keegan-Michael Key (Ducky (voice))",
+    "DIRECTOR": "Josh Cooley",
+    "TRAILER": "https://youtube.com/watch?v=hnl5hQaMpks",
+    "URLS_OKRU": [
+      "https://ok.ru/video/4199574604393"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 13205,
+    "ID_OKRU": "5111799155305",
+    "TITULO": "Bambi II",
+    "FECHA": "2006-01-26",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/7eiCAHrEAFvfkUKsKOaFEbSabi1.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/tyKOUk8qVvwCtfMD2eKRNiiEhcM.jpg",
+    "GENERO": "Animación, Drama, Familia",
+    "RATING": 6.541,
+    "DURACION": 72,
+    "FRASE_PROMOCIONAL": "El príncipe del bosque.",
+    "SINOPSIS": "Bambi se reúne con su padre, quien deberá educar al joven cervatillo. El poder de los lazos familiares y de la amistad se funden en esta historia actualizada que tu familia disfrutará una y otra vez.",
+    "ACTORES": "  • Alexander Gould (Bambi (voice))\n  • Patrick Stewart (The Great Prince (voice))\n  • Brendon Baerg (Thumper (voice))\n  • Nicky Jones (Flower (voice))\n  • Andrea Bowen (Faline (voice))",
+    "DIRECTOR": "Brian Pimental",
+    "TRAILER": "https://youtube.com/watch?v=y0BcpQhjVDI",
+    "URLS_OKRU": [
+      "https://ok.ru/video/5111799155305"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 75258,
+    "ID_OKRU": "5111228074601",
+    "TITULO": "Campanilla: El secreto de las hadas",
+    "FECHA": "2012-08-17",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/soPOZlksVHcumHnhyRlI3XtAVyx.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/2AeE4Op9qjDSXe8GbfCtlbHFxhL.jpg",
+    "GENERO": "Animación, Familia, Fantasía, Aventura",
+    "RATING": 7.26,
+    "DURACION": 80,
+    "FRASE_PROMOCIONAL": "Dos mundos. Un secreto mágico.",
+    "SINOPSIS": "Para Campanilla y el resto de las hadas de la temporada cálida, el Bosque del Invierno sigue siendo un lugar misterioso y prohibido. Con \"Campanilla: El Secreto de las Hadas\", el público acompañará a Campanilla en un increíble viaje a ese mundo prohibido donde descubrirá un secreto mágico que cambiará su vida para siempre.",
+    "ACTORES": "  • Mae Whitman (Tinker Bell (voice))\n  • Lucy Hale (Periwinkle (voice))\n  • Timothy Dalton (Lord Milori (voice))\n  • Jeff Bennett (Dewey / Clank (voice))\n  • Lucy Liu (Silvermist (voice))",
+    "DIRECTOR": "Peggy Holmes",
+    "TRAILER": "https://youtube.com/watch?v=R1qipkUARrw",
+    "URLS_OKRU": [
+      "https://ok.ru/video/5111228074601"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 25475,
+    "ID_OKRU": "5111154674281",
+    "TITULO": "Campanilla y el tesoro perdido",
+    "FECHA": "2009-09-03",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/s5ggvZQMXhP3O2dQD8iQE46K6b6.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/76BYV87P0RsgMGCd9DwqcYqyXVS.jpg",
+    "GENERO": "Animación, Familia, Aventura, Fantasía",
+    "RATING": 6.839,
+    "DURACION": 77,
+    "FRASE_PROMOCIONAL": "Aventura más allá de la hondonada.",
+    "SINOPSIS": "Las fiestas de este otoño prometen ser especiales. Habrá luna azul, lo que permitirá que las hadas utilicen una preciosa piedra lunar para rejuvenecer el árbol de polvo de estrellas, la fuente de toda su magia. Pero cuando su amiga Terence le ofrece su ayuda, su temperamento hace que deba ir a la ciudad de las hadas para arreglar las cosas, donde descubre el tesoro más grande de todos.",
+    "ACTORES": "  • Mae Whitman (Tinker Bell (voice))\n  • Jesse McCartney (Terence (voice))\n  • Jane Horrocks (Fairy Mary (voice))\n  • Lucy Liu (Silvermist (voice))\n  • Raven-Symoné (Iridessa (voice))",
+    "DIRECTOR": "Klay Hall",
+    "TRAILER": "https://youtube.com/watch?v=Hgu_vw7eLas",
+    "URLS_OKRU": [
+      "https://ok.ru/video/5111154674281"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 13179,
+    "ID_OKRU": "5110948760169",
+    "TITULO": "Campanilla",
+    "FECHA": "2008-09-11",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/1pUkm0XAVVD2CrTF4YdGOVfXjTY.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/maeox8nZYIxAAE4SdyLA0VOXe1x.jpg",
+    "GENERO": "Animación, Familia, Aventura, Fantasía",
+    "RATING": 6.935,
+    "DURACION": 78,
+    "FRASE_PROMOCIONAL": "Entra en el mundo de las hadas.",
+    "SINOPSIS": "Campanilla, nacida en el mundo fantástico de la Hondonada de las Hadas, descubre que su talento es tintinear. Cuando las hadas se preparan para traer la primavera al mundo, Campanilla piensa que su talento no es igual de útil, especial o importante que el del resto, y por eso no puede ir a Tierra firme. Por ello, Campanilla suplica a sus amigas hadas Rosetta, Silvermist, Fawn e Iridessa que le enseñen sus talentos y así poder acompañarlas en sus viajes.",
+    "ACTORES": "  • Mae Whitman (Tinker Bell (voice))\n  • Kristin Chenoweth (Rosetta (voice))\n  • Raven-Symoné (Iridessa (voice))\n  • Lucy Liu (Silvermist (voice))\n  • America Ferrera (Fawn (voice))",
+    "DIRECTOR": "Bradley Raymond",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/5110948760169"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 175112,
+    "ID_OKRU": "5110819523177",
+    "TITULO": "Campanilla: Hadas y piratas",
+    "FECHA": "2014-02-13",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/7Jrap24Ki03bC39hbfyebw3xDul.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/vcLpxfpfKCKGiTlUx83CzKxRDT2.jpg",
+    "GENERO": "Animación, Familia",
+    "RATING": 6.957,
+    "DURACION": 78,
+    "FRASE_PROMOCIONAL": "Desde el mundo de Peter Pan.",
+    "SINOPSIS": "Zarina, una incomprendida hada guardiana del polvo de hada, roba el importantísimo Polvo de Hada Azul de la Hondonada de las Hadas, y se escapa para unirse a los piratas de la Roca Calavera. Así que Campanilla y sus amigas las hadas emprenden la aventura de su vida para recuperarlo. Pero mientras persiguen a Zarina, el mundo de Campanilla se convierte en un caos. Ella y sus amigas se dan cuenta de que sus talentos respectivos están cambiados y tienen que emprender una carrera a contrarreloj para recuperar el Polvo de Hada Azul para salvar la Hondonada de las Hadas.",
+    "ACTORES": "  • Mae Whitman (Tinker Bell (voice))\n  • Christina Hendricks (Zarina (voice))\n  • Tom Hiddleston (James (voice))\n  • Lucy Liu (Silvermist (voice))\n  • Raven-Symoné (Iridessa (voice))",
+    "DIRECTOR": "Peggy Holmes",
+    "TRAILER": "https://youtube.com/watch?v=iWCo4yiblNc",
+    "URLS_OKRU": [
+      "https://ok.ru/video/5110819523177"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 864390,
+    "ID_OKRU": "4252164819561",
+    "TITULO": "Mickey y Minnie y el deseo de Navidad",
+    "FECHA": "2021-12-02",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/5mNwP4NsJisqLKbKVlil3OaZNQI.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/8fW0wqB3a6dvIoIBduCKocZi58a.jpg",
+    "GENERO": "Animación, Película de TV, Comedia, Familia",
+    "RATING": 6.997,
+    "DURACION": 47,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Después de una serie de contratiempos, Mickey, Minnie y la pandilla se separan en todo el mundo y deben intentar regresar a Hot Dog Hills para la víspera de Navidad. Un misterioso y alegre extraño aparece para contarles sobre The Wishing Star, que podría ser el secreto para llevar a todos a casa a tiempo para celebrar juntos.",
+    "ACTORES": "  • Bret Iwan (Mickey (voice))\n  • Kaitlyn Robrock (Minnie / Jenny / Additional Voices (voice))\n  • Bill Farmer (Goofy / Additional Voices (voice))\n  • Daniel Ross (Donald / Additional Voices (voice))\n  • Tress MacNeille (Daisy (voice))",
+    "DIRECTOR": "Broni Likomanov",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/4252164819561"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 426543,
+    "ID_OKRU": "4251824360041",
+    "TITULO": "El cascanueces y los cuatro reinos",
+    "FECHA": "2018-10-26",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/eYDNJvFvjgVIklbf76St7ldnsaX.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/l2ji4YiNSPBV69WjGBgU0gCvRqy.jpg",
+    "GENERO": "Familia, Fantasía, Aventura",
+    "RATING": 6.082,
+    "DURACION": 105,
+    "FRASE_PROMOCIONAL": "El misterio será revelado.",
+    "SINOPSIS": "Todo lo que Clara (Mackenzie Foy) quiere es una llave. Durante una fascinante fiesta de Navidad en la que todos reciben sus regalos, su padrino Drosselmeyer (Morgan Freeman) conducirá a la joven hacia esta llave única, que desaparece rápidamente en un extraño y misterioso mundo paralelo. Allí, Clara conocerá a un soldado llamado Phillip (Jayden Fowora-Knight), una pandilla de ratones y a los gobernantes que presiden los tres Reinos: El Reino de las Nieves, el Reino de las Flores, y el Reino de los Dulces. Pero existe un cuarto Reino, el hogar de la tirana Mamá Jengibre (Helen Mirren). Allí comenzaron todos los problemas de estos Reinos de fantasía, cuando Mamá Jengibre inició la guerra reuniendo a sus tropas. En un lugar donde nada es lo que parece, Clara será la única que pueda detener los planes de esta tirana.",
+    "ACTORES": "  • Mackenzie Foy (Clara Stahlbaum)\n  • Jayden Fowora-Knight (Captain Phillip Hoffman)\n  • Tom Sweet (Fritz Stahlbaum)\n  • Keira Knightley (Sugar Plum Fairy)\n  • Helen Mirren (Mother Ginger)",
+    "DIRECTOR": "Lasse Hallström",
+    "TRAILER": "https://youtube.com/watch?v=65jEdJHko-M",
+    "URLS_OKRU": [
+      "https://ok.ru/video/4251824360041"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 38322,
+    "ID_OKRU": "4215799876201",
+    "TITULO": "Esta abuela es mi padre",
+    "FECHA": "2011-02-16",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/4l00cZxGGAP8zWiMnE2gvV7lQHK.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/9pamTKugDIa1YQD8k280au3NVKd.jpg",
+    "GENERO": "Crimen, Comedia, Acción",
+    "RATING": 5.542,
+    "DURACION": 112,
+    "FRASE_PROMOCIONAL": "Mamá tiene refuerzos.",
+    "SINOPSIS": "Tercera entrega de la saga \"Esta abuela es un peligro\". Martin Lawrence regresa como el agente del FBI Malcolm Turner y como su alter ego Hattie Mae Pierce, \"La Gran Abuela\". Pero esta vez, lo acompañará su hijo Trent, testigo de un asesinato perpetrado por unos gángsteres rusos, lo que los obligará a camuflarse en una Escuela de Arte para chicas, donde tendrán que encontrar al asesino antes de que él los encuentre a ellos",
+    "ACTORES": "  • Martin Lawrence (Malcolm / Big Momma)\n  • Brandon T. Jackson (Trent / Charmaine)\n  • Jessica Lucas (Haley)\n  • Portia Doubleday (Jasmine Lee)\n  • Emily Rios (Isabelle)",
+    "DIRECTOR": "John Whitesell",
+    "TRAILER": "https://youtube.com/watch?v=Sqpz9D_Ri4s",
+    "URLS_OKRU": [
+      "https://ok.ru/video/4215799876201"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 12107,
+    "ID_OKRU": "4202679700073",
+    "TITULO": "El profesor chiflado II: La familia Klump",
+    "FECHA": "2000-07-27",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/64bD5w8wpscmykI9vFBYblWPMNJ.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/i3oT0v1KVDZEq8oOZdAAqy78Vub.jpg",
+    "GENERO": "Comedia, Ciencia ficción",
+    "RATING": 5.018,
+    "DURACION": 110,
+    "FRASE_PROMOCIONAL": "Los Klump han vuelto.",
+    "SINOPSIS": "El profesor Sherman Klump está a punto de casarse y toda la familia Klump no podría estar más feliz. Pero su alter-ego Buddy Love volverá para intentar hacer de las suyas. Utilizando una muestra de ADN obtenida del laboratorio de Denise, la prometida de Sherman, intentará independizarse de él creando un clon suyo.",
+    "ACTORES": "  • Eddie Murphy (Sherman Klump / Buddy Love / Granny Klump / Mama Klump / Papa Klump / Young Papa Klump / Ernie Klump / Lance Perkins)\n  • Janet Jackson (Denise)\n  • Larry Miller (Dean Richmond)\n  • John Ales (Jason)\n  • Richard Gant (Denise's Father)",
+    "DIRECTOR": "Peter Segal",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/4202679700073"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 9327,
+    "ID_OKRU": "4202548628073",
+    "TITULO": "El profesor chiflado",
+    "FECHA": "1996-06-28",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/A2EjualhbPbT5PoVNx6qOxTgUNl.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/gHFuLHxruielBcMEZx1WowxbRWS.jpg",
+    "GENERO": "Comedia, Ciencia ficción, Romance",
+    "RATING": 5.646,
+    "DURACION": 95,
+    "FRASE_PROMOCIONAL": "Dentro de Sherman Klump un auténtico juerguista está a punto de aflorar.",
+    "SINOPSIS": "El profesor Sherman Klump, con sobrepeso pero de buen corazón, toma una sustancia química especial que lo convierte en el delgado pero odioso Buddy Love.",
+    "ACTORES": "  • Eddie Murphy (Sherman Klump / Buddy Love / Lance Perkins / Papa Klump / Mama Klump / Grandma Klump / Ernie Klump)\n  • Jada Pinkett Smith (Carla Purty)\n  • James Coburn (Harlan Hartley)\n  • Larry Miller (Dean Richmond)\n  • Dave Chappelle (Reggie Warrington)",
+    "DIRECTOR": "Tom Shadyac",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/4202548628073"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 9072,
+    "ID_OKRU": "4199136758377",
+    "TITULO": "Pequeño pero matón",
+    "FECHA": "2006-08-31",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/k1R2gKOAIwOGpNRNBbRszTEAKYU.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/3sF2wc5SRQaBs0kC7Jhanz5NnbO.jpg",
+    "GENERO": "Comedia, Crimen",
+    "RATING": 5.947,
+    "DURACION": 98,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Tras salir de prisión, el enano criminal Calvin Sims se une a su hermano Percy, el imbécil, para robar un enorme y costoso diamante de una joyería para el mafioso Walken. La policía los persigue, y Calvin esconde la piedra en el bolso de la ejecutiva Vanessa Edwards, cuyo esposo, Darryl Edwards, desea tener un hijo. Percy convence a Calvin de que se vista como un bebé y lo dejen frente a la casa de los Edwards para entrar y recuperar el diamante. Darryl y Vanessa se quedan con Calvin durante el fin de semana y deciden adoptarlo, mientras Walken amenaza a Darryl para recuperar la piedra.",
+    "ACTORES": "  • Marlon Wayans (Calvin)\n  • Shawn Wayans (Darryl)\n  • Kerry Washington (Vanessa)\n  • John Witherspoon (Pops)\n  • Tracy Morgan (Percy)",
+    "DIRECTOR": "Keenen Ivory Wayans",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/4199136758377"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 213121,
+    "ID_OKRU": "4196908337769",
+    "TITULO": "Toy Story: ¡Terror!",
+    "FECHA": "2013-10-16",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/gKPCTXj1xllfTHWQ8op7sKCGpvW.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/hrjLiSuPPj4rPPn13Aj9sgAzw.jpg",
+    "GENERO": "Aventura, Animación, Comedia, Familia",
+    "RATING": 7.2,
+    "DURACION": 22,
+    "FRASE_PROMOCIONAL": "Ningún juguete se queda atrás.",
+    "SINOPSIS": "Lo que empieza siendo una divertida excursión para la pandilla da un giro inesperado a peor cuando el coche se desvía a un motel. Al desaparecer uno de los juguetes, los demás caen atrapados en una misteriosa secuencia de sucesos.",
+    "ACTORES": "  • Joan Cusack (Jessie (Voice))\n  • Carl Weathers (Combat Carl / Combat Carl Jr. (Voice))\n  • Tom Hanks (Woody (Voice))\n  • Tim Allen (Buzz Lightyear (Voice))\n  • Stephen Tobolowsky (Ron (voice))",
+    "DIRECTOR": "Angus MacLane",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/4196908337769"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 594530,
+    "ID_OKRU": "4196894640745",
+    "TITULO": "Las aventuras de Bo Peep",
+    "FECHA": "2020-01-31",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/kBIkCS3PQlHY86agofKY411jLM7.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/dRPCsvwgB1eyoBEtoGqulNhLd5C.jpg",
+    "GENERO": "Aventura, Animación, Comedia, Familia",
+    "RATING": 7.082,
+    "DURACION": 7,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Bo Peep tiene un gran regreso y finalmente contesta las preguntas sobre dónde ha estado desde la última vez que la vimos en 'Toy Story 2'.",
+    "ACTORES": "  • Annie Potts (Bo Peep (voice))\n  • Ally Maki (Giggles McDimples (voice))\n  • Jim Hanks (Woody (voice))\n  • Emily Davis (Billy, Goat and Gruff (voice))",
+    "DIRECTOR": "Valerie LaPointe",
+    "TRAILER": "https://youtube.com/watch?v=xXYLyPCoR9o",
+    "URLS_OKRU": [
+      "https://ok.ru/video/4196894640745"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 12153,
+    "ID_OKRU": "4195344845417",
+    "TITULO": "Dos rubias de pelo en pecho",
+    "FECHA": "2004-06-23",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/sgg5mR2Iz6QV4eWkqGrTgxOERaH.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/85k0kaoRgGmF6ACq0M61AFxhjLN.jpg",
+    "GENERO": "Comedia, Crimen",
+    "RATING": 6.959,
+    "DURACION": 109,
+    "FRASE_PROMOCIONAL": "Ellos van profundamente encubiertos.",
+    "SINOPSIS": "Dos ambiciosos -pero con poca fortuna- agentes del FBI (Shawn y Marlon Wayans) se hacen pasar por mujeres, novatas en la alta sociedad, en el exclusivo complejo Hamptons para investigar un círculo de secuestros. Pero mientras preparan su actuación en el mayor acontecimiento social del año se encuentran que irrumpir en la alta sociedad es mucho más duro de lo que parecía.",
+    "ACTORES": "  • Shawn Wayans (Kevin Copeland)\n  • Marlon Wayans (Marcus Copeland)\n  • Frankie Faison (Chief Elliott Gordon)\n  • Terry Crews (Latrell Spencer)\n  • Faune Chambers Watkins (Gina Copeland)",
+    "DIRECTOR": "Keenen Ivory Wayans",
+    "TRAILER": "https://youtube.com/watch?v=UxER50XHW-I",
+    "URLS_OKRU": [
+      "https://ok.ru/video/4195344845417"
+    ]
   }
 ]
