@@ -1381,5 +1381,45 @@
     "URLS_OKRU": [
       "https://ok.ru/video/16108642372120"
     ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 1148677,
+    "ID_OKRU": "10921938913875",
+    "TITULO": "映画ドラえもん のび太の地球交響楽",
+    "FECHA": "2024-03-01",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/lsVsHv1g18rnCC0GNoz6GnLDo54.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/Z3mSxuPRNiFYxf1LBoGz3YrJzC.jpg",
+    "GENERO": "Animación, Familia, Fantasía, Música, Aventura, Comedia, Ciencia ficción",
+    "RATING": 6.7,
+    "DURACION": 115,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "",
+    "ACTORES": "  • Wasabi Mizuta (Doraemon (voice))\n  • 大原めぐみ (Nobita (voice))\n  • かかずゆみ (Shizuka (voice))\n  • Subaru Kimura (Gian (voice))\n  • Tomokazu Seki (Suneo (voice))",
+    "DIRECTOR": "Kazuaki Imai",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/10921938913875"
+    ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 1030587,
+    "ID_OKRU": "10004698368521",
+    "TITULO": "Doraemon y la ciudad ideal en el cielo",
+    "FECHA": "2023-03-03",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/woC9c41JyNFYbSD0ds4oioRnNkz.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/zaAo7ytwAIaQZxIPBC4kfRSPlM0.jpg",
+    "GENERO": "Animación, Familia, Aventura, Ciencia ficción, Fantasía",
+    "RATING": 7.1,
+    "DURACION": 107,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "En una ciudad flotante donde todos viven felices, un lugar tan legendario como la Atlántida, Doraemon y Nobita se lanzan a una nueva aventura. Gracias a un invento sorprendente, viajarán a esa isla mítica en el cielo y descubrirán sus secretos entre emoción, fantasía y mucha imaginación.",
+    "ACTORES": "  • Wasabi Mizuta (Doraemon (voice))\n  • 大原めぐみ (Nobita (voice))\n  • かかずゆみ (Shizuka (voice))\n  • Subaru Kimura (Gian (voice))\n  • Tomokazu Seki (Suneo (voice))",
+    "DIRECTOR": "Takumi Doyama",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/10004698368521"
+    ]
   }
 ]
