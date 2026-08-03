@@ -1421,5 +1421,25 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10004698368521"
     ]
+  },
+  {
+    "CATEGORIA": "RANMA_OVAS",
+    "TMDB_ID": 1158496,
+    "ID_OKRU": "16108742642200",
+    "TITULO": "春爛漫狸祭",
+    "FECHA": "1948-06-29",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/7EoyDQCHRpZbhYig2GzfZTBHegN.jpg",
+    "BACKDROP": "",
+    "GENERO": "Música, Fantasía",
+    "RATING": 10.0,
+    "DURACION": 75,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "",
+    "ACTORES": "  • 喜多川千鶴 (Tanukichirô)\n  • Yoshiko Kusabue ()\n  • Matsuko Ashita (Yûzuki-hime)\n  • 暁テル子 (Todoro-hime)\n  • 笠置シヅ子 (Tarara-hime)",
+    "DIRECTOR": "木村恵吾",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/16108742642200"
+    ]
   }
 ]
