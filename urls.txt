@@ -2841,5 +2841,125 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2296948853414"
     ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 1273221,
+    "ID_OKRU": "16524006525536",
+    "TITULO": "Scary Movie",
+    "FECHA": "2026-06-03",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+    "GENERO": "Comedia",
+    "RATING": 6.505,
+    "DURACION": 96,
+    "FRASE_PROMOCIONAL": "Nada es sagrado. Ningún tópico sobrevive. Se cruzan todas las líneas.",
+    "SINOPSIS": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+    "ACTORES": "  • Marlon Wayans (Shorty / 'Joe' / 'Tiffany' / Count Brolock)\n  • Shawn Wayans (Ray)\n  • Anna Faris (Cindy)\n  • Regina Hall (Brenda)\n  • Olivia Rose Keegan (Sara)",
+    "DIRECTOR": "Michael Tiddes",
+    "TRAILER": "https://youtube.com/watch?v=kLZ7PGp7ZL0",
+    "URLS_OKRU": [
+      "https://ok.ru/video/16524006525536"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 4258,
+    "ID_OKRU": "4770663238179",
+    "TITULO": "Scary Movie 5",
+    "FECHA": "2013-04-11",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/XS0RXeHzDP0lLTcguppQptsI2Z.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/2eW8VlLXjUq4OKk8SYf5KTr91Kv.jpg",
+    "GENERO": "Comedia",
+    "RATING": 4.796,
+    "DURACION": 88,
+    "FRASE_PROMOCIONAL": "Se acerca el mal. Trae protección.",
+    "SINOPSIS": "Los felizmente casados Dan y Jody empiezan a observar algunos fenómenos extraños en su casa tras volver del hospital con su bebé, Aiden. Pero cuando el caos se apodera del trabajo de Jody como bailarina de ballet y de la carrera de Dan como investigador de monos, la pareja descubre que está siendo acosada por una presencia demoníaca. Juntos, con la ayuda de expertos cualificados y de numerosas cámaras, intentarán deshacerse del maléfico ser antes de que sea demasiado tarde.",
+    "ACTORES": "  • Ashley French (Jody Sanders)\n  • Simon Rex (Dan Sanders)\n  • Gracie Whitton (Kathy)\n  • Ava Kolker (Lily)\n  • Erica Ash (Kendra Brooks)",
+    "DIRECTOR": "Malcolm D. Lee",
+    "TRAILER": "https://youtube.com/watch?v=Vn1uwEiTfMM",
+    "URLS_OKRU": [
+      "https://ok.ru/video/4770663238179"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 4257,
+    "ID_OKRU": "7444106381913",
+    "TITULO": "Scary Movie 4",
+    "FECHA": "2006-04-12",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/4SMqo8Me8aCT4KAVLeG9pk8VYiN.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/pSNwe7G9bESwlCBVurlwRs7fMZU.jpg",
+    "GENERO": "Comedia",
+    "RATING": 5.495,
+    "DURACION": 89,
+    "FRASE_PROMOCIONAL": "El cuarto y último capítulo de la trilogía",
+    "SINOPSIS": "Una nueva entrega de la franquicia que parodia los últimos títulos del cine americano. Esta vez, la ingenua Cindy Campbell (Anna Faris) intenta hacer carrera en la atención sanitaria a domicilio, y encuentra trabajo con una horripilante anciana que vive en una horripilante casa embrujada por una presencia fantasmal. Si a esto le añades un vecino guapetón y la amenaza de unos alienígenas que quieren dominar la tierra... el pelo rubísimo de Cindy se erizará presa del miedo más electrizante. Nuestra valiente heroína vuelve a sumergirse en la acción más enloquecida en su intento de descifrar los extraños mensajes que le llegan del más allá. Pero eso no le impide seguir buscando el amor en los sitios más inusitados y de salvar el mundo de la destrucción masiva.",
+    "ACTORES": "  • Anna Faris (Cindy Campbell)\n  • Regina Hall (Brenda Meeks)\n  • Craig Bierko (Tom Ryan)\n  • Bill Pullman (Henry Hale)\n  • Anthony Anderson (Mahalik)",
+    "DIRECTOR": "David Zucker",
+    "TRAILER": "https://youtube.com/watch?v=X2UbAb61zG4",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7444106381913"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 4256,
+    "ID_OKRU": "8812865915536",
+    "TITULO": "Scary Movie 3",
+    "FECHA": "2003-10-24",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/7tMsPb5yEwmb4eHbXRAD6mURE5B.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/nF74HKjNe7X54XMcIc7ulK5InxR.jpg",
+    "GENERO": "Comedia",
+    "RATING": 5.981,
+    "DURACION": 85,
+    "FRASE_PROMOCIONAL": "No hay dos sin tres.",
+    "SINOPSIS": "Después de haberlo pasado fatal -eso siempre según se mire- en las dos anteriores entregas, Cindy Campbell (Anna Faris) está dispuesta a salir adelante. Ahora es una guapa periodista que se propone encontrar una historia con la que poder destacar en un mundo tan duro como el del periodismo televisivo, en el que predomina la basura. Pero en su búsqueda se encuentra con que la Tierra está siendo amenazada por varios casos teroríficos que ponen los pelos de punta a cualquiera.",
+    "ACTORES": "  • Anna Faris (Cindy)\n  • Regina Hall (Brenda Meeks)\n  • Simon Rex (George)\n  • Anthony Anderson (Mahalik)\n  • Charlie Sheen (Tom)",
+    "DIRECTOR": "David Zucker",
+    "TRAILER": "https://youtube.com/watch?v=ficqfF525vk",
+    "URLS_OKRU": [
+      "https://ok.ru/video/8812865915536"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 4248,
+    "ID_OKRU": "8815346649744",
+    "TITULO": "Scary Movie 2",
+    "FECHA": "2001-07-04",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/r4qTydYjntbb5TfZKV229NpSaCt.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/cjSB3ZjaMpaa9oHFyeYha3KG0mp.jpg",
+    "GENERO": "Comedia",
+    "RATING": 5.845,
+    "DURACION": 82,
+    "FRASE_PROMOCIONAL": "...y continúa la secuela más mortalmente divertida.",
+    "SINOPSIS": "En esta ocasión los hermanos Wayans empiezan la historia con una satírica parodia de El Exorcista, mostrando a James Woods en el papel de un cura poco convencional, el padre McFelly, ocupado en salvar a una Natasha Lyonne de un espíritu de otro mundo. Entonces, retomando la historia donde la dejaron, los hermanos Wayans se vuelven a reunir de forma cómica con la heroína Cindy Campbell, convertida ahora en una buena estudiante universitaria. Un profesor loco la recluta a ella y a su grupo de compañeros deseosos de vivir aventuras y nuevas experiencias, para una salida de fin de semana bajo el pretexto de realizar un experimento científico. Mientras se desarollan las actividades del fin de semana, las continuas sorpresas mantienen la diversión siempre en marcha.",
+    "ACTORES": "  • Anna Faris (Cindy)\n  • Regina Hall (Brenda)\n  • Marlon Wayans (Shorty)\n  • Shawn Wayans (Ray)\n  • Christopher Masterson (Buddy)",
+    "DIRECTOR": "Keenen Ivory Wayans",
+    "TRAILER": "https://youtube.com/watch?v=NdnacU5sbcE",
+    "URLS_OKRU": [
+      "https://ok.ru/video/8815346649744"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 4247,
+    "ID_OKRU": "8812859427472",
+    "TITULO": "Scary Movie",
+    "FECHA": "2000-07-07",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/fHWR3YplPQWciYzxEity2kyDoDn.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/m5dA4JZsj78EBTa2D6imWOAebwB.jpg",
+    "GENERO": "Comedia",
+    "RATING": 6.424,
+    "DURACION": 88,
+    "FRASE_PROMOCIONAL": "¡Mortalmente divertida!",
+    "SINOPSIS": "Tras el asesinato de una bella estudiante, un grupo de adolescentes descubren que hay un asesino entre ellas. La heroína, Cindy, y su grupo de desconcertantes amigos, serán aterrorizados por un singular psicópata enmascarado que pretende vengarse de ellos por haberlo atropellado el pasado Halloween.",
+    "ACTORES": "  • Anna Faris (Cindy)\n  • Regina Hall (Brenda)\n  • Marlon Wayans (Shorty)\n  • Shawn Wayans (Ray)\n  • Jon Abrahams (Bobby)",
+    "DIRECTOR": "Keenen Ivory Wayans",
+    "TRAILER": "https://youtube.com/watch?v=3iy0pE1FBkc",
+    "URLS_OKRU": [
+      "https://ok.ru/video/8812859427472"
+    ]
   }
 ]
