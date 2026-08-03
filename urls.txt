@@ -3841,5 +3841,205 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3177999501946"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 10530,
+    "ID_OKRU": "7372458822324",
+    "TITULO": "Pocahontas",
+    "FECHA": "1995-06-16",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/fDZ2DCKW2D7J0ABNr9EICdD2H1s.jpg",
+    "GENERO": "Aventura, Animación, Familia, Romance",
+    "RATING": 6.914,
+    "DURACION": 81,
+    "FRASE_PROMOCIONAL": "Una leyenda americana cobra vida.",
+    "SINOPSIS": "Pocahontas, la hija del Jefe Powhatan, vigila la llegada de un gran grupo de colonos ingleses, guiados por el ambicioso gobernador Radcliff y el valiente capitán John Smith. Con su juguetón compañero Meeko, un travieso mapache, y con Flit, un alegre pájaro, Pocahontas entabla una fuerte amistad con el Capitán Smith. Pero cuando empiezan a surgir tensiones entre las dos culturas, Pocahontas recurre a la sabiduría de la Abuela Sauce para encontrar una manera de lograr la paz entre su pueblo y los conquistadores.",
+    "ACTORES": "  • Irene Bedard (Pocahontas (voice))\n  • Mel Gibson (John Smith (voice))\n  • David Ogden Stiers (Governor Ratcliffe (voice))\n  • John Kassir (Meeko (voice))\n  • Christian Bale (Thomas (voice))",
+    "DIRECTOR": "Mike Gabriel",
+    "TRAILER": "https://youtube.com/watch?v=-WrsSY-YVPg",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7372458822324"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 61080,
+    "ID_OKRU": "6716857256628",
+    "TITULO": "El árbol de Navidad de Pluto",
+    "FECHA": "1952-11-21",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/aC7GTL9ZioCH1beFVztV8Gng3ii.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/rfBCK5GBU6NIb0eXqcbfRq8ByWr.jpg",
+    "GENERO": "Animación, Comedia",
+    "RATING": 7.1,
+    "DURACION": 7,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Mickey y Pluto salen a buscar un árbol de Navidad, pero, sin saberlo, se llevan a casa uno en el que viven las ardillas Chip y Chop, que aprovecharán la ocasión para jugar con los adornos...",
+    "ACTORES": "  • James MacDonald (Mickey Mouse / Chip (voice) (uncredited))\n  • Dessie Flynn (Dale (voice) (uncredited))\n  • Clarence Nash (Donald Duck (voice) (uncredited))\n  • Ruth Clifford (Minnie Mouse (voice) (uncredited))\n  • Pinto Colvig (Pluto / Goofy (voice) (uncredited))",
+    "DIRECTOR": "Jack Hannah",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/6716857256628"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 14813,
+    "ID_OKRU": "10850705607348",
+    "TITULO": "Cuento de Navidad con Mickey",
+    "FECHA": "1983-10-19",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/3fp6Og76ETtbKGiMffBTsrCcXJ3.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/8x16xGu1p2vqfkSNRhGJNlBz8Fz.jpg",
+    "GENERO": "Familia, Animación",
+    "RATING": 7.669,
+    "DURACION": 25,
+    "FRASE_PROMOCIONAL": "¡Él está de vuelta! Mickey Mouse: en su primera película nueva en 30 años",
+    "SINOPSIS": "Ebenezer Scrooge (Gilito McPato) es un viejo banquero avaricioso y ruin. Además de no dar dinero a los pobres, hace trabajar sin parar a su ayudante Bob Cratchit (Mickey Mouse). Una noche, cuando a Scrooge le visita el fantasma de su antiguo socio, Jacobo Marley (Goofy), éste le dice que por sus maldades acabará arrastrando unas pesadas cadenas para toda la eternidad, al igual que le pasa a él, y le avisa de que esa misma noche le visitarán tres espíritus a los que debe escuchar antes de que sea demasiado tarde.",
+    "ACTORES": "  • Alan Young (Scrooge McDuck - Ebenezer Scrooge (voice))\n  • Wayne Allwine (Mickey - Bob Cratchit / Weasel Gravedigger / Begger Dog (voice))\n  • Clarence Nash (Donald - Nephew Fred (voice))\n  • Hal Smith (Goofy - Jacob Marley's Ghost / Collector for the Poor #1 (voice))\n  • Will Ryan (Collector for the Poor #2 / Ghost of Christmas Present (Willie the Giant) / Ghost of Christmas Future (Pete) / Santa Claus (Big Bad Wolf) / Weasel #2 (voice))",
+    "DIRECTOR": "Burny Mattinson",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/10850705607348"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 19585,
+    "ID_OKRU": "10539364911796",
+    "TITULO": "G-Force: Licencia para espiar",
+    "FECHA": "2009-07-24",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/94rN5UvfjweSKOMyBhxnbHuHo9w.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/xgic8uEqzzhc0YimHGsWSQWMduE.jpg",
+    "GENERO": "Familia, Fantasía, Acción, Aventura, Comedia",
+    "RATING": 5.488,
+    "DURACION": 82,
+    "FRASE_PROMOCIONAL": "El mundo necesita héroes más grandes.",
+    "SINOPSIS": "Mezcla de acción real y efectos CGi -por ordenador-, la historia se centra en un comando de animales ultrainteligentes que trabajan para una agencia del gobierno intentando prevenir que un malvado millonario se apodere del mundo. En versión original contará con la voces, entre otros, de Nicolas Cage, Jon Favreau, Steve Buscemi y Penélope Cruz.",
+    "ACTORES": "  • Sam Rockwell (Darwin the Guinea Pig (voice))\n  • Jon Favreau (Hurley the Guinea Pig (voice))\n  • Tracy Morgan (Blaster the Guinea Pig (voice))\n  • Penélope Cruz (Juarez the Guinea Pig (voice))\n  • Nicolas Cage (Speckles the Mole (voice))",
+    "DIRECTOR": "Hoyt Yeatman",
+    "TRAILER": "https://youtube.com/watch?v=x66vnAYCru0",
+    "URLS_OKRU": [
+      "https://ok.ru/video/10539364911796"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 10010,
+    "ID_OKRU": "10485507164852",
+    "TITULO": "Hermano oso 2",
+    "FECHA": "2006-07-19",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/tHvNX0SSyCW9MyPeWK5myc9lTLS.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/dMqbyB5GQvDujXiKdKPhWT0VTRw.jpg",
+    "GENERO": "Aventura, Animación, Familia",
+    "RATING": 6.665,
+    "DURACION": 73,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "La trama se centra de nuevo en Kenai (que había sido transformado en oso durante la primera parte) y sus aventuras en la pintoresca costa del Pacífico Norte al final de la Edad de Hielo. Kenai sueña repetidamente con su anterior vida como humano, cuando era niño y su mejor amiga era Nita, la hija del jefe de la tribu. Ahora ambos revivirán este pasado común cuando se ven obligados a embarcarse en una peligrosa aventura.",
+    "ACTORES": "  • Patrick Dempsey (Kenai (voice))\n  • Mandy Moore (Nita (voice))\n  • Jeremy Suarez (Koda (voice))\n  • Rick Moranis (Rutt (voice))\n  • Dave Thomas (Tuke (voice))",
+    "DIRECTOR": "Ben Gluck",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/10485507164852"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 119058,
+    "ID_OKRU": "10492782774964",
+    "TITULO": "Érase una vez... Halloween",
+    "FECHA": "2005-09-26",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/zjVZitSa0H4wg4xRZZNJ70jDROU.jpg",
+    "BACKDROP": "",
+    "GENERO": "Animación, Familia",
+    "RATING": 6.2,
+    "DURACION": 53,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "En la noche de Halloween, la Malvada Reina de Blancanieve y los siete enanitos quiere apoderarse de la fiesta, y para ello, intenta encontrar un villano que le ayude, observando varios villanos en su caldero, viendo algunos de los villanos más memorables de Disney en sus momentos más ruines, como: Úrsula de La Sirenita, Yzma de El Emperador y sus locuras, Cruella de Vil de 101 Dalmatas, el Capitán Garfio de Peter Pan, entre otros villanos de las producciones de Disney.",
+    "ACTORES": "  • Susanne Blakeslee (The Evil Queen (voice))\n  • Corey Burton (Cauldron (voice))\n  • Pat Carroll (Ursula (voice) (archive sound))\n  • Grant Bardsley (Taran (voice) (archive sound))\n  • Susan Sheridan (Princess Eilonwy (voice) (archive sound))",
+    "DIRECTOR": "Jamie Mitchell",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/10492782774964"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 14873,
+    "ID_OKRU": "7348980943540",
+    "TITULO": "El libro de la selva 2",
+    "FECHA": "2003-02-07",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/3yELRp1h8ngfTgWdeiozaiaMBnV.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/tVZ8HBPmMF73sMrX1vEGkeAdq8b.jpg",
+    "GENERO": "Familia, Animación, Aventura",
+    "RATING": 5.902,
+    "DURACION": 75,
+    "FRASE_PROMOCIONAL": "Siente el latido de la selva.",
+    "SINOPSIS": "Mowgli vive ahora en la aldea con los hombres, pero echa de menos a su querido compañero Baloo, que también extraña a su pequeño amigo. Pero Baloo no es el único que desea ver de nuevo a Mowgli... el malvado tigre Shre Khan también aguarda impaciente su venganza. Un día Baloo decide hacerle una visita a Mowgli. Atrapado por la alegría que supone ver de nuevo al viejo Baloo, Mowgli regresa a la selva . Pero cuando el niño se adentra en la jungla, la persecución será a ver quién da con él primero: su viejo amigo Baloo, su nueva familia o el tigre.",
+    "ACTORES": "  • Haley Joel Osment (Mowgli (voice))\n  • John Goodman (Baloo (voice))\n  • Mae Whitman (Shanti (voice))\n  • Connor Funk (Ranjan (voice))\n  • Bob Joles (Bagheera (voice))",
+    "DIRECTOR": "Steve Trenbirth",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7348980943540"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 13761,
+    "ID_OKRU": "7372413930164",
+    "TITULO": "Pocahontas 2: Viaje a un nuevo mundo",
+    "FECHA": "1998-08-04",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/ttjEx1Wo3QOxsgKDhDCB2GzHdWk.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/fzAnRGmaKJtm8sZuZ8a1nwSNTd3.jpg",
+    "GENERO": "Animación, Familia, Aventura, Romance",
+    "RATING": 5.6,
+    "DURACION": 73,
+    "FRASE_PROMOCIONAL": "Pura magia, pura aventura.",
+    "SINOPSIS": "Pocahontas vive el mayor reto de su vida en su viaje a Inglaterra. Con la ayuda del apuesto John Rolfe, buscará la paz de su pueblo. Mientra se prepara para el baile de la Caceria, abre poco a poco su corazón a Rolfe. Pero la misteriosa aparición de John Smith sumerge a Pocahontas en un dilema... elegir entre dos amores y dos maneras de vivir.",
+    "ACTORES": "  • Irene Bedard (Pocahontas (voice))\n  • Billy Zane (John Rolfe (voice))\n  • Jim Cummings (King James (voice))\n  • David Ogden Stiers (Ratcliffe (voice))\n  • Linda Hunt (Grandmother Willow (voice))",
+    "DIRECTOR": "Tom Ellery",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7372413930164"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 11135,
+    "ID_OKRU": "9354960898740",
+    "TITULO": "Los rescatadores en Cangurolandia",
+    "FECHA": "1990-11-16",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/hyuP9jI0Q6bBDEvvsYD8ka27QD0.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/nOAmKHegzi3uXZ8tkYiiZWBdUl5.jpg",
+    "GENERO": "Animación, Familia, Aventura, Acción, Comedia",
+    "RATING": 6.642,
+    "DURACION": 77,
+    "FRASE_PROMOCIONAL": "¡Espera el viaje más emocionante de tu vida!",
+    "SINOPSIS": "Esta vez, nuestros ratoncitos agentes secretos se encuentran en el corazón de la indomable selva australiana cuando tienen que acudir en ayuda de Cody, un jovencito que lucha por salvar un águila de un despiadado cazador furtivo.",
+    "ACTORES": "  • Bob Newhart (Bernard (voice))\n  • Eva Gabor (Miss Bianca (voice))\n  • John Candy (Wilbur (voice))\n  • Tristan Rogers (Jake (voice))\n  • Adam Ryen (Cody (voice))",
+    "DIRECTOR": "Mike Gabriel",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9354960898740"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 11319,
+    "ID_OKRU": "9349920328372",
+    "TITULO": "Los rescatadores",
+    "FECHA": "1977-06-22",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/4Vi5VEkVWdqJgbG3pGdREFOwZdJ.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/dSlofjxxcTSLmnH6602WsSSELU5.jpg",
+    "GENERO": "Fantasía, Familia, Animación, Aventura",
+    "RATING": 6.791,
+    "DURACION": 78,
+    "FRASE_PROMOCIONAL": "Dos diminutos agentes contra la mujer más malvada del mundo en una deslumbrante aventura animada.",
+    "SINOPSIS": "Una niña huérfana que ha sido secuestrada envía una nota dentro de una botella pidiendo ayuda. Bernardo y Bianca, dos valientes ratones, miembros de la Sociedad Internacional de Rescate, reciben el mensaje que los llevará al peligroso \"Pantano del Diablo\". Allí, ayudados por la libélula Evinrude y los habitantes del pantano, vivirán un sinfín de emocionantes aventuras luchando contra la malvada Madame Medusa",
+    "ACTORES": "  • Bob Newhart (Bernard (voice))\n  • Eva Gabor (Miss Bianca (voice))\n  • Geraldine Page (Madame Medusa (voice))\n  • Joe Flynn (Mr. Snoops (voice))\n  • Jeanette Nolan (Ellie Mae (voice))",
+    "DIRECTOR": "Wolfgang Reitherman",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9349920328372"
+    ]
   }
 ]
