@@ -3101,5 +3101,245 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6989126961781"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 10898,
+    "ID_OKRU": "5681475095253",
+    "TITULO": "La sirenita 2: Regreso al mar",
+    "FECHA": "2000-01-23",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/1m6JsSmBa4X1Kp35YW3QPbMpByF.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/rNOeiC5uruGnr5n7YW8hvnrbX9q.jpg",
+    "GENERO": "Animación, Aventura, Familia, Comedia",
+    "RATING": 6.401,
+    "DURACION": 90,
+    "FRASE_PROMOCIONAL": "Un Film de Jim Kammerud",
+    "SINOPSIS": "Ariel y el Príncipe Eric viven felices desde que por fin consiguieron casarse, superando todos los obstáculos a los que se enfrentaron en ”La Sirenita”, y ambos son padres de una preciosa niña, Melody. Ahora que la malvada Úrsula ya no existe, la vida sonríe a Ariel y al resto de la familia. Sin embargo, la llegada de la hermana de Úrsula, Morgana, pone en peligro el futuro de la pequeña. Para proteger a su hija, Ariel y Eric deciden no hablarle del pasado de Ariel como sirena, y construyen una enorme muralla para mantener el castillo aislado del mar...",
+    "ACTORES": "  • Jodi Benson (Ariel (voice))\n  • Samuel E. Wright (Sebastian (voice))\n  • Tara Strong (Melody (voice))\n  • Pat Carroll (Morgana (voice))\n  • Buddy Hackett (Scuttle (voice))",
+    "DIRECTOR": "Jim Kammerud",
+    "TRAILER": "https://youtube.com/watch?v=Q_QPxJQcSkc",
+    "URLS_OKRU": [
+      "https://ok.ru/video/5681475095253"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 9757,
+    "ID_OKRU": "6330665274069",
+    "TITULO": "Norbit",
+    "FECHA": "2007-02-08",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/XcZ5NzygPp54csxCnzvQKuxFL2.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/nMgQD51KzAqrt4F6iwxw5TetVLW.jpg",
+    "GENERO": "Comedia",
+    "RATING": 5.727,
+    "DURACION": 102,
+    "FRASE_PROMOCIONAL": "¿Alguna vez ha cometido un error realmente grande?",
+    "SINOPSIS": "Norbit (Eddie Murphy) no ha tenido una vida fácil. De pequeño fue abandonado ante la puerta de un restaurante chino, que hacía las veces de orfanato, donde le crió el Sr. Wong (Eddie Murphy). Las cosas se ponen aún peor cuando se ve obligado a casarse con Rasputia (Eddie Murphy), la malvada y tragona reina de la comida basura. Cuando Norbit ya no puede más y está a punto de rendirse, reaparece Kate (Thandie Newton), su gran amor de infancia...",
+    "ACTORES": "  • Eddie Murphy (Norbit / Rasputia / Mr. Wong)\n  • Thandiwe Newton (Kate Thomas)\n  • Terry Crews (Big Jack Latimore)\n  • Clifton Powell (Earl Latimore)\n  • Lester Speight (Blue Latimore)",
+    "DIRECTOR": "Brian Robbins",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/6330665274069"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 256835,
+    "ID_OKRU": "5729921141461",
+    "TITULO": "Toy Story: El tiempo perdido",
+    "FECHA": "2014-12-02",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/3m8SkdSzWOkNodITnuqXCGaIdFG.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/4vetbabOgDQzpitnAkEVRiZP4P5.jpg",
+    "GENERO": "Animación, Familia, Aventura, Comedia",
+    "RATING": 7.12,
+    "DURACION": 22,
+    "FRASE_PROMOCIONAL": "Un Corto de Steve Purcell",
+    "SINOPSIS": "Después del día de Navidad, la pandilla de \"Toy Story\" se encuentra en territorio desconocido cuando Bonnie va a casa de un amigo a jugar a la consola. Allí, Woody y compañía se encuentran con todo un set de figuras de acción que no sabe que en realidad son juguetes. Ahora todo depende de Trixie, el triceratops, para que las cosas no se vuelvan completamente locas.",
+    "ACTORES": "  • Kristen Schaal (Trixie (voice))\n  • Kevin McKidd (Reptillus Maximus (voice))\n  • Tom Hanks (Woody (voice))\n  • Tim Allen (Buzz Lightyear (voice))\n  • Wallace Shawn (Rex (voice))",
+    "DIRECTOR": "Steve Purcell",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/5729921141461"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 9994,
+    "ID_OKRU": "6829586909893",
+    "TITULO": "Basil, el ratón superdetective",
+    "FECHA": "1986-07-02",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/osNTFX6TRPCXbujQJWyXc912DgE.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/rXP1DHEk2pnSCnwe3qT1Vp1lps3.jpg",
+    "GENERO": "Animación, Familia, Misterio, Crimen, Aventura",
+    "RATING": 7.052,
+    "DURACION": 72,
+    "FRASE_PROMOCIONAL": "¡El as resolve crímenes de Londres en su caso más intrigante!",
+    "SINOPSIS": "A finales del siglo XIX, Basil, el Sherlock Holmes del mundo de los ratones tiene que enfrentarse a su eterno enemigo: el profesor Ratigan. La aventura comienza cuando una jovencita es raptada por el villano Ratigan. Entonces Basil y sus inseparables amigos, el Dr. Dawson y Tobi, se embarcarán en una apasionante misión de rescate.",
+    "ACTORES": "  • Barrie Ingham (Basil of Baker Street / Bartholomew (voice))\n  • Vincent Price (Professor Ratigan (voice))\n  • Val Bettin (Dr. David Q. Dawson / Thug Guard (voice))\n  • Susanne Pollatschek (Olivia Flaversham (voice))\n  • Candy Candido (Fidget (voice))",
+    "DIRECTOR": "Burny Mattinson",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/6829586909893"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 10895,
+    "ID_OKRU": "12453367515845",
+    "TITULO": "Pinocho",
+    "FECHA": "1940-02-23",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/sAluF7lNc4Mv3qxx1mmOgsfbr0C.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/ikpwuaK0yzNhXO24OeB7cKulhZE.jpg",
+    "GENERO": "Animación, Familia, Fantasía",
+    "RATING": 7.114,
+    "DURACION": 90,
+    "FRASE_PROMOCIONAL": "Cuando pides un deseo a una estrella fugaz, verás que tus sueños se hacen realidad.",
+    "SINOPSIS": "Un anciano llamado Geppetto fabrica una marioneta de madera a la que llama Pinocho, con la esperanza de que se convierta en un niño de verdad. El Hada Azul hace realidad su deseo y da vida a Pinocho, pero conserva su cuerpo de madera. Pepito Grillo, la conciencia de Pinocho, tendrá que aconsejarlo para que se aleje de las situaciones difíciles o peligrosas hasta conseguir que el muñeco se convierta en un niño de carne y hueso.",
+    "ACTORES": "  • Dickie Jones (Pinocchio / Alexander (voice) (uncredited))\n  • Cliff Edwards (Jiminy Cricket (voice) (uncredited))\n  • Christian Rub (Geppetto (voice) (uncredited))\n  • Evelyn Venable (The Blue Fairy (voice) (uncredited))\n  • Walter Catlett ('Honest John' Worthington Foulfellow (voice) (uncredited))",
+    "DIRECTOR": "Hamilton Luske",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/12453367515845"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 10957,
+    "ID_OKRU": "6999825713708",
+    "TITULO": "Taron y el caldero mágico",
+    "FECHA": "1985-07-24",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/4O6kh1pUdJBDEtDr2Ev3i9Hn3OG.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/4idEU92m0oR1BWa1iwb5pZ9bWCu.jpg",
+    "GENERO": "Animación, Aventura, Familia, Fantasía",
+    "RATING": 6.443,
+    "DURACION": 80,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Tarón es un valeroso joven que debe impedir que el malvado Rey Horned se apodere del Caldero Mágico, cuya fuerza misteriosa es capaz de crear un auténtico ejército de invencibles guerreros sobrenaturales. En su lucha contra el mal, Tarón cuenta con la ayuda de su maestro, Dallben, la princesa Eilonwy, un animal con aspecto de osito de peluche llamada Gurgi, un juglar que se hace llamar Fflewddur Fflam, un cerdito con dotes de clarividente y un trío de brujas excéntricas.",
+    "ACTORES": "  • Grant Bardsley (Taran (voice))\n  • Susan Sheridan (Eilonwy (voice))\n  • John Byner (Gurgi / Doli (voice))\n  • Nigel Hawthorne (Fflewddur Fflam (voice))\n  • John Hurt (The Horned King (voice))",
+    "DIRECTOR": "Ted Berman",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/6999825713708"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 10948,
+    "ID_OKRU": "9937357966062",
+    "TITULO": "Tod y Toby",
+    "FECHA": "1981-07-10",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/33jyy4W2usMrY796udOjcbMwput.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/lNmIAX1IuPIEPMHhLBEm4wmhYX0.jpg",
+    "GENERO": "Aventura, Animación, Drama, Familia",
+    "RATING": 7.166,
+    "DURACION": 90,
+    "FRASE_PROMOCIONAL": "Una historia de dos amigos que no sabían que se suponía que eran enemigos.",
+    "SINOPSIS": "La aventura y la diversión de este clásico de la Disney comienzan cuando una adorable viuda adopta un precioso cachorro de zorro llamado Tod. El travieso zorro pronto se encuentra con Toby, un adorable cachorro de perro de caza. Así se hace los dos inseparables amigos... sin saber que por su naturaleza deberían ser enemigos. Bajo la mirada vigilante de Mamá Búho, Tod y Toby juegan y se divierten en el bosque, inconscientes de que en el futuro tendrán que enfrentarse y poner su amistad a prueba.",
+    "ACTORES": "  • Mickey Rooney (Tod (voice))\n  • Kurt Russell (Copper (voice))\n  • Pearl Bailey (Big Mama (voice))\n  • Jack Albertson (Amos Slade (voice))\n  • Sandy Duncan (Vixey (voice))",
+    "DIRECTOR": "Ted Berman",
+    "TRAILER": "https://youtube.com/watch?v=emdBtZDqTlQ",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9937357966062"
+    ]
+  },
+  {
+    "CATEGORIA": "TERROR_ANIMADO",
+    "TMDB_ID": 9479,
+    "ID_OKRU": "15070704241390",
+    "TITULO": "Pesadilla antes de Navidad",
+    "FECHA": "1993-10-09",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
+    "GENERO": "Fantasía, Animación, Familia",
+    "RATING": 7.833,
+    "DURACION": 75,
+    "FRASE_PROMOCIONAL": "Un macabro cuento de mal humor y excelente animación.",
+    "SINOPSIS": "Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.",
+    "ACTORES": "  • Danny Elfman (Jack Skellington (singing) / Barrel / Clown with the Tear away Face (voice))\n  • Chris Sarandon (Jack Skellington (voice))\n  • Catherine O'Hara (Sally / Shock (voice))\n  • William Hickey (Dr. Finkelstein (voice))\n  • Glenn Shadix (Mayor (voice))",
+    "DIRECTOR": "Henry Selick",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/15070704241390"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 11497,
+    "ID_OKRU": "10074531302126",
+    "TITULO": "Todos los perros van al cielo",
+    "FECHA": "1989-11-17",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/hcSKNTeA1bS80arklFHnqqwpseG.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/haJ6SsjxfhSRG61LMy4QJWxCNAb.jpg",
+    "GENERO": "Drama, Animación, Familia, Comedia, Fantasía",
+    "RATING": 6.833,
+    "DURACION": 89,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Todos los perros van al cielo... o al menos hasta ahora. A las puertas del cielo es donde se encuentra Charlie, un pastor alemán granuja y estafador, asesinado por su antiguo socio, el malvado Carafea, para hacerse con el control del negocio de apuestas ilegales más importante de Nueva Orleans. Con la inestimable ayuda de su fiel amigo Richie y de María, una niña huérfana que puede hablar con los animales, Charlie tendrá una oportunidad para demostrar que merece su entrada en el cielo.",
+    "ACTORES": "  • Burt Reynolds (Charlie B. Barkin (voice))\n  • Dom DeLuise (Itchy Itchiford (voice))\n  • Judith Barsi (Anne-Marie (voice))\n  • Vic Tayback (Carface (voice))\n  • Melba Moore (Whippet Angel (voice))",
+    "DIRECTOR": "Don Bluth",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/10074531302126"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 12092,
+    "ID_OKRU": "12257566984942",
+    "TITULO": "Alicia en el país de las maravillas",
+    "FECHA": "1951-08-09",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/zOJKtTdToc8FcjmmbavkjUxv2Ue.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/tyj0QztA0PkYo6XauifWjkx7UVi.jpg",
+    "GENERO": "Animación, Familia, Fantasía, Aventura",
+    "RATING": 7.188,
+    "DURACION": 75,
+    "FRASE_PROMOCIONAL": "Un mundo de maravillas en una gran película",
+    "SINOPSIS": "Historia de magia y fantasía en el que la joven Alicia se sumerge en el sorprendente País de las Maravillas y conoce a extraordinarios personajes como Tweedledee y Tweedledum, el Sombrerero Loco, La Reina de Corazones y el frenético Conejo Blanco.",
+    "ACTORES": "  • Kathryn Beaumont (Alice (voice))\n  • Ed Wynn (Mad Hatter (voice))\n  • Richard Haydn (Caterpillar (voice))\n  • Sterling Holloway (Cheshire Cat (voice))\n  • Jerry Colonna (March Hare (voice))",
+    "DIRECTOR": "Clyde Geronimi",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/12257566984942"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 5255,
+    "ID_OKRU": "10426038487790",
+    "TITULO": "Polar Express",
+    "FECHA": "2004-11-10",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/ja6QGEUkP8t3wjjoHYvpRStomlT.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg",
+    "GENERO": "Aventura, Animación, Familia, Fantasía",
+    "RATING": 6.722,
+    "DURACION": 100,
+    "FRASE_PROMOCIONAL": "Estas Navidades... creerás",
+    "SINOPSIS": "Esta es la historia de un jovencito en la víspera de Navidad quien aborda un poderoso y mágico tren que se dirige al hogar de Papá Noel, en el Polo Norte. Lo que se desarrolla es una aventura que sigue al dubitativo niño, quien toma un tren extraordinario al Polo Norte; durante este viaje, se embarca en una experiencia de autodescubrimiento que le muestra que las maravillas de la vida nunca se desvanecen para quienes creen.",
+    "ACTORES": "  • Tom Hanks (Hero Boy (Adult)/ Father / Conductor / Hobo / Scrooge / Santa Claus)\n  • Leslie Zemeckis (Sister Sarah / Mother)\n  • Eddie Deezen (Know-It-All)\n  • Nona Gaye (Hero Girl (voice))\n  • Peter Scolari (Billy / Lonely Boy)",
+    "DIRECTOR": "Robert Zemeckis",
+    "TRAILER": "https://youtube.com/watch?v=4XkHPphBN_Q",
+    "URLS_OKRU": [
+      "https://ok.ru/video/10426038487790"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 37135,
+    "ID_OKRU": "10025626897134",
+    "TITULO": "Tarzán",
+    "FECHA": "1999-06-17",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/1Gk8iihu4Q4BGh2n1IwNLB3zM8E.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/a0E1mbejev56Ii51hCnYUDj4tZS.jpg",
+    "GENERO": "Animación, Familia, Aventura",
+    "RATING": 7.409,
+    "DURACION": 88,
+    "FRASE_PROMOCIONAL": "Una leyenda inmortal. Como solo lo habías imaginado.",
+    "SINOPSIS": "Cuando Kala, una gorila hembra, encuentra un niño huérfano en la jungla, decide adoptarlo como su propio hijo a pesar de la oposición de Kerchak, el jefe de la manada. Junto a Terk, un gracioso mono, y Tantor, un elefante algo neurótico, Tazán crecerá en la jungla desarrollando los instintos de los animales y aprendiendo a deslizarse entre los árboles a velocidad de vértigo. Pero cuando una expedición se adentra en la jungla y Tarzán conoce a Jane, descubrirá quién es realmente y cuál es el mundo al que pertenece...",
+    "ACTORES": "  • Tony Goldwyn (Tarzan (voice))\n  • Minnie Driver (Jane Porter (voice))\n  • Glenn Close (Kala (voice))\n  • Alex D. Linz (Young Tarzan (voice))\n  • Rosie O'Donnell (Terk (voice))",
+    "DIRECTOR": "Chris Buck",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/10025626897134"
+    ]
   }
 ]
