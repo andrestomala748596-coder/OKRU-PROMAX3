@@ -599,5 +599,45 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6567384779325"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 404368,
+    "ID_OKRU": "6265077303869",
+    "TITULO": "Ralph rompe Internet",
+    "FECHA": "2018-11-20",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/wfff5XoLdGQzCt2Nb4ZF6WYNLAq.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/qDQEQbgP3v7B9IYLAUcYexNrVYP.jpg",
+    "GENERO": "Acción, Aventura, Animación, Comedia, Familia, Ciencia ficción",
+    "RATING": 7.158,
+    "DURACION": 112,
+    "FRASE_PROMOCIONAL": "¿Quién ha roto Internet?",
+    "SINOPSIS": "Ralph sale de los recreativos, y se adentra en el mundo inexplorado, expansivo y emocionante de Internet. Ralph y su compañera Vanellope tendrán que jugárselo todo viajando por las redes en busca de una pieza de repuesto que salve Sugar Rush, el videojuego de Vanellope. Y para complicar más las cosas, ambos dependen de los ciudadanos de Internet, los llamados ‘ciudanets’ para que les ayuden a desenvolverse en ese peligroso mundo. Entre ellos está un empresario de Internet llamado Yesss, que es el algoritmo estrella y el alma de “BuzzTube”, la página web de moda del momento.",
+    "ACTORES": "  • John C. Reilly (Ralph (voice))\n  • Sarah Silverman (Vanellope (voice))\n  • Gal Gadot (Shank (voice))\n  • Taraji P. Henson (Yesss (voice))\n  • Jack McBrayer (Felix (voice))",
+    "DIRECTOR": "Rich Moore",
+    "TRAILER": "https://youtube.com/watch?v=QM1VvtQwkTs",
+    "URLS_OKRU": [
+      "https://ok.ru/video/6265077303869"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 508947,
+    "ID_OKRU": "6206536157757",
+    "TITULO": "Red",
+    "FECHA": "2022-03-10",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/djM4COTksd5YRIdd9uEl8eA3iaa.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
+    "GENERO": "Animación, Familia, Comedia, Fantasía",
+    "RATING": 7.333,
+    "DURACION": 100,
+    "FRASE_PROMOCIONAL": "Hacerse mayor puede ser bestial.",
+    "SINOPSIS": "Mei Lee, una niña de 13 años un poco rara pero segura de sí misma, se debate entre ser la hija obediente que su madre quiere que sea y el caos propio de la adolescencia. Ming, su protectora y ligeramente exigente madre, no se separa nunca de ella lo que es una situación poco deseable para una adolescente. Y por si los cambios en su vida y en su cuerpo no fueran suficientes, cada vez que se emociona demasiado (lo que le ocurre prácticamente todo el tiempo), se convierte en un panda rojo gigante.",
+    "ACTORES": "  • Rosalie Chiang (Meilin Lee (voice))\n  • Sandra Oh (Ming (voice))\n  • Ava Morse (Miriam (voice))\n  • Hyein Park (Abby (voice))\n  • Maitreyi Ramakrishnan (Priya (voice))",
+    "DIRECTOR": "Domee Shi",
+    "TRAILER": "https://youtube.com/watch?v=3QoJsp-MKt0",
+    "URLS_OKRU": [
+      "https://ok.ru/video/6206536157757"
+    ]
   }
 ]
