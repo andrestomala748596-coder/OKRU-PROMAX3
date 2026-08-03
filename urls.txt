@@ -1961,5 +1961,65 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9033311455867"
     ]
+  },
+  {
+    "CATEGORIA": "TERROR_ANIMADO",
+    "TMDB_ID": 14836,
+    "ID_OKRU": "8881050618491",
+    "TITULO": "Los mundos de Coraline",
+    "FECHA": "2009-02-05",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/xz1HjxeqpIACyPtJMqv33Z2RjRP.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+    "GENERO": "Animación, Familia, Fantasía",
+    "RATING": 7.924,
+    "DURACION": 101,
+    "FRASE_PROMOCIONAL": "Cuidado con lo que deseas. Se puede cumplir.",
+    "SINOPSIS": "Película de animación en la que se nos cuenta la historia de Coraline, una jovencita que descubre en su nueva casa una puerta secreta y decide abrirla. Al hacerlo, descubre una segunda versión de su vida, una vida paralela a la que ella tiene. A primera vista, la realidad paralela es curiosamente parecida a su vida de verdad, aunque mucho mejor. Pero cuando su increíble y maravillosa aventura empieza a tomar un cariz peligroso, su otra madre intenta mantenerla a su lado para siempre. Coraline deberá recurrir a su determinación y coraje, a la ayuda de los vecinos y a un gato negro con el don del habla para salvar a sus auténticos padres, a unos niños fantasmas y regresar a casa.",
+    "ACTORES": "  • Dakota Fanning (Coraline Jones (voice))\n  • Teri Hatcher (Mel Jones / Other Mother (voice))\n  • Jennifer Saunders (Miss April Spink / Other Spink (voice))\n  • Dawn French (Miss Miriam Forcible / Other Forcible (voice))\n  • Keith David (The Cat (voice))",
+    "DIRECTOR": "Henry Selick",
+    "TRAILER": "https://youtube.com/watch?v=ksOiRS2YO1U",
+    "URLS_OKRU": [
+      "https://ok.ru/video/8881050618491"
+    ]
+  },
+  {
+    "CATEGORIA": "TERROR_ANIMADO",
+    "TMDB_ID": 3933,
+    "ID_OKRU": "8881030695547",
+    "TITULO": "La novia cadáver",
+    "FECHA": "2005-09-12",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/3ALM0VeZjGUryAqWo6pqohzbLDh.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/v23fWgJUEt8EMmvn19btIacxP8E.jpg",
+    "GENERO": "Romance, Fantasía, Animación",
+    "RATING": 7.592,
+    "DURACION": 77,
+    "FRASE_PROMOCIONAL": "Un malentendido de muerte",
+    "SINOPSIS": "Ambientada en un pueblecito europeo en el siglo XIX, esta película de animación fotograma a fotograma cuenta la historia de Victor, un joven que es llevado de repente al infierno, donde se casa con una misteriosa Novia Cadáver, mientras que su verdadera novia, Victoria espera en el mundo de los vivos. A pesar de que la tierra de los muertos resulta ser más colorista que su estricta educación victoriana, Victor aprende que no hay nada en este mundo, ni en el siguiente, que pueda separarle de su único y verdadero amor.",
+    "ACTORES": "  • Johnny Depp (Victor Van Dort (voice))\n  • Helena Bonham Carter (Corpse Bride (voice))\n  • Emily Watson (Victoria Everglot (voice))\n  • Tracey Ullman (Nell Van Dort / Hildegarde (voice))\n  • Paul Whitehouse (William Van Dort / Mayhew / Paul the Head Waiter (voice))",
+    "DIRECTOR": "Mike Johnson",
+    "TRAILER": "https://youtube.com/watch?v=6wcj_aJ15gI",
+    "URLS_OKRU": [
+      "https://ok.ru/video/8881030695547"
+    ]
+  },
+  {
+    "CATEGORIA": "TERROR_ANIMADO",
+    "TMDB_ID": 62214,
+    "ID_OKRU": "8881214655099",
+    "TITULO": "Frankenweenie",
+    "FECHA": "2012-10-04",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/4WZaUjHswR2mak767GEXgiWYxeq.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/yfTZ2MSRWc06cBrFOsAF4Lebi4.jpg",
+    "GENERO": "Animación, Comedia, Familia",
+    "RATING": 7.006,
+    "DURACION": 87,
+    "FRASE_PROMOCIONAL": "De vuelta a la vida",
+    "SINOPSIS": "De la mente del director Tim Burton ('Alicia en el país de las maravillas', 'La leyenda de Sleepy Hollow'), surge 'Frankenweenie', la tierna historia de un chico y su mascota. Cuando el pequeño perro Sparky fallece, Víctor (su amo y amigo) trata de usar diversas técnicas científicas para intentar revivir al animal, y traerlo de vuelta al mundo de los vivos, todo ello mediante algunos ajustes corporales. Aunque el chico intenta que nadie vea a su \"monstruo\", el perro Sparky consigue escapar, los amigos del colegio del niño, sus profesores e incluso todos sus vecinos sabrán que construir una nueva vida puede llegar a ser algo terrible y escalofriante.",
+    "ACTORES": "  • Catherine O'Hara (Mrs. Frankenstein / Weird Girl / Gym Teacher (voice))\n  • Martin Short (Mr. Frankenstein / Mr. Burgemeister / Nassor (voice))\n  • Martin Landau (Mr. Rzykruski (voice))\n  • Charlie Tahan (Victor Frankenstein (voice))\n  • Atticus Shaffer (Edgar 'E' Gore (voice))",
+    "DIRECTOR": "Tim Burton",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/8881214655099"
+    ]
   }
 ]
