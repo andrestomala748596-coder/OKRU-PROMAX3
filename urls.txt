@@ -1179,5 +1179,107 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3799653288462"
     ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 682153,
+    "ID_OKRU": "3813363485198",
+    "TITULO": "Doraemon: El nuevo dinosaurio de Nobita",
+    "FECHA": "2020-08-07",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/k9hnsXt70ayS1EOFQMa1uTaxL2C.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/9aWXBrBe9ZnejsgGvDuN70prKEG.jpg",
+    "GENERO": "Animación, Aventura, Familia, Fantasía, Ciencia ficción, Comedia",
+    "RATING": 7.3,
+    "DURACION": 110,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Nobita visita una exposición de dinosaurios con el colegio y encuentra una piedra que parece ser un fósil de un huevo de dinosaurio. Con el pañuelo del tiempo de Doraemon, devuelve el fósil a su estado original y del huevo salen dos dinosaurios mellizos a los que llama Kyu y Myu. Nobita los cría en secreto, pero cuando se hacen más grandes y ya no puede tenerlos en su habitación, Doraemon sugiere que los lleven a su tiempo. Junto con sus amigos, Doraemon y Nobita se embarcan en un viaje al Cretácico donde vivirán una gran aventura en una misteriosa isla de dinosaurios.",
+    "ACTORES": "  • Wasabi Mizuta (Doraemon (voice))\n  • 大原めぐみ (Nobita (voice))\n  • かかずゆみ (Shizuka (voice))\n  • Tomokazu Seki (Suneo (voice))\n  • Subaru Kimura (Gian (voice))",
+    "DIRECTOR": "Kazuaki Imai",
+    "TRAILER": "https://youtube.com/watch?v=x4gaEJDfC10",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3803300497934",
+      "https://ok.ru/video/3803300497934",
+      "https://ok.ru/video/3813363485198"
+    ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 265712,
+    "ID_OKRU": "3813363550734",
+    "TITULO": "Stand by Me Doraemon",
+    "FECHA": "2014-08-08",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/o8L2GyLuN0F5G3yGvExaAitxg0B.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/1aABIiqBY7yoQESE8qWvR0w9bJZ.jpg",
+    "GENERO": "Animación, Aventura, Ciencia ficción, Drama, Familia, Fantasía",
+    "RATING": 7.422,
+    "DURACION": 95,
+    "FRASE_PROMOCIONAL": "Una aventura entrañable",
+    "SINOPSIS": "Nobita Nobi es un niño muy patoso al que todo le sale mal. Un día recibe la visita de Sewashi, un misterioso niño que afirma ser su tataranieto del siglo XXII y le anuncia que su futuro será un desastre que arruinará a toda la familia durante generaciones. Sewashi le presta su robot Doraemon para que le ayude a encontrar una solución. Poco después, Doraemon, el gato cósmico, cree haber encontrado la clave: el amor.",
+    "ACTORES": "  • Wasabi Mizuta (Doraemon (voice))\n  • 大原めぐみ (Nobita (voice))\n  • かかずゆみ (Shizuka (voice))\n  • Subaru Kimura (Gian (voice))\n  • Tomokazu Seki (Suneo (voice))",
+    "DIRECTOR": "Takashi Yamazaki",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3813363550734"
+    ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 728754,
+    "ID_OKRU": "3813363419662",
+    "TITULO": "Stand by Me Doraemon 2",
+    "FECHA": "2020-11-20",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/gcKaTTqEqh9AQ5VPXxR36oOb0CX.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/fStC0dSCRQslE9NzXa36EyOom81.jpg",
+    "GENERO": "Animación, Aventura, Comedia, Ciencia ficción, Drama, Familia, Fantasía",
+    "RATING": 7.82,
+    "DURACION": 96,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Nobita viaja con Doraemon al pasado para reencontrarse con su abuela, ya fallecida en el presente. Secuela de la película «Stand by Me Doraemon» y a su vez, remake del mediometraje «Doraemon: Obāchan no Omoide».",
+    "ACTORES": "  • Wasabi Mizuta (Doraemon (voice))\n  • 大原めぐみ (Nobita (voice))\n  • かかずゆみ (Shizuka (voice))\n  • Subaru Kimura (Gian (voice))\n  • Tomokazu Seki (Suneo (voice))",
+    "DIRECTOR": "Takashi Yamazaki",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3813363419662"
+    ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 163394,
+    "ID_OKRU": "1424138570373",
+    "TITULO": "Doraemon y la fábrica de juguetes",
+    "FECHA": "1997-03-08",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/c9EYib5o6MsBkJlLh0tmCTVIQ7F.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/m5uDx0xQhu2wA3Fc4AiqINrvdaT.jpg",
+    "GENERO": "Animación, Ciencia ficción, Familia, Aventura, Fantasía, Comedia",
+    "RATING": 6.7,
+    "DURACION": 96,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Doraemon te invita a visitar una ciudad muy peculiar. Se trata de un mundo ideal, regido por el respeto al medio ambiente, que está habitado por los juguetes más divertidos que jamás hayas imaginado. Todo sería perfecto de no ser por la aparición de un malvado ladrón que junto a sus clones, pretende hacerse con el poder del mundo de los juguetes para su propio provecho. Doraemon, Nobita, Gigante, Tsuneo y Shizuka tiene ante sí un reto de lo más complicado: detener los planes del criminal y devolver la ciudad a sus propietarios. Los inventos más útiles y grandes dosis de ingenio les ayudarán en su emocionante misión... (FILMAFFINITY)",
+    "ACTORES": "  • 大山のぶ代 (Doraemon (voice))\n  • Noriko Ohara (Nobita (voice))\n  • 野村道子 (Shizuka (voice))\n  • たてかべ和也 (Gian (voice))\n  • Kaneta Kimotsuki (Suneo (voice))",
+    "DIRECTOR": "芝山努",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/1424138570373"
+    ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 134162,
+    "ID_OKRU": "1424139881093",
+    "TITULO": "Doraemon y el misterio de las nubes",
+    "FECHA": "1992-03-07",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/8wTdUVdspAsjHaoY90qTWKt6C33.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/zYGkFxhkECVW8f7wtF52ckpQak.jpg",
+    "GENERO": "Animación, Fantasía, Familia, Aventura, Comedia, Ciencia ficción",
+    "RATING": 7.1,
+    "DURACION": 90,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Doraemon se lanza a su aventura más ecológica para salvar la Tierra de una terrible amenaza junto a Nobita y toda su pandilla. En esta ocasión Doraemon utiliza sus inventos para crear, junto a Nobita, su propio mundo en el cielo: una nube gigantescas. Durante su viaje en la nube se encuentran unos seres alienígenas que pretenden destruir la civilización para escarmentar a los humanos por su falta de compromiso con el medio ambiente. Doraemon y su pandilla deberán buscar aliados y convencer a los habitantes de las nubes de que en la Tierra también hay gente que lucha por la naturaleza. En su aventura, conocerán a buenos amigos, sortearán infinidad de peligros, se toparán con animales prehistóricos y lo darán todo por defender nuestro planeta.",
+    "ACTORES": "  • 大山のぶ代 (Doraemon (voice))\n  • Noriko Ohara (Nobita (voice))\n  • 野村道子 (Shizuka (voice))\n  • たてかべ和也 (Gian (voice))\n  • Kaneta Kimotsuki (Suneo (voice))",
+    "DIRECTOR": "芝山努",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/1424139881093"
+    ]
   }
 ]
