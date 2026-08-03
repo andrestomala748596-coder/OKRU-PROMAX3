@@ -579,5 +579,25 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7360274958909"
     ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 350650,
+    "ID_OKRU": "6567384779325",
+    "TITULO": "Doraemon Nobita no Space Heroes",
+    "FECHA": "2015-03-07",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/34tOVV4I3DwPpQ6Z1jQdMLjSWV5.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/zy1laRytpaHGv5LTcU2xFh6KsGI.jpg",
+    "GENERO": "Comedia, Animación, Familia, Aventura, Ciencia ficción, Fantasía",
+    "RATING": 6.236,
+    "DURACION": 100,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Un día, Doraemon, Nobita, Shizuka, Gian y Suneo estaban filmando una película como héroes espaciales. Cuando estaban filmando la película en un lote abierto, un niño llamado Aron llega y los alerta de que los extraterrestres están atacando su planeta. Acuerdan ayudarlo convirtiéndose en verdaderos superhéroes, pero no es tan fácil como parece.",
+    "ACTORES": "  • Wasabi Mizuta (Doraemon (voice))\n  • 大原めぐみ (Nobita (voice))\n  • かかずゆみ (Shizuka (voice))\n  • Subaru Kimura (Gian (voice))\n  • Tomokazu Seki (Suneo (voice))",
+    "DIRECTOR": "大杉宜弘",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/6567384779325"
+    ]
   }
 ]
