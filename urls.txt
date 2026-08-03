@@ -1441,5 +1441,465 @@
     "URLS_OKRU": [
       "https://ok.ru/video/16108742642200"
     ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 463272,
+    "ID_OKRU": "9783974824645",
+    "TITULO": "Johnny English: De nuevo en acción",
+    "FECHA": "2018-08-30",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/qrAteRWzRMVYQpMZsnHEm5QBEiB.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/qw6nuv56NW1JqzMoONlM84Iciwz.jpg",
+    "GENERO": "Acción, Aventura, Comedia",
+    "RATING": 6.283,
+    "DURACION": 95,
+    "FRASE_PROMOCIONAL": "Su licencia renovada. Su inteligencia restringida.",
+    "SINOPSIS": "Tercera entrega de la saga cómica Johnny English, con Rowan Atkison de regreso en el papel del muy querido agente secreto. Esta nueva aventura empieza cuando un ciberataque revela la identidad de todos los agentes de incógnito de Gran Bretaña, por lo que Johnny English es la última esperanza para los servicios secretos. Al verse sacado de su plácida vida de jubilado, English se lanza sin contemplaciones a la busca y captura del hacker que lo planeó todo. Nuestro héroe, un hombre de pocas habilidades y métodos analógicos, deberá superar los retos que plantea la tecnología moderna para que su misión se convierta en un éxito.",
+    "ACTORES": "  • Rowan Atkinson (Johnny English)\n  • Ольга Куриленко (Ophelia Bhulatova)\n  • Ben Miller (Bough)\n  • Emma Thompson (Prime Minister)\n  • Jake Lacy (Jason Volta)",
+    "DIRECTOR": "David Kerr",
+    "TRAILER": "https://youtube.com/watch?v=tLfQb_0gsK8",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9783974824645"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 1035259,
+    "ID_OKRU": "9783974759109",
+    "TITULO": "Agárralo como puedas",
+    "FECHA": "2025-07-30",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/v8FpKw8mOsHxC0YElkgNNSCzGMl.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/1wi1hcbl6KYqARjdQ4qrBWZdiau.jpg",
+    "GENERO": "Comedia, Crimen, Acción",
+    "RATING": 6.367,
+    "DURACION": 85,
+    "FRASE_PROMOCIONAL": "El alcance de la ley nunca se extendió tanto.",
+    "SINOPSIS": "El torpe teniente Frank Drebin Jr. intenta resolver un asesinato vinculado a un magnate tecnológico. Mientras investiga, su unidad policial corre peligro de ser cerrada. Con la ayuda de una escritora de crímenes, Frank se verá envuelto en situaciones tan absurdas como explosivas. Película reboot basada en la popular franquicia de comedia \"Agárralo como puedas\" y la serie de televisión \"Police Squad!\".",
+    "ACTORES": "  • Liam Neeson (Frank Drebin Jr.)\n  • Pamela Anderson (Beth Davenport)\n  • Paul Walter Hauser (Ed Hocken Jr.)\n  • Danny Huston (Richard Cane)\n  • CCH Pounder (Chief Davis)",
+    "DIRECTOR": "Akiva Schaffer",
+    "TRAILER": "https://youtube.com/watch?v=AyF3ttDC8H0",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9783974759109"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 433251,
+    "ID_OKRU": "9783974693573",
+    "TITULO": "Desnudo",
+    "FECHA": "2017-08-11",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/yV95cXcHhmuUAW8bjAayPynf7Lf.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/p1jxdxtZA8SdmgGgfYepfUhQ3NG.jpg",
+    "GENERO": "Comedia",
+    "RATING": 5.793,
+    "DURACION": 96,
+    "FRASE_PROMOCIONAL": "Un Film de Michael Tiddes",
+    "SINOPSIS": "Cada vez que Rob Anderson está a punto de casarse con la mujer de sus sueños, se despierta desnudo en el ascensor de un hotel reviviendo el día de su boda.",
+    "ACTORES": "  • Marlon Wayans (Rob Anderson)\n  • Regina Hall (Megan)\n  • Dennis Haysbert (Reginald Swope)\n  • J.T. Jackson (Benny)\n  • Scott Foley (Cody Favors)",
+    "DIRECTOR": "Michael Tiddes",
+    "TRAILER": "https://youtube.com/watch?v=LucX4_ZkAuU",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9783974693573"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 107985,
+    "ID_OKRU": "9783974496965",
+    "TITULO": "Bienvenidos al fin del mundo",
+    "FECHA": "2013-07-18",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/2zKG8FBn5AzGHgKLUMCyDLTUgDv.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/stAPkorBeBkvEZ6DQs30Ke4cPyr.jpg",
+    "GENERO": "Comedia, Acción, Ciencia ficción",
+    "RATING": 6.811,
+    "DURACION": 109,
+    "FRASE_PROMOCIONAL": "Prepárate para ser aniquilado.",
+    "SINOPSIS": "Cinco amigos de la infancia se reúnen después de 20 años porque uno de ellos está empeñado en volver a probar suerte en un maratón alcohólico que nunca pudieron llegar a completar. Gary King, un cuarentón que todavía no ha conseguido superar la adolescencia, convence a sus cuatro reacios amigos y los arrastra a su pueblo natal en un desesperado intento por llegar al famoso pub “The World’s End”. Pero mientras intentan reconciliar el presente con el pasado, empiezan a darse cuenta de que la auténtica lucha debe librarse por el futuro, y no solo el suyo, sino el de toda la humanidad. Llegar al pub “The World’s End” es ahora el último de sus problemas.",
+    "ACTORES": "  • Simon Pegg (Gary King)\n  • Nick Frost (Andrew Knightley)\n  • Paddy Considine (Steven Prince)\n  • Martin Freeman (Oliver Chamberlain)\n  • Eddie Marsan (Peter Page)",
+    "DIRECTOR": "Edgar Wright",
+    "TRAILER": "https://youtube.com/watch?v=nhCmDbJAPDg",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9783974496965"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 244688,
+    "ID_OKRU": "9783974431429",
+    "TITULO": "Los juegos del resacón (Resaca mortal)",
+    "FECHA": "2014-02-01",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/8E3u1WmeX4JLgHDNGZBkN3LrlPR.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/z3Q8cbwmtsVdkPDCX10XawVG3bc.jpg",
+    "GENERO": "Comedia",
+    "RATING": 4.06,
+    "DURACION": 86,
+    "FRASE_PROMOCIONAL": "Las probabilidades no están a su favor",
+    "SINOPSIS": "Tras celebrar la inminente boda de Doug, Bradley, Ed y Zach se despiertan en una habitación extraña en un mundo aún más extraño sin su amigo Doug. Cuando conocen a la altiva Effing y al alcohólico Justmitch, los tres empiezan a encajar las piezas del misterio y se dan cuenta de que están en los Juegos del resacón. Pero en lugar de los doce distritos de los Juegos del Hambre, los chicos tienen que hacer un mano a mano con varios distritos de la cultura pop, como el Distrito de los Superhéroes, el Distrito de la Desnudez Gratuita y el Distrito Johnny Depp.",
+    "ACTORES": "  • Ben Begley (Ed)\n  • Herbert Russell (Zach)\n  • Ross Nathan (Bradley)\n  • Sam Pancake (Tracey)\n  • John Livingston (Doug)",
+    "DIRECTOR": "Josh Stolberg",
+    "TRAILER": "https://youtube.com/watch?v=H6D78y9Edmk",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9783974431429"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 1118964,
+    "ID_OKRU": "9783965452997",
+    "TITULO": "Conclusive: We Made Hot Fuzz",
+    "FECHA": "2007-06-11",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/251lHJ2tIghJUlYLtYhf55cpEtH.jpg",
+    "BACKDROP": "",
+    "GENERO": "Documental",
+    "RATING": 0.0,
+    "DURACION": 30,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "",
+    "ACTORES": "  • Simon Pegg (Self)\n  • Nick Frost (Self)\n  • Edgar Wright (Self)\n  • Timothy Dalton (Self)\n  • Edward Woodward (Self)",
+    "DIRECTOR": "Jonathan Gaines",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9783965452997"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 66923,
+    "ID_OKRU": "9783965321925",
+    "TITULO": "Pablo Diablo: La película",
+    "FECHA": "2011-07-29",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/13J24dV8FcQFlC6mntj6J5XJfvF.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/78FFIWHKV5p3vh7DwZwX2DTGeDD.jpg",
+    "GENERO": "Familia, Comedia, Aventura",
+    "RATING": 5.2,
+    "DURACION": 93,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Adaptación de la popular serie de libros infantiles inglesa escritos por Francesc Simon y editada en España por 'El Barco de Vapor'. El argumento se basa en la extraña alianza entre el temible Pablo y sus archienemigos contra un maligno director de escuela.",
+    "ACTORES": "  • Theo Stevenson (Horrid Henry)\n  • Anjelica Huston (Miss Battleaxe)\n  • Ross Marron (Perfect Peter)\n  • Parminder Nagra (Miss Lovely)\n  • Mathew Horne (Dad)",
+    "DIRECTOR": "Nick Moore",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9783965321925"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 13805,
+    "ID_OKRU": "9783965190853",
+    "TITULO": "Disaster Movie",
+    "FECHA": "2008-08-29",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/8x7IbToQiSGNSHKVaiGmCZRO9Bd.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/5V6jAFS0Q49SI07qjyFRMYlbfR9.jpg",
+    "GENERO": "Comedia, Ciencia ficción",
+    "RATING": 3.196,
+    "DURACION": 87,
+    "FRASE_PROMOCIONAL": "Tus películas favoritas serán destruidas.",
+    "SINOPSIS": "Película de los creadores de Casi 300 y Scary Movie, que en esta ocasión parodia películas de catástrofes, como \"El día del mañana\", así como otras películas de actualidad como \"Hancock\", \"High School Musical\", \"Juno\", \"10.000\", \"Ironman\", etc.",
+    "ACTORES": "  • Matt Lanter (Will)\n  • Vanessa Lachey (Amy)\n  • Gary 'G. Thang' Johnson (Calvin)\n  • Nicole Parker (Enchanted Princess / Amy Winehouse Look-A-Like / Jessica Simpson Look-A-Like)\n  • Crista Flanagan (Juney / Hannah Montana)",
+    "DIRECTOR": "Aaron Seltzer",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9783965190853"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 10073,
+    "ID_OKRU": "9783965125317",
+    "TITULO": "Date Movie",
+    "FECHA": "2006-02-17",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/82ce2k5OxwcLDGolf3HBl2JWyEC.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/vORtOIuQMp3h3DCC6acfv1tsqhy.jpg",
+    "GENERO": "Comedia, Romance",
+    "RATING": 4.289,
+    "DURACION": 84,
+    "FRASE_PROMOCIONAL": "Una comedia sin protección",
+    "SINOPSIS": "Nueva comedia de los creadores de \"Scary Movie\", que en esta ocasión parodian todo tipo de comedias románticas. Julia Jones, una romántica empedernida, conoce por fin al hombre de sus sueños, el muy británico Grant Folloatuhija. Pero antes de que puedan tener su \"Gran Boda Griega\", tendrá que conocer a \"Los padres de ella\"; contratar sus \"Planes de boda\", y pelearse con la amiga de Grant, Andy una espectacular mujer que quiere boicotear \"La boda de su mejor amigo\".",
+    "ACTORES": "  • Alyson Hannigan (Julia Jones)\n  • Eddie Griffin (Frank Jones)\n  • Sophie Monk (Andy)\n  • Jennifer Coolidge (Roz Funkyerdoder)\n  • Fred Willard (Bernie Funkyerdoder)",
+    "DIRECTOR": "Aaron Seltzer",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9783965125317"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 747,
+    "ID_OKRU": "9783965059781",
+    "TITULO": "Zombies Party",
+    "FECHA": "2004-04-09",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/7TDWZVx599M0LVMAnvT3L2K0cCU.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
+    "GENERO": "Terror, Comedia",
+    "RATING": 7.544,
+    "DURACION": 99,
+    "FRASE_PROMOCIONAL": "Llega un momento en la vida de todo hombre en el que ha de levantarse del sillón y matar unos zombis",
+    "SINOPSIS": "La vida de Shaun es un callejón sin salida. Se pasa la vida en la taberna local con su amigo íntimo Ed, discute con su madre y descuida a su novia, Liz. Cuando Liz le deja plantado. Shaun decide, finalmente, poner su vida en orden. Tiene que reconquistar el corazón de su novia, enmendar sus relaciones con su madre y enfrentarse a las responsabilidades de un adulto.",
+    "ACTORES": "  • Simon Pegg (Shaun)\n  • Nick Frost (Ed)\n  • Kate Ashfield (Liz)\n  • Lucy Davis (Dianne)\n  • Dylan Moran (David)",
+    "DIRECTOR": "Edgar Wright",
+    "TRAILER": "https://youtube.com/watch?v=12Ok6bbV7rQ",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9783965059781"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 11891,
+    "ID_OKRU": "9783964928709",
+    "TITULO": "Kung Pow: A puñetazo limpio",
+    "FECHA": "2002-01-25",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/wf7vOel5EvjWfjql8XUPaDVc1es.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/zvIhFx35lXEIO2OsVnrpReEH747.jpg",
+    "GENERO": "Comedia, Acción, Aventura",
+    "RATING": 6.436,
+    "DURACION": 81,
+    "FRASE_PROMOCIONAL": "Kung Pow: El maestro de la kung fusión",
+    "SINOPSIS": "Un joven llamado El Elegido pretende vengar la muerte de sus padres, quienes fueron asesinados por una leyenda del Kung Fu llamado el Maestro Dolor.",
+    "ACTORES": "  • Steve Oedekerk (The Chosen One)\n  • 龍飛 (Master Pain (Betty) (archive footage))\n  • Leo Lee (Young Master Pain)\n  • Hsieh Ling-ling (Ling (archive footage))\n  • 劉家榮 (Wimp Lo (archive footage))",
+    "DIRECTOR": "Steve Oedekerk",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9783964928709"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 37136,
+    "ID_OKRU": "9783958178501",
+    "TITULO": "Agárralo como puedas",
+    "FECHA": "1988-12-02",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/eykTYCLnPW4quK6rqOHtc5PR8qy.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/qpjuVCGZvNsbDa4UyxrbAa4Dno3.jpg",
+    "GENERO": "Comedia, Crimen",
+    "RATING": 7.285,
+    "DURACION": 86,
+    "FRASE_PROMOCIONAL": "El villano. Incluso la madre Teresa lo quería muerto.",
+    "SINOPSIS": "Después de que su compañero Nordberg fuera tiroteado por una banda de narcotraficantes, el incompetente teniente Frank Drebin busca al jefe de la organización para vengarse. Sospecha del magnate naviero Vincent Ludwig, pero no tiene pruebas para inculparlo. Tendrá incluso que enfrentarse a una alcaldesa, que trata de obstaculizar su investigación. Sin embargo, Drebin consigue la inesperada ayuda de Jane Spencer, una antigua novia de Ludwig.",
+    "ACTORES": "  • Leslie Nielsen (Frank Drebin)\n  • Priscilla Presley (Jane Spencer)\n  • Ricardo Montalban (Vincent Ludwig)\n  • George Kennedy (Ed Hocken)\n  • O. J. Simpson (Nordberg)",
+    "DIRECTOR": "David Zucker",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9783958178501"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 37137,
+    "ID_OKRU": "9783958112965",
+    "TITULO": "Agárralo como puedas 2½: El aroma del miedo",
+    "FECHA": "1991-06-28",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/o1RzJqZfjzkYHK81ZKp7b4YP6TI.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/kCW0C3Bv5IsasICx3StdNEejfB5.jpg",
+    "GENERO": "Comedia, Crimen",
+    "RATING": 6.82,
+    "DURACION": 85,
+    "FRASE_PROMOCIONAL": "¡Dos veces y media mas divertida!",
+    "SINOPSIS": "El inefable y patoso teniente de policía Frank Drebbin ha vuelto para salvar a la ciudad, esta vez para enfrentarse a los villanos de la industria energética. Un importante científico, el doctor Mainheimer, está a punto de publicar un informe sobre el suministro energético del futuro que pinta mal para los dueños de las industrias del petróleo, el carbón y la nuclear. Así que las industrias secuestran a Mainheimer y lo reemplazan por un doble más favorable a sus intereses. Jane, la secretaria del doctor, es el viejo amor de Drebbin y su llama pasional volverá a reavivarse.",
+    "ACTORES": "  • Leslie Nielsen (Lt. Frank Drebin)\n  • Priscilla Presley (Jane Spencer)\n  • George Kennedy (Ed Hocken)\n  • O. J. Simpson (Nordberg)\n  • Robert Goulet (Quentin Hapsburg)",
+    "DIRECTOR": "David Zucker",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9783958112965"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 11397,
+    "ID_OKRU": "9783958047429",
+    "TITULO": "No es otra estúpida película americana",
+    "FECHA": "2001-12-07",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/hSnvrM0rY4sBA2s8XygP76YBDJJ.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/lyf1jjoMD1Pe7KD6KKEqL4Owgeb.jpg",
+    "GENERO": "Comedia",
+    "RATING": 5.819,
+    "DURACION": 85,
+    "FRASE_PROMOCIONAL": "Te sirvieron el desayuno. Te dieron tarta. Ahora vamos a rellenar tu cara.",
+    "SINOPSIS": "En el instituto John Hughes los chicos son como cualquier adolescente en cualquier otra peli de adolescentes. El chico deportista y popular apuesta con Austin, el rubito guapo, a que es capaz de transformar a Janey, la fea del colegio, en la reina del baile de fin de curso. Pero dos maquiavélicas compañeras intentarán que Jake pierda la apuesta: su hermana Catherine y Priscilla, la jefa de las animadoras. El resto de la pandilla tampoco es muy distinta a la de cualquier otra película de adolescentes americana. Y claro; los alumnos del instituto viven un curso lleno de fiestas, diversión, alcohol y sexo.",
+    "ACTORES": "  • Chyler Leigh (Janey Briggs)\n  • Chris Evans (Jake Wyler)\n  • Jaime Pressly (Priscilla)\n  • Eric Christian Olsen (Austin)\n  • Mia Kirshner (Catherine Wyler)",
+    "DIRECTOR": "Joel Gallen",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9783958047429"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 11510,
+    "ID_OKRU": "9783957916357",
+    "TITULO": "Reposeída",
+    "FECHA": "1990-09-14",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/w1dvg6SxLGxFmV8EyzvmYCNhFbv.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/uIrRLzxpgHnx5Lfdt2hHmOBktrG.jpg",
+    "GENERO": "Comedia, Terror",
+    "RATING": 5.286,
+    "DURACION": 80,
+    "FRASE_PROMOCIONAL": "El diablo ha vuelto... menuda poseída le espera ahora.",
+    "SINOPSIS": "Parodia de la película \"El Exorcista\". Nancy es una mujer adulta que tiene una familia a la que cuidar. Pero una noche, viendo la televisión, es \"reposeida\" por el demonio. El padre Jebedaiah Mayii y el padre Luke Brophy intentarán por todos los medios, de nuevo, hacer un exorcismo para liberar a Nancy del mal.",
+    "ACTORES": "  • Linda Blair (Nancy Aglet)\n  • Ned Beatty (Ernest Weller)\n  • Leslie Nielsen (Father Jebedaiah Mayii)\n  • Anthony Starke (Father Luke Brophy)\n  • Thom Sharp (Braydon Aglet)",
+    "DIRECTOR": "Bob Logan",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9783957916357"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 2665,
+    "ID_OKRU": "9783957785285",
+    "TITULO": "Aterriza como puedas 2",
+    "FECHA": "1982-12-10",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/iVMZLNAdHTv94Skq8Q6mInbJxQa.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/mtRGjKv3ky39BGXfwJDwoKumVIT.jpg",
+    "GENERO": "Comedia",
+    "RATING": 6.078,
+    "DURACION": 85,
+    "FRASE_PROMOCIONAL": "¡Ríase cuanto quiera viendo esta película!... En el espacio no molestará a nadie con sus continuas carcajadas.",
+    "SINOPSIS": "Años después de que salvara heroicamente las vidas de los pasajeros de un avión Jumbo, cuya tripulación cayó intoxicada, Ted Striker trabaja como piloto de pruebas de la nueva Lanzadera lunar. Sin embargo será enviado a una institución mental tras estrellar su nave de pruebas, a pesar de no tener la culpa. Cuando se entere de que el mismo tipo de nave se utilizará para realizar el primer vuelo lunar comercial, escapará e intentará evitarlo por todos los medios.",
+    "ACTORES": "  • Lloyd Bridges (Steve McCroskey)\n  • Raymond Burr (Judge D.C. Simonton)\n  • Chuck Connors (The Sarge)\n  • Rip Torn (Bud Kruger / President Reagan)\n  • John Dehner (The Commissioner)",
+    "DIRECTOR": "Ken Finkleman",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9783957785285"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 26141,
+    "ID_OKRU": "9779021744837",
+    "TITULO": "Distracción fatal",
+    "FECHA": "1993-10-29",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/sM7zbPjIfQWozzSW1PgSJ4tXH5q.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/mTJHunR5Fr62OsPcTrPrw3YWTAS.jpg",
+    "GENERO": "Comedia, Crimen",
+    "RATING": 5.543,
+    "DURACION": 91,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Ned Ravine es un hombre muy ocupado, que compagina su profesión de abogado con la de policía. Tiene graves problemas con las mujeres y como no los solucione pronto, las cosas pueden irle muy mal. Su esposa quiere asesinarlo; su secretaria lo acosa y una de sus clientes quiere acostarse con él, para después matarlo. Si esto le ocurre un lunes normal de su vida, ¿qué le sucederá el resto de la semana...\"",
+    "ACTORES": "  • Armand Assante (Ned Ravine)\n  • Sherilyn Fenn (Laura Lincolnberry)\n  • Kate Nelligan (Lana Ravine)\n  • Sean Young (Lola Cain)\n  • Christopher McDonald (Frank Kelbo)",
+    "DIRECTOR": "Carl Reiner",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9779021744837"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 817,
+    "ID_OKRU": "9779010669253",
+    "TITULO": "Austin Powers II. La espía que me achuchó",
+    "FECHA": "1999-06-08",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/6QyOlwOMojFcdaLBSqSGhpQETfG.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/xI1tAzzUk2v9nON6DLAHzcOLK42.jpg",
+    "GENERO": "Comedia, Aventura, Crimen",
+    "RATING": 6.314,
+    "DURACION": 95,
+    "FRASE_PROMOCIONAL": "¡He vuelto, nena!",
+    "SINOPSIS": "Austin Powers es un agente secreto de los años 60 que, tras ser congelado, vuelve a la vida en los años 90. En esta nueva entrega de sus aventuras, Austin Powers se enfrentará con nuevos villanos, pero deberá volver a luchar con el Doctor Maligno, su máximo enemigo. El malvado doctor tiene un siniestro plan: ha inventado una máquina del tiempo que le permitirá volver a los años 60 y destruir a su archienemigo, que deberá unir sus fuerzas a una bella agente para derrotarle.",
+    "ACTORES": "  • Mike Myers (Austin Powers / Dr. Evil / Fat Bastard)\n  • Heather Graham (Felicity Shagwell)\n  • Verne Troyer (Mini-Me)\n  • Michael York (Basil Exposition)\n  • Robert Wagner (Number Two)",
+    "DIRECTOR": "Jay Roach",
+    "TRAILER": "https://youtube.com/watch?v=Cfh5HliruZw",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9779010669253"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 818,
+    "ID_OKRU": "9779010603717",
+    "TITULO": "Austin Powers en Miembro de Oro",
+    "FECHA": "2002-07-26",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/72bSmfG2V95oQfM7C2gmtQeMwrq.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/kuPpElzfYnzsCye0hF8EbJSrvwo.jpg",
+    "GENERO": "Comedia, Crimen",
+    "RATING": 6.024,
+    "DURACION": 95,
+    "FRASE_PROMOCIONAL": "Una nueva aventura del inefable agente secreto creado e interpretado por Mike Myers",
+    "SINOPSIS": "El agente Austin Powers se enfrenta de nuevo al doctor Maligno y a su cómplice, Mini-Yo; que tras escapar de una cárcel de máxima seguridad obliga a Austin Powers a ponerse de nuevo en acción. Miembro de Oro es un misterioso personaje que ayuda al doctor Maligno a idear el plan para dominar el mundo. El malvado viajará en el tiempo y secuestrará al padre del protagonista.... Otro gran éxito de taquilla de las aventuras del singular espía funky protagonizado por el famoso cómico Mike Myers.",
+    "ACTORES": "  • Mike Myers (Austin Powers / Dr. Evil / Goldmember / Fat Bastard)\n  • Beyoncé (Foxxy Cleopatra)\n  • Seth Green (Scott Evil)\n  • Michael York (Basil Exposition)\n  • Robert Wagner (Number Two)",
+    "DIRECTOR": "Jay Roach",
+    "TRAILER": "https://youtube.com/watch?v=UWj03bri-Bk",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9779010603717"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 816,
+    "ID_OKRU": "9779010538181",
+    "TITULO": "Austin Powers. Misterioso agente internacional",
+    "FECHA": "1997-05-02",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/6vUjqYh8hDh7pVIcdQySw3SN3SH.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/wSm5McaHSAyOx4gGRYdlDHzj00y.jpg",
+    "GENERO": "Comedia, Crimen",
+    "RATING": 6.597,
+    "DURACION": 95,
+    "FRASE_PROMOCIONAL": "¡Si fuera más genial, todavía estaría congelado, baby!",
+    "SINOPSIS": "Fotógrafo por el día y superagente británico por la noche, Austin Powers es el espía más irreverente de los años 60. ¿Podrá detener al megalómano Doctor Villano antes de que se congele a sí mismo para revivir en los 90? Con la ayuda de su atractiva compinche Vanessa Kensington, se supone que sí.",
+    "ACTORES": "  • Mike Myers (Austin Powers / Dr. Evil)\n  • Elizabeth Hurley (Vanessa Kensington)\n  • Michael York (Basil Exposition)\n  • Mimi Rogers (Mrs. Kensington)\n  • Robert Wagner (Number Two)",
+    "DIRECTOR": "Jay Roach",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9779010538181"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 11918,
+    "ID_OKRU": "9778996775621",
+    "TITULO": "Superhero Movie",
+    "FECHA": "2008-03-28",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/u2X393aNn9RmXL6qnZMWHATtG3S.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/iA5yYNAclwXWGe46T7gatzGYcRu.jpg",
+    "GENERO": "Comedia, Acción, Ciencia ficción",
+    "RATING": 5.314,
+    "DURACION": 85,
+    "FRASE_PROMOCIONAL": "¡La mejor película de superhéroes de todos los tiempos! (sin contar todas los demás)",
+    "SINOPSIS": "Parodia de las películas de superhéroes, desde Spider-Man, hasta Batman Begins o Los 4 Fantásticos, de nuevo a cargo de los creadores de \"Scary Movie\". En esta ocasion la historia se centra en Rick Riker, un joven agradable pero muy torpe que adquiere superpoderes.",
+    "ACTORES": "  • Drake Bell (Rick Riker / Dragonfly)\n  • Sara Paxton (Jill Johnson)\n  • Christopher McDonald (Lou Landers)\n  • Leslie Nielsen (Uncle Albert Adams)\n  • Kevin Hart (Trey)",
+    "DIRECTOR": "Craig Mazin",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9778996775621"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 18892,
+    "ID_OKRU": "9778996579013",
+    "TITULO": "Caramelo asesino",
+    "FECHA": "1999-01-30",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/yUdkn57AcZJCBiO74D9xQYq99Bm.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/kRsJiPpSgkU50dJOmXlF6daiJE8.jpg",
+    "GENERO": "Comedia, Crimen, Suspense",
+    "RATING": 6.412,
+    "DURACION": 86,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Tres de las más populares estudiantes del Instituto Reagan matan accidentalmente a la reina del baile de graduación con un caramelo. La broma de cumpleaños se convierte en una tragedia que es descubierta por la empollona de la clase. Para evitar que les delate, la convertirán en la jefa del grupo. Comedia que parodia los filmes de terror ambientados en las High Schools americanas.",
+    "ACTORES": "  • Rose McGowan (Courtney Shayne)\n  • Rebecca Gayheart (Julie Freeman)\n  • Julie Benz (Marcie Fox)\n  • Judy Greer (Fern Mayo)\n  • Pam Grier (Detective Vera Cruz)",
+    "DIRECTOR": "Darren Stein",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9778996579013"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 157058,
+    "ID_OKRU": "9778978556613",
+    "TITULO": "30 noches de actividad paranormal con el diablo dentro de la chica del dragón tatuado",
+    "FECHA": "2013-01-14",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/36ZZpltHbxBzGgnBEghYCheIxdm.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/dgnabUOINxe8S8QAI05W3UJBGQe.jpg",
+    "GENERO": "Comedia",
+    "RATING": 3.977,
+    "DURACION": 80,
+    "FRASE_PROMOCIONAL": "Basada en hechos reales... que quizás no hayan ocurrido",
+    "SINOPSIS": "Parodia de películas como \"Paranormal Activity\" o \"The Devil Inside\", sobre una joven que vuelve a la casa donde se crio, lugar en el que su padre mató a todo el reparto de la película \"The Artist\" durante un exorcismo.",
+    "ACTORES": "  • Kathryn Fiore (Dana Galen)\n  • Flip Schultz (Aaron Galen)\n  • Olivia Alexander (Liz Galen)\n  • Arturo del Puerto (Felipe the Manny)\n  • Danny Woodburn (Sluggy Kornnutz)",
+    "DIRECTOR": "Craig Moss",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9778978556613"
+    ]
   }
 ]
