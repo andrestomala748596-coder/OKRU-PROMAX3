@@ -639,5 +639,265 @@
     "URLS_OKRU": [
       "https://ok.ru/video/6206536157757"
     ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 462677,
+    "ID_OKRU": "3806534502926",
+    "TITULO": "Doraemon y la gran aventura en la Antártida",
+    "FECHA": "2017-03-04",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/l2sejSY90gGKFitgZx9m28Lb7fz.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/3W2I33pTXWMiH8py382Zg86OB9Q.jpg",
+    "GENERO": "Animación, Aventura, Fantasía, Familia, Ciencia ficción, Comedia",
+    "RATING": 6.514,
+    "DURACION": 101,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Incapaz de soportar el calor del verano, Doraemon transporta a Nobita y sus amigos a un enorme iceberg que flota en el Pacífico Sur. Al crear un parque de diversiones con la herramienta secreta \"Hierro que hace hielo\", el grupo encuentra un misterioso anillo dorado en el hielo. Tras un examen más detenido, determinan que el anillo fue enterrado en la Antártida hace 100.000 años, antes de que la gente pudiera vivir allí. Doraemon y sus amigos se dirigen a la Antártida en busca del dueño del anillo y se encuentran con las ruinas de una gran ciudad enterrada en el hielo. Usando el cinturón de tiempo de Doraemon, el grupo viaja  100.000 años atrás y se encuentra con la joven Kara, que está conectada al misterioso anillo. Pero ahora el grupo debe luchar por sobrevivir mientras Doraemon enfrenta la crisis de la congelación de toda la Tierra.",
+    "ACTORES": "  • Wasabi Mizuta (Doraemon (voice))\n  • 大原めぐみ (Nobita (voice))\n  • かかずゆみ (Shizuka (voice))\n  • Tomokazu Seki (Suneo (voice))\n  • Subaru Kimura (Gian (voice))",
+    "DIRECTOR": "高橋敦史",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3806534502926"
+    ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 495925,
+    "ID_OKRU": "3806534437390",
+    "TITULO": "Doraemon y La Misteriosa Isla Del Tesoro",
+    "FECHA": "2018-03-03",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/fPSR1x5PD37LOmAMmZmrVOoidCP.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/anb6GDkC5dOnBDkGehxZdPdUrfr.jpg",
+    "GENERO": "Animación, Aventura, Fantasía, Ciencia ficción, Comedia, Familia",
+    "RATING": 7.0,
+    "DURACION": 110,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Shizuka, Gigante y Suneo, junto con Doraemon en medio del caluroso verano, se dispusieron a planificar un viaje al Caribe. Nobita se convierte en el capitán y lucha contra el enemigo a bordo. Shizuka es secuestrada en medio de una tormenta. Los Mini Dora ayudan. Finalmente, cuando llegan los aventureros, descubren que la misteriosa isla del tesoro no es una isla normal.",
+    "ACTORES": "  • Wasabi Mizuta (Doraemon (voice))\n  • 大原めぐみ (Nobita (voice))\n  • かかずゆみ (Shizuka (voice))\n  • Subaru Kimura (Gian (voice))\n  • Tomokazu Seki (Suneo (voice))",
+    "DIRECTOR": "Kazuaki Imai",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3806534437390"
+    ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 285812,
+    "ID_OKRU": "3806329571854",
+    "TITULO": "Doraemon y el reino perruno",
+    "FECHA": "2014-03-08",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/x8lBD7CSCEOKmFOLhUFjYMrbUjH.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/u9S16gXvAO9QbeNu8Y81fUwgWm7.jpg",
+    "GENERO": "Familia, Animación, Aventura, Fantasía, Comedia, Ciencia ficción",
+    "RATING": 6.2,
+    "DURACION": 109,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Remake de \"Doraemon: Nobita's Great Demon\", de 1982.  La historia sigue a Doraemon y sus amigos en su nueva aventura, en la que tienen que ayudar a un príncipe perro a volver a su reino, atravesando para ello un territorio completamente inexplorado.",
+    "ACTORES": "  • Wasabi Mizuta (Doraemon (voice))\n  • 大原めぐみ (Nobita (voice))\n  • かかずゆみ (Shizuka (voice))\n  • Subaru Kimura (Gian (voice))\n  • Tomokazu Seki (Suneo (voice))",
+    "DIRECTOR": "八鍬新之介",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3806329571854"
+    ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 384345,
+    "ID_OKRU": "3806329506318",
+    "TITULO": "Doraemon y el nacimiento de Japón",
+    "FECHA": "2016-03-05",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/utYEpNnV5nRZEEiZhQ8YzB8E35w.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/tzrcGi28kAIEsrCNMuiyAOFrToG.jpg",
+    "GENERO": "Animación, Aventura, Fantasía, Ciencia ficción, Familia",
+    "RATING": 6.8,
+    "DURACION": 120,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Nobita y la pandilla se escapan de casa, viajando en el tiempo hasta 70,000 años antes de que naciera Japón. Después de un tiempo, vuelven al presente. Sin embargo, cuando se encuentran con un joven hombre de las cavernas, Kukuru, a quien accidentalmente han transportado a su era actual, se dan cuenta de que deben llevarlo de vuelta a la edad primitiva. Además de eso, tendrán que salvar a la tribu de Kukuru, llamada tribu Hikari, que fue atacada y secuestrada por la tribu Giganzonbie y Kurayami.",
+    "ACTORES": "  • Wasabi Mizuta (Doraemon (voice))\n  • 大原めぐみ (Nobita (voice))\n  • かかずゆみ (Shizuka (voice))\n  • Tomokazu Seki (Suneo (voice))\n  • Subaru Kimura (Gian (voice))",
+    "DIRECTOR": "八鍬新之介",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3806329506318"
+    ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 218726,
+    "ID_OKRU": "3806329440782",
+    "TITULO": "Doraemon y Nobita Holmes en el misterioso museo del futuro",
+    "FECHA": "2013-03-09",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/6Y5jR9ajT8870sR2D1RLgepE8GT.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/4aLWocthuU4pDIv6UjRJpmOuNB5.jpg",
+    "GENERO": "Aventura, Familia, Animación, Comedia, Fantasía, Ciencia ficción",
+    "RATING": 6.4,
+    "DURACION": 104,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "¿Conseguirán Doraemon, Nobita y compañía superar el doble reto de recuperar el cascabel y ayudar a proteger el museo de un peligro inminente? ¡No es tan elemental, querido Doraemon!",
+    "ACTORES": "  • Wasabi Mizuta (Doraemon (voice))\n  • 大原めぐみ (Nobita (voice))\n  • かかずゆみ (Shizuka (voice))\n  • Subaru Kimura (Gian (voice))\n  • Tomokazu Seki (Suneo (voice))",
+    "DIRECTOR": "寺本幸代",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3806329440782"
+    ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 86184,
+    "ID_OKRU": "3804202666510",
+    "TITULO": "Doraemon: La leyenda de las sirenas",
+    "FECHA": "2010-03-06",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/nhmb6bZ4PbZL6vo70veoAbeDaTq.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/6Aj4LfIOhG85obqGE3O0WvpQzqw.jpg",
+    "GENERO": "Aventura, Familia, Animación, Fantasía, Ciencia ficción",
+    "RATING": 6.84,
+    "DURACION": 100,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Una vez más Doraemon y sus amigos vuelven con una nueva y fantástica aventura donde nuestros amigos surcarán los mares y descubrirán todos los secretos que esconden sus habitantes. ¡Nobita ha decidido hacer buceo! Para ayudarle, Doraemon inunda la ciudad entera con la Bomba de aguas imaginarias. Tras su primera incursión marina, Nobita y Doraemon conocen a la bella Sofía, que resulta ser, ni más ni menos que... ¡la princesa de las sirenas! Las sirenas vivían en un planeta similar a la Tierra llamado Aqua. Pero el planeta fue destruido por los tritones... y ellas tuvieron que refugiarse en las profundidades de los océanos de la Tierra. Hasta allí viajarán Doraemon y sus amigos para ayudarla a recuperar la espada y la armadura que, según cuenta le leyenda, los tritones les arrebataron. ¿Conseguirán las sirenas regresar a su planeta?.",
+    "ACTORES": "  • Wasabi Mizuta (Doraemon (voice))\n  • 千秋 (Dorami (voice))\n  • 大原めぐみ (Nobita (voice))\n  • Tomokazu Seki (Suneo (voice))\n  • かかずゆみ (Shizuka (voice))",
+    "DIRECTOR": "Kōzō Kusuba",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3804202666510"
+    ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 95935,
+    "ID_OKRU": "3804202600974",
+    "TITULO": "Doraemon The Hero: Pioneros del espacio",
+    "FECHA": "2009-03-07",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/ipduWXygzxr0TnzEB1K05TaOYXa.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/4VFRn5xcD8o3qUMrSShm3I6zpfl.jpg",
+    "GENERO": "Animación, Aventura, Familia, Fantasía, Ciencia ficción, Comedia",
+    "RATING": 6.8,
+    "DURACION": 103,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Un grupo de niños mayores ocupan el descampado donde Nobita y sus amigos suelen jugar al béisbol. En el intento de recuperarlo, conocen a Lopple y Chammym, habitantes del planeta Koya Koya, situado en un universo alternativo, un planeta en el que no faltan descampados para jugar pero tampoco problemas. Los habitantes de Koya Koya pedirán ayuda a sus nuevos amigos terrícolas y, así, Nobita y Doraemon se convertirán en auténticos superhéroes.",
+    "ACTORES": "  • Wasabi Mizuta (Doraemon (voice))\n  • 大原めぐみ (Nobita (voice))\n  • かかずゆみ (Shizuka (voice))\n  • Tomokazu Seki (Suneo (voice))\n  • 香里奈 (Morina (voice))",
+    "DIRECTOR": "腰繁男",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3804202600974"
+    ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 137227,
+    "ID_OKRU": "3804202535438",
+    "TITULO": "Doraemon y la revolución de los robots",
+    "FECHA": "2011-03-05",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/2Z0p39LPrDKcDS5Ezn2WtbBPfDF.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/vA4T6wydyu8xpcN7ZB7YhTbCfig.jpg",
+    "GENERO": "Animación, Aventura, Familia, Ciencia ficción, Fantasía, Comedia",
+    "RATING": 7.372,
+    "DURACION": 109,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Nobita está celoso del nuevo robot de juguete de Suneo, y se empeña en tener uno igual... por lo que recoge unas extrañas piezas gigantes caídas del cielo. Doraemon se da cuenta de que con las piezas se puede montar un robot y Nobita y él se ponen manos a la obra hasta reconstruir un robot gigante que prueban en el mundo de a través del espejo.",
+    "ACTORES": "  • Wasabi Mizuta (Doraemon (voice))\n  • 大原めぐみ (Nobita (voice))\n  • かかずゆみ (Shizuka (voice))\n  • Tomokazu Seki (Suneo (voice))\n  • Subaru Kimura (Gian (voice))",
+    "DIRECTOR": "寺本幸代",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3804202535438"
+    ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 136686,
+    "ID_OKRU": "3803834288654",
+    "TITULO": "Doraemon y el reino de Kibo",
+    "FECHA": "2008-03-08",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/qHXXPHiBsiJF6kczI13siW0sm9r.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/9kRAyJHknHsNUnavRAFC29OSy7C.jpg",
+    "GENERO": "Aventura, Animación, Familia, Comedia, Ciencia ficción, Fantasía",
+    "RATING": 6.735,
+    "DURACION": 95,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Nobita encuentra una pequeña planta cerca de la montaña detrás de la escuela. Gracias al \"suero de la vida vegetal\" la planta empieza a moverse por sí misma con lo que Nobita decide quedársela. La bautiza como Kibo, y la trata con mucho mimo, como si fuera su hermano pequeño. Un día que Nobita y sus amigos suben a la montaña con Kibo, aparece un inmenso tornado que los arrastra a su interior y los transporta a un mundo llamado \"Planeta verde\" que está dominado por plantas, pero el señor de \"Planeta Verde\" tiene un terrible plan: quiere llevarse todas las plantas de La Tierra. ¡Tendremos que defender la naturaleza de nuestro planeta!",
+    "ACTORES": "  • Wasabi Mizuta (Doraemon (voice))\n  • 大原めぐみ (Nobita (voice))\n  • かかずゆみ (Shizuka (voice))\n  • Tomokazu Seki (Suneo (voice))\n  • Subaru Kimura (Gian (voice))",
+    "DIRECTOR": "Ayumu Watanabe",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3803834288654"
+    ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 162095,
+    "ID_OKRU": "3803834223118",
+    "TITULO": "Doraemon: El gladiador",
+    "FECHA": "2002-03-09",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/1MFRwO1jH9kQFprfyncvww16suf.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/oYp4mptxvVaJTutVXSS9Akzet5j.jpg",
+    "GENERO": "Animación, Aventura, Fantasía, Ciencia ficción, Familia",
+    "RATING": 6.5,
+    "DURACION": 75,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Poko, un niño-robot de otra dimensión, llega por accidente a nuestro tiempo ya que una de las máquinas de Doraemon se estropea cuando Nobita la está usando para comprar en los grandes almacenes del futuro. Poko explica a Doraemon y Nobita que, en su mundo natal, el maléfico androide Dester pretende hacerse con el poder total. Desde la sombra, el tirano controla los designios de la joven reina Jannu y su objetivo es eliminar a todos los robots de un planeta en el que antaño habían convivido en armonía los humanos y los seres mecánicos. El único modo de conseguir la paz es que Doraemon y toda la pandilla se pongan manos a la obra y viajen al mundo de los robots en su máquina del espacio-tiempo. Deberán convencer a la reina Jannu de que los robots tienen sentimientos nobles y que poseen los mismos derechos que los humanos.",
+    "ACTORES": "  • 大山のぶ代 (Doraemon (voice))\n  • Noriko Ohara (Nobita (voice))\n  • 野村道子 (Shizuka (voice))\n  • Kaneta Kimotsuki (Suneo (voice))\n  • たてかべ和也 (Gian (voice))",
+    "DIRECTOR": "芝山努",
+    "TRAILER": "https://youtube.com/watch?v=kGJsGOBnQRQ",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3803834223118"
+    ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 98613,
+    "ID_OKRU": "3803834157582",
+    "TITULO": "Doraemon y los dioses del viento",
+    "FECHA": "2003-03-08",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/d4SnilzgQmIglk5jqeDgef2WpRY.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/mJc4c2eN1bwRhNZfjDKukzNerYx.jpg",
+    "GENERO": "Animación, Fantasía, Aventura, Familia, Ciencia ficción",
+    "RATING": 7.207,
+    "DURACION": 75,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Doraemon y Nobita tienen una nueva amiga. Se llama Fuuko, una pequeña dragona que, en realidad, es un ser hecho de aire llegado de un lejano mundo en el que la energía eólica es el motor de todo. Ese lugar fantástico es el Valle del Viento y, gracias a los inventos de Doraemon para trasladarse en el espacio y el tiempo, toda la pandilla acaba en ese mágico país. El Valle del Viento está habitado por los Domadores del Viento, un pueblo que ha aprendido a usar las propiedades del viento para aplicarlas de un modo respetuoso a todos los aspectos de la vida diaria. En cambio, los malvados Tempestades defienden todo lo contrario y son enemigos acérrimos de la pacífica gente del Valle. Ambos pueblos han vivido enfrentados desde tiempos inmemoriales y, ahora, el conflicto está a punto de estallar de nuevo. Cuenta la leyenda que los Tempestades volverán a controlar el mundo cuando invoquen al monstruo Mafuuka.  (FILMAFFINITY)",
+    "ACTORES": "  • 大山のぶ代 (Doraemon (voice))\n  • Noriko Ohara (Nobita (voice))\n  • 野村道子 (Shizuka (voice))\n  • Kaneta Kimotsuki (Suneo (voice))\n  • たてかべ和也 (Gian (voice))",
+    "DIRECTOR": "芝山努",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3803834157582"
+    ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 52795,
+    "ID_OKRU": "3803834092046",
+    "TITULO": "Doraemon y los siete magos",
+    "FECHA": "2007-03-10",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/rEkIrwuMOyrplmo0dtx3CqpzQmX.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/fCrErWTy5YXrzN3NbDoolHwB4b.jpg",
+    "GENERO": "Familia, Aventura, Animación, Ciencia ficción, Fantasía",
+    "RATING": 7.2,
+    "DURACION": 115,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "En esta ocasión, con la ayuda de la cabina \"Qué Pasaría\" nuestros amigos viajan a una dimensión mágica en la que todo el mundo sin excepción vuela sobre alfombras y escobas. Nobita está empeñado en demostrar que la magia existe y que en ocasiones es más poderosa que la ciencia. Todo parece normal, pero sobre ellos planea la amenaza de los demonios, que han tramado un plan para invadir el planeta.  Tifones, terremotos y otros desastres naturales parecen los síntomas de que se acerca el fin, pero todo forma parte de un maléfico plan. Cuando Doraemon y compañía descubren unos antiguos manuscritos y el peligro real que supone la llegada de los demonios, empieza una auténtica aventura plagada de misterios, peligros y emoción.",
+    "ACTORES": "  • Wasabi Mizuta (Doraemon (voice))\n  • 大原めぐみ (Nobita (voice))\n  • かかずゆみ (Shizuka (voice))\n  • Subaru Kimura (Gian (voice))\n  • Tomokazu Seki (Suneo (voice))",
+    "DIRECTOR": "寺本幸代",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3803834092046"
+    ]
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 192904,
+    "ID_OKRU": "3803834026510",
+    "TITULO": "Doraemon y la Leyenda del Espacio Tiempo",
+    "FECHA": "2004-03-06",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/gBYEK5Kv8uVZGoTbBcovIcWjKNI.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/A9vaGg3tfuhB5qctaIKlsG2Gnpy.jpg",
+    "GENERO": "Animación, Aventura, Familia, Ciencia ficción, Fantasía",
+    "RATING": 7.382,
+    "DURACION": 88,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Después de crear un refugio para gatos y perros abandonados hace 300 millones de años, Nobita regresa y descubre que la tierra está al borde de la destrucción.  Un perro anciano se dirige a una máquina del tiempo, que planea usar para viajar al futuro y encontrarse con \"alguien\" que le entrega un \"kendama\". Sin embargo, la máquina falla y el perro regresa a su estado infantil, donde finalmente es encontrado por un gato investigador.",
+    "ACTORES": "  • 大山のぶ代 (Doraemon (voice))\n  • Noriko Ohara (Nobita (voice))\n  • 野村道子 (Shizuka (voice))\n  • Kaneta Kimotsuki (Suneo (voice))\n  • たてかべ和也 (Gian (voice))",
+    "DIRECTOR": "芝山努",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3803834026510"
+    ]
   }
 ]
