@@ -4041,5 +4041,385 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9349920328372"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 10545,
+    "ID_OKRU": "9233605003878",
+    "TITULO": "El jorobado de Notre Dame",
+    "FECHA": "1996-06-21",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/pvnmJckCNgzEbuE5sHXX3tDRQox.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/k4HIk81b03lLeNo7I0dHxD3VPKD.jpg",
+    "GENERO": "Drama, Animación, Familia",
+    "RATING": 7.134,
+    "DURACION": 91,
+    "FRASE_PROMOCIONAL": "Be mine or you will burn.",
+    "SINOPSIS": "Oculto a las miradas de todos los ciudadanos de París, en lo alto del campanario de la catedral de Notre Dame, vive Quasimodo. Su tutor, el juez Frollo, no le permite bajar nunca del Campanario. En compañía de tres simpáticas gárgolas de piedra, Victor, Hugo y Laverne, Quasimodo pasa las horas observando el bullicioso ir y venir de la gente. Hasta que un día, decide bajar a escondidas y conoce a la bella Esmeralda, con la que vivirá su mayor aventura.",
+    "ACTORES": "  • Tom Hulce (Quasimodo (voice))\n  • Demi Moore (Esmeralda (voice))\n  • Kevin Kline (Phoebus (voice))\n  • Tony Jay (Frollo (voice))\n  • Charles Kimbrough (Gargoyle Victor (voice))",
+    "DIRECTOR": "Gary Trousdale",
+    "TRAILER": "https://youtube.com/watch?v=rJHkp8ZG_xA",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9233605003878"
+    ]
+  },
+  {
+    "CATEGORIA": "TOM_Y_JERRY",
+    "TMDB_ID": 21078,
+    "ID_OKRU": "14766848412262",
+    "TITULO": "Tom y Jerry: Rumbo a marte",
+    "FECHA": "2005-01-18",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/jG2x8sduIeGCLcXjy5dhinIuan4.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/qKTyt2DTGVcx36nsD09h8mU8bqb.jpg",
+    "GENERO": "Animación, Familia",
+    "RATING": 6.6,
+    "DURACION": 72,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Tom y Jerry, van a ser el primer gato y ratón en viajar al lejano planeta Marte, al quedarse atrapados en una nave espacial que ha despegado rumbo a Marte. Nuestros queridos personajes protagonizarán un divertidísimo viaje por el espacio y al llegar aMarte, los graciosos extraterrestres piensan que Tom ¡es un gigante delespacio y que Jerry es el jefe de todos los marcianos! ¿Conseguirá nuestra pareja de dibujos favorita dejar de perseguirse y salvar a la Tierra de una invasión marciana? Necesitarán las 7 vidas del gato Tom para trinfar en su misión en Marte en esta maravillosa aventura extraterrestre.",
+    "ACTORES": "  • Jeff Bennett (Dr. Gluckman / Martian Guard #1 / President (voice))\n  • Corey Burton (Martian Scientist / Court Attendant / Eyes At Gate (voice))\n  • Kathryn Fiore (Peep / Press Girl (voice))\n  • Brad Garrett (Commander Bristle / Martian Guard #3 (voice))\n  • Jess Harnell (Major Buzz Blister / Martian General / Worker #3 (voice))",
+    "DIRECTOR": "Bill Kopp",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/14766848412262"
+    ]
+  },
+  {
+    "CATEGORIA": "TOM_Y_JERRY",
+    "TMDB_ID": 22582,
+    "ID_OKRU": "14766751287910",
+    "TITULO": "Tom y Jerry: la película",
+    "FECHA": "1992-10-01",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/7LVlL5My8lftjb3HKJdrxcDE586.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/uDdt2h4Q1jZikmYphHRerKtjMgF.jpg",
+    "GENERO": "Animación, Comedia, Familia",
+    "RATING": 6.3,
+    "DURACION": 80,
+    "FRASE_PROMOCIONAL": "El gato y el ratón más famosos del mundo en su primera película.",
+    "SINOPSIS": "La famosa pareja conoce a Robyn Starling quien tras escaparse de su casa necesita la ayuda de Tom y Jerry para encontrar a su desaparecido padre. A pesar de sus esfuerzos heróicos, Tom y Jerry son capturados por la malvada tía de Robyn, Tía Gordis, y su abogado Lambis y encarcelados en una cárcel de animales por el perverso doctor Caradulce Cachetín. Tom y Jerry planean una fuga genial y liberan a sus nuevos amigos Puggsy y Frankie la Pulga. (FILMAFFINITY)",
+    "ACTORES": "  • Richard Kind (Tom (voice))\n  • Dana Hill (Jerry (voice))\n  • Anndi McAfee (Robyn Starling (voice))\n  • Tony Jay (Lickboot (voice))\n  • Rip Taylor (Captain Kiddie (voice))",
+    "DIRECTOR": "Phil Roman",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/14766751287910"
+    ]
+  },
+  {
+    "CATEGORIA": "TOM_Y_JERRY",
+    "TMDB_ID": 42246,
+    "ID_OKRU": "14766802668134",
+    "TITULO": "Tom y Jerry en la super carrera",
+    "FECHA": "2005-09-03",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/9rn3wbkXyQen9ipaAQtX01HGAMe.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/bXILbW1i0WRShd6s4LfLKdJM6zm.jpg",
+    "GENERO": "Animación, Comedia, Familia, Acción",
+    "RATING": 7.1,
+    "DURACION": 75,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Tom y Jerry, el dúo más famoso de la historia se ha quedado sin hogar. La simpática pareja decide inscribirse para participar en la Fabulosa Super-Carrera, un reality show de la TV donde el gran premio es una enorme mansión. Las travesuras de Tom y Jerry son la gran sensación del concurso y las carreras son cada vez más y más divertidas.",
+    "ACTORES": "  • Charlie Adler (Grammy (voice))\n  • Jeff Bennett (Steed (voice))\n  • John DiMaggio (J.W. / Spike (voice))\n  • Jess Harnell (Buzz Blister / Film Director (voice))\n  • Tom Kenny (Gorthan / Whale (voice))",
+    "DIRECTOR": "Bill Kopp",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/14766802668134"
+    ]
+  },
+  {
+    "CATEGORIA": "TOM_Y_JERRY",
+    "TMDB_ID": 60293,
+    "ID_OKRU": "14766664256102",
+    "TITULO": "Tom y Jerry. El tesoro del galeón pirata",
+    "FECHA": "2006-08-21",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/g85rGahQAntohJ8FqCI4pS6l2Jx.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/7tOpXxoPavzvkPz92JpnWl0uHet.jpg",
+    "GENERO": "Animación, Comedia, Familia, Aventura",
+    "RATING": 6.9,
+    "DURACION": 76,
+    "FRASE_PROMOCIONAL": "Un Film de Scott Jeralds",
+    "SINOPSIS": "Tom decide embarcarse en el barco del malvado Capitán Rojo. Allí tiene que limpiar la cubierta y atender a los piratas. Pero su suerte cambiará cuando encuentre una botella con un mapa que muestra el camino hacia el tesoro. Un suelo que deberá compartir con un pequeño ratón llamado Jerry que estaba dentro de la botella...",
+    "ACTORES": "  • William Hanna (Tom / Jerry (voice) (archive sound))\n  • Mark Hamill (The Skull (voice))\n  • Kathy Najimy (Blue Parrot Betty (voice))\n  • Charles Nelson Reilly (Red Parrot Stan (voice))\n  • Kevin Michael Richardson (Red Pirate Ron / Blue Pirate Bob / Purple Parrot (voice))",
+    "DIRECTOR": "Scott Jeralds",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/14766664256102"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 20771,
+    "ID_OKRU": "10567398197862",
+    "TITULO": "Kim Possible: Sí Es para Tanto",
+    "FECHA": "2005-04-08",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/geKv38zHunLcmW3Cl1q0MFZpbND.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/y8n9w26LU9BYiMIyARv6dbg6NO8.jpg",
+    "GENERO": "Animación, Aventura, Familia, Acción, Comedia, Ciencia ficción, Película de TV",
+    "RATING": 6.9,
+    "DURACION": 71,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "El Dr. Drakken tiene un nuevo y malvado plan para dominar el planeta, pro su éxito depende de encontrar el punto débil de Kim Posible. ¿Esta debilidad, tendrá algo que ver con un chico llamado Eric? Kim está totalmente distraída con la fiesta de fin de curso, mientras Ron está actuando como un bobo, justo cuando Kim más lo necesita. Si el Dr. Drakken sigue presionando, ¡Kim Posible tendrá que rendirse! Pero nada termina hasta que no llega el final. (FILMAFFINITY)",
+    "ACTORES": "  • Christy Carlson Romano (Kim Possible (voice))\n  • Will Friedle (Ron Stoppable (voice))\n  • Nancy Cartwright (Rufus (voice))\n  • Tahj Mowry (Wade (voice))\n  • Mayim Bialik (Justine Flanner (voice))",
+    "DIRECTOR": "Steve Loter",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/10567398197862"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 85787,
+    "ID_OKRU": "9235972360806",
+    "TITULO": "El lago de los cisnes",
+    "FECHA": "1981-03-13",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/tTLQW4pNfxjha4QXq64ZKoyIAu3.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/3cL0UcEtvyxvbFtFoolQeMAJ0lM.jpg",
+    "GENERO": "Aventura, Fantasía, Animación",
+    "RATING": 7.06,
+    "DURACION": 75,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Basado en el ballet compuesto por Pyotr Ilyich Tchaikovsky y con su música original, relata la historia del príncipe Sigfrido, que un día cabalgando descubre un bellísimo cisne que porta una corona en su cabeza. Alfredo, el arquero del príncipe, intenta cazar al cisne y queda convertido en piedra antes de poder disparar. El cisne desaparece y Sigfrido se obsesiona con encontrarlo de nuevo para pedirle que libere a su arquero del hechizo. Pronto comprende que el autor del embrujo no es el bello cisne sino que éste está también hechizado, tratándose realmente de la princesa Odette, condenada por el malvado brujo Rothbart a ser cisne a la luz del día al no haber accedido a casarse con él. Sigfrido se enamora de Odette y trata por todos los medios de romper el hechizo casándose con ella, pero la retorcida hija de Rothbart, Odile, que quiere al príncipe para sí misma, urde un inteligente plan para que eso no ocurra nunca...",
+    "ACTORES": "  • 志垣太郎 (Prince Siegfried (voice))\n  • 竹下景子 (Princess Odette (voice))\n  • 小池朝雄 (Rothbart (voice))\n  • 麻上洋子 (Odille (voice))\n  • 松金よね子 (Hans (voice))",
+    "DIRECTOR": "矢吹公郎",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9235972360806"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 12448,
+    "ID_OKRU": "9233604872806",
+    "TITULO": "El jorobado de Notre Dame 2: El secreto de la campana",
+    "FECHA": "2002-02-06",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/gFqCwVk7ykPkRevHNC6ZNzHZuu4.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/bCvvGF2QljUG5MpSaTCAC1VMbvy.jpg",
+    "GENERO": "Animación, Familia, Comedia, Romance",
+    "RATING": 5.384,
+    "DURACION": 65,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "El campanero Quasimodo ayudado por todos sus amigos se enfrentará en esta aventura a los planes del malvado Sarousch, hechicero y dueño de un circo. Sarouch pretende robar la famosa campana de la catedral, La Fidele. Para ello se vale de sus poderes de hechicería y obliga a la nueva amiga de Quasimodo, Madellaine a convertirse en su cómplice. El hijo de Esmeralda se interpone en sus planes e intenta detener a Sarousch. Quasimodo, ignorando los recelos de sus divertidas camaradas: las Gárgolas y guiado por su corazón, se lanza al rescate de su pequeño compañero y la valiosa campana. Secuela lanzada directamente al mercado de vídeo y DVD. (FILMAFFINITY)",
+    "ACTORES": "  • Tom Hulce (Quasimodo (voice))\n  • Jennifer Love Hewitt (Madellaine (voice))\n  • Jason Alexander (Gargoyle Hugo (voice))\n  • Paul Kandel (Clopin (voice))\n  • Charles Kimbrough (Gargoyle Victor (voice))",
+    "DIRECTOR": "Bradley Raymond",
+    "TRAILER": "https://youtube.com/watch?v=eUwUUeSp22M",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9233604872806"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 360605,
+    "ID_OKRU": "7836428864102",
+    "TITULO": "Mi hermana invisible",
+    "FECHA": "2015-12-10",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/nIOHDcxxGfI70QCfAIUQeMx39fk.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/xy4kRFTxMbPeWBKcQkijJ8i1DFx.jpg",
+    "GENERO": "Fantasía, Aventura, Comedia, Película de TV",
+    "RATING": 6.7,
+    "DURACION": 90,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Haciendo un experimento de ciencias, algo sale mal y Cleo convierte a su hermana mayor Molly en invisible....",
+    "ACTORES": "  • Rowan Blanchard (Cleo)\n  • Paris Berelc (Molly)\n  • Karan Brar (George)\n  • Rachel Crow (Nikki)\n  • Ashton Smiley (Molly's Best Friend)",
+    "DIRECTOR": "Paul Hoen",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7836428864102"
+    ]
+  },
+  {
+    "CATEGORIA": "TOM_Y_JERRY",
+    "TMDB_ID": 199753,
+    "ID_OKRU": "7265551387238",
+    "TITULO": "Tom y Jerry: Una aventura colosal",
+    "FECHA": "2013-08-04",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/sFCZvviaQFHTmUoishpvFBrs0j9.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/xXY4XV7hhOH7QDVLb7yGU9n0YiE.jpg",
+    "GENERO": "Animación, Comedia, Familia, Fantasía",
+    "RATING": 5.9,
+    "DURACION": 62,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Tom y Jerry son los asistentes de Jack, el joven propietario de un parque de atracciones, el cual está pasando por unos momentos complicados, hasta que unas judías mágicas le dan la oportunidad de cambiar su situación. Tom y Jerry tienen que conseguir una oca dorada para salvar el parque. Adaptación libre de \"Jack y las judías mágicas\".",
+    "ACTORES": "  • Garrison Keillor (Farmer O'Dell / Narrator (voice))\n  • Paul Reubens (Screwy Squirrel (voice))\n  • Grey DeLisle (Mrs. Bradley / Red Fairy (voice))\n  • Jacob Bertrand (Jack (voice))\n  • Thomas F. Wilson (Mr. Bigley / Ginormous (voice))",
+    "DIRECTOR": "Spike Brandt",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7265551387238"
+    ]
+  },
+  {
+    "CATEGORIA": "TOM_Y_JERRY",
+    "TMDB_ID": 287233,
+    "ID_OKRU": "7265551256166",
+    "TITULO": "Tom y Jerry y el Dragón Perdido",
+    "FECHA": "2014-07-27",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/7reE1T13cHTaPPrw1RX8B5uU9Ix.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/7Y2hqJteEvE5DD0j99QTXqF9MZ8.jpg",
+    "GENERO": "Animación, Comedia, Familia, Fantasía",
+    "RATING": 6.0,
+    "DURACION": 57,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Su gato y ratón favorito regresan con la canción, la hechicería y la bufonada de siempre en este cuento encantado. La aventura comienza cuando Tom y Jerry encuentran un huevo misterioso. Lo que no saben, es que este huevo fue robado de un gran dragón que respira fuego. En poco tiempo, el bebé rompe el huevo y toma a Tom como su mamá. La dragón mamá enojada quiere que su bebé de regreso, pero ella no es la única, una poderosa bruja llamada Drizelda captura al bebé dragón para sus propios planes malvados. Con la ayuda de poderosos aliados y amigos de los animales, Tom y Jerry tienen que luchar con uñas y dientes para detener a la bruja y obtener el dragón bebé y entregar a su madre.",
+    "ACTORES": "  • Kelly Stables (Athena / Puffy (voice))\n  • Vicki Lewis (Drizelda (voice))\n  • Jim Cummings (Haldorf (voice))\n  • Laraine Newman (Elf Elder's Wife (voice))\n  • Greg Ellis (Tin (voice))",
+    "DIRECTOR": "Spike Brandt",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7265551256166"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 45772,
+    "ID_OKRU": "7120166455910",
+    "TITULO": "Gnomeo y Julieta",
+    "FECHA": "2011-01-13",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/qPbBWRwGvYoOJbEBFkLs8KWUcnP.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/w3LLngJIAA1R7Mp2S3G0HZl2R3H.jpg",
+    "GENERO": "Animación, Familia",
+    "RATING": 5.906,
+    "DURACION": 80,
+    "FRASE_PROMOCIONAL": "¡Que no te dejen plantao!",
+    "SINOPSIS": "La obra de Shakespeare experimenta una transformación disparatada: la gran historia de amor es protagonizada por enanos de jardín. Gnomeo y Juliet, al igual que sus cuasi homónimos, tienen que superar un sinfín de obstáculos, pero en este caso no se deben al odio que enfrenta a sus familias, sino a una disputa entre vecinos. ¿Podrá este pareja vivir feliz para siempre entre flamencos rosas de plástico y demenciales carreras de cortadoras de césped?. Los dos enanos intentarán que su destino fatal no se cumpla. Lucharán para que su historia de amor tenga un final feliz. Cuenta con canciones clásicas y también originales de Elton John.",
+    "ACTORES": "  • James McAvoy (Gnomeo (voice))\n  • Emily Blunt (Juliet (voice))\n  • Michael Caine (Lord Redbrick (voice))\n  • Maggie Smith (Lady Bluebury (voice))\n  • Julie Walters (Lady Montague (voice))",
+    "DIRECTOR": "Kelly Asbury",
+    "TRAILER": "https://youtube.com/watch?v=y85NeNJIva4",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7120166455910"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 40706,
+    "ID_OKRU": "7031625943654",
+    "TITULO": "La hora de Jimmy y Timmy",
+    "FECHA": "2004-05-07",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/oJTKUJqa9vh2ZnYpq3dlYaZn73E.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/ngjk3mR45eil3AVQY7dHVtB5KKk.jpg",
+    "GENERO": "Animación, Comedia, Familia, Fantasía, Película de TV, Ciencia ficción, Acción",
+    "RATING": 7.1,
+    "DURACION": 50,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Timmy Turner está destinado a sacar malas notas eternamente en clase de ciencias, lo que le hace desear con todas sus fuerzas el laboratorio más grande del mundo, propiedad de Jimmy Neutron. La fuerza del deseo de Timmy lo lleva a teletransportarse al mundo de Jimmy, donde vivirá numerosas aventuras.",
+    "ACTORES": "  • Debi Derryberry (Jimmy Neutron (voice))\n  • Tara Strong (Timmy Turner (voice))\n  • Megan Cavanagh (Judy Neutron (voice))\n  • Mark DeCarlo (Hugh Neutron (voice))\n  • Rob Paulsen (Carl Wheezer / Announcer (voice))",
+    "DIRECTOR": "Keith Alcorn",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7031625943654"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 17710,
+    "ID_OKRU": "7025372957286",
+    "TITULO": "¡Oye, Arnold! La película",
+    "FECHA": "2002-06-28",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/lRoSR6ibaJglCXwuN7Od8FaAsbr.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/1pEMcogCLU2z9s3Vl10UUKswLLk.jpg",
+    "GENERO": "Animación, Comedia, Familia, Aventura, Drama, Suspense",
+    "RATING": 6.505,
+    "DURACION": 76,
+    "FRASE_PROMOCIONAL": "Un gran problema requiere una gran cabeza.",
+    "SINOPSIS": "Un industrial sin corazón tiene un plan siniestro: eliminar el barrio de Arnold para construir en su lugar un gran complejo de tiendas. Con el tiempo corriendo en su contra, necesitan que alguien consiga detener al malvado constructor. Y ése es Arnold: con la ayuda de Helga, la niña que le ama en secreto, y de su mejor amigo Gerald, Arnold se empeña en demostrar el verdadero significado del progreso: descubrir nuevas diversiones en el viejo vecindario al que él define como “su hogar”.",
+    "ACTORES": "  • Spencer Klein (Arnold (voice))\n  • Francesca Marie Smith (Helga Geraldine Pataki (voice))\n  • Jamil Walker Smith (Gerald Johanssen / Rasta Guy (voice))\n  • Dan Castellaneta (Grandpa 'Steely' Phil / Nick Vermicelli (voice))\n  • Tress MacNeille (Grandma Gertie 'Pookie' / Mayor Dixie / Red (voice))",
+    "DIRECTOR": "Tuck Tucker",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7025372957286"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 44310,
+    "ID_OKRU": "9365077822076",
+    "TITULO": "La leyenda del Titanic",
+    "FECHA": "1999-04-17",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/8I2hNivSXdENN6wKvdkMpymwvjF.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/oTR3KI1kVQ6ULrR2X6TobDlYVzO.jpg",
+    "GENERO": "Animación, Familia",
+    "RATING": 3.3,
+    "DURACION": 84,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Un viejo ratón reúne a sus nietos para narrarles su aventura de cuando joven se embarcó en el Titanic y con todos los personajes que compartió el fatídico viaje, donde para sobrevivir contaron con la ayuda de un pulpo gigantesco y un diminuto pez.",
+    "ACTORES": "  • Emanuela Rossi (Elizabeth Camden (voice))\n  • Vittorio Guerrieri (Don Juan (voice))\n  • Stefano Crescentini (Top Connors (voice))\n  • Maria Teresa Cella (Ronnie (voice))\n  • Ferruccio Amendola (Denti di Ghiaccio (voice))",
+    "DIRECTOR": "Kim Jun Ok",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9365077822076"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 71235,
+    "ID_OKRU": "9365085489788",
+    "TITULO": "Titanic: La película animada",
+    "FECHA": "2000-09-15",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/or3lIn76VpssWDFDw7z5Dvgiyyw.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/4Sddw1BFQFHOIQZ3DY7QS0mGnVe.jpg",
+    "GENERO": "Animación, Familia",
+    "RATING": 2.813,
+    "DURACION": 75,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "William, un joven adinerado conoce a la bella Angélica en un viaje en el mar abordo del Titanic, ambos se enamoran pero ella no puede corresponderle porque no pertenece a su mundo. Sin embargo, la tranquilidad en el barco será alterada cuando choca contra unos iceberg haciéndo que se hunda. Las personas a bordo luchan por salvar sus vidas.",
+    "ACTORES": "  • Francesca Guadagno (Angelica (voice))\n  • Francesco Pezzulli (William (voice))\n  • Valeria Perilli (Geltrude (voice))\n  • Claudia Pittelli (Berenice (voice))\n  • Eliana Lupo (Ortensia (voice))",
+    "DIRECTOR": "Camillo Teti",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9365085489788"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 8965,
+    "ID_OKRU": "9026294516348",
+    "TITULO": "Atlantis: El regreso de Milo",
+    "FECHA": "2003-02-25",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/cGL75ElUUClVs8kpXbVcaUxmgbd.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/3raqIytmaDD9AkAWh8W0FYtx3gX.jpg",
+    "GENERO": "Fantasía, Animación, Ciencia ficción, Familia, Acción",
+    "RATING": 6.331,
+    "DURACION": 70,
+    "FRASE_PROMOCIONAL": "Las nuevas aventuras",
+    "SINOPSIS": "En la primera expedición (Atlantis: El Imperio Perdido), Milo y sus acompañantes encontraron la famosa ciudad perdida de Atlantis y salvaron al misterioso reino y a sus habitantes. Ahora, Milo, Kida y su equipo vivirán nuevas aventuras y descubrirán que poseen nuevos poderes. En su nueva misión, el equipo se enfrentará a enormes monstruos marinos, a espíritus espectaculares y poderosas leyendas recorriendo desde el polvoriento desierto del sudoeste hasta las heladas montañas nórdicas. A lo largo de esta aventura, Kida descubre el increíble poder de los cristales encantados de su ciudad y tiene que decidir si oculta ese poder en el Corazón de Atlantis o lo comparte con el resto del mando... Secuela directa a vídeo de la película de Disney de 2001.",
+    "ACTORES": "  • James Arnold Taylor (Milo (voice))\n  • Cree Summer (Kida (voice))\n  • John Mahoney (Whitmore (voice))\n  • Jacqueline Obradors (Audrey / Nurse (voice))\n  • Don Novello (Vinny (voice))",
+    "DIRECTOR": "Victor Cook",
+    "TRAILER": "https://youtube.com/watch?v=2om1hDsDekY",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9026294516348"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 100697,
+    "ID_OKRU": "9026024376956",
+    "TITULO": "El imperio perdido",
+    "FECHA": "1984-06-22",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/vTDXjwcy3EZLPnEwKtYBKXeDpGX.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/8YtiBznNpHgbvbDWXPSZMh3Blwu.jpg",
+    "GENERO": "Aventura, Acción, Fantasía",
+    "RATING": 4.742,
+    "DURACION": 83,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "En una tierra en un pasado lejano, tres hermosas mujeres, miembros de una tribu perdida, luchan contra un genio masculino con planes diabólicos para destruir su \"Imperio Perdido\". Si el vencedor puede encontrar las joyas sagradas, puede anticipar el poder total.",
+    "ACTORES": "  • Melanie Vincz (Angel Wolfe)\n  • Raven De La Croix (Whitestar)\n  • Angela Aames (Heather McClure)\n  • Paul Coufos (Rick Stanton)\n  • Robert Tessier (Koro)",
+    "DIRECTOR": "Jim Wynorski",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9026024376956"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 11544,
+    "ID_OKRU": "9203068177020",
+    "TITULO": "Lilo & Stitch",
+    "FECHA": "2002-06-21",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/dTYyAszU6NWbmWGvhqLZpZTdS5T.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/AcxbOWUbwtIEDisfuhNGHQNfnMK.jpg",
+    "GENERO": "Animación, Familia, Comedia, Ciencia ficción",
+    "RATING": 7.561,
+    "DURACION": 85,
+    "FRASE_PROMOCIONAL": "Siempre hay uno en todas las familias.",
+    "SINOPSIS": "Lilo es una niña hawaiana que se siente sola y decide adoptar un \"perro\" muy feo al que llama Stitch. Stitch sería la mascota perfecta... si no fuera en realidad un experimento genético que ha escapado de un planeta alienígena y que ha aterrizado por casualidad en la tierra.",
+    "ACTORES": "  • Daveigh Chase (Lilo (voice))\n  • Chris Sanders (Stitch (voice))\n  • Tia Carrere (Nani (voice))\n  • David Ogden Stiers (Jumba (voice))\n  • Kevin McDonald (Pleakley (voice))",
+    "DIRECTOR": "Chris Sanders",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9203068177020"
+    ]
   }
 ]
