@@ -4421,5 +4421,125 @@
     "URLS_OKRU": [
       "https://ok.ru/video/9203068177020"
     ]
+  },
+  {
+    "CATEGORIA": "DRAGON_BALL_Z",
+    "TMDB_ID": 39101,
+    "ID_OKRU": "11980355406495",
+    "TITULO": "Dragon Ball Z꞉ Super batalla decisiva por la Tierra",
+    "FECHA": "1990-06-07",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/uGadvCa5w8X6zAWzdZlVQYNd6QR.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/9mZGGJJP04RBmrzh9XVSfqRXl0d.jpg",
+    "GENERO": "Acción, Animación, Ciencia ficción, Película de TV",
+    "RATING": 6.6,
+    "DURACION": 60,
+    "FRASE_PROMOCIONAL": "Sexta película.",
+    "SINOPSIS": "Una extraña nave de exploración llega a la Tierra para ser observada por un desertor de Freezer, Turles junto a los miembros de su equipo. Cuando llegan a la Tierra para sembrar el Árbol Sagrado, que haría que sus poderes aumentaran de manera increíble. Mientras el Kaio del Norte alerta a los Guerreros Z del Árbol Sagrado, Goku y los demás fueron a intentar destruirlo, pero en ese momento aparecen los acólitos de Turles y se enfrentan a los Guerreros Z. Goku lucha por su supervivencia y por la del Planeta Tierra.",
+    "ACTORES": "  • Masako Nozawa (Son Goku / Turles / Son Gohan (voice))\n  • Mayumi Tanaka (Krillin (voice))\n  • Hirotaka Suzuoki (Tien Shinhan (voice))\n  • Toru Furuya (Yamcha (voice))\n  • Toshio Furukawa (Piccolo (voice))",
+    "DIRECTOR": "西尾大介",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/11980355406495"
+    ]
+  },
+  {
+    "CATEGORIA": "DRAGON_BALL_Z",
+    "TMDB_ID": 39102,
+    "ID_OKRU": "11980354882207",
+    "TITULO": "Dragon Ball Z: Son Goku el Super Saiyan",
+    "FECHA": "1991-03-19",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/iCySGAWNMk0BETBGAK3xNOKTkX5.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/jznY4TwOaVWZJoXA3D5FkvX3cUc.jpg",
+    "GENERO": "Acción, Animación, Ciencia ficción",
+    "RATING": 6.5,
+    "DURACION": 51,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "El fin del mundo se aproxima por culpa de un asteroide gigante. Goku y Krilin consiguen desviarlo de su trayectoria y descubren otra amenaza mayor. El tirano Slug, un namekiano que reniega de su especie, pretende invadir el planeta después de convertirlo en inhabitable para los humanos. Cuando el invasor descubre la existencia de las siete bolas mágicas y le pide al gran dragón Shenron la juventud eterna, lo único que puede detener las ansias de conquista del super namekiano son Goku y sus amigos.",
+    "ACTORES": "  • Toshio Furukawa (Piccolo (voice))\n  • Kenji Utsumi (Slug / Shenlong (voice))\n  • Masako Nozawa (Son Goku / Son Gohan (voice))\n  • Mayumi Tanaka (Kuririn / Yajirobe (voice))\n  • Joji Yanami (North Kaiou (voice))",
+    "DIRECTOR": "Mitsuo Hashimoto",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/11980354882207"
+    ]
+  },
+  {
+    "CATEGORIA": "DRAGON_BALL_Z",
+    "TMDB_ID": 24752,
+    "ID_OKRU": "11980354554527",
+    "TITULO": "Dragon Ball Z: El más poderoso contra el más poderoso",
+    "FECHA": "1991-07-20",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/1hXkEacbCRYYau4dLv4UZPWxKr5.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/lQpNbp6T8UFI3iPppm8MGDNcGbc.jpg",
+    "GENERO": "Acción, Animación, Ciencia ficción",
+    "RATING": 7.045,
+    "DURACION": 47,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Cuando Goku y sus amigos están en un día de campo, aparecen unos soldados misteriosos con una armadura similar a las del Ejército de Freezer a luchar contra ellos, el único que pudo con ellos fue Goku. Pero en ese momento llega preciso momento llega un sujeto llamado Cooler, el cual resulta ser el hermano mayor de Freezer que llegó a la Tierra para vengar su muerte.",
+    "ACTORES": "  • Masako Nozawa (Son Gokû / Son Gohan / Bardock (voice))\n  • Toshio Furukawa (Piccolo (voice))\n  • Mayumi Tanaka (Kuririn / Yajirobe (voice))\n  • Naoki Tatsuta (Oolong / Haiya Dragon (voice))\n  • Naoko Watanabe (Chichi (voice))",
+    "DIRECTOR": "Mitsuo Hashimoto",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/11980354554527"
+    ]
+  },
+  {
+    "CATEGORIA": "DRAGON_BALL_Z",
+    "TMDB_ID": 39103,
+    "ID_OKRU": "11980353899167",
+    "TITULO": "Dragon Ball Z꞉ ¡Choque! Los guerreros de 10.000 millones de poder",
+    "FECHA": "1992-03-07",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/gZWXQjDLL6Fxqygbtq8LZaK8h1O.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/cZD27c2H9wLAsIOeouzqiL4OaBr.jpg",
+    "GENERO": "Acción, Animación, Ciencia ficción",
+    "RATING": 6.473,
+    "DURACION": 46,
+    "FRASE_PROMOCIONAL": "¡Choque!, Los guerreros de 10.000 millones de poder",
+    "SINOPSIS": "El nuevo Dios, Dende, se entera que su planeta natal, Namek, está en peligro. Este le pide ayuda a Goku y sus amigos para que salven su planeta así que los Guerreros Z deciden ir a ayudar. Al llegar Goku y sus amigos se dan cuenta que una especie de estrella está atacando al planeta. Los namekianos estaban siendo apresados por unos robots y deciden ayudarlos pero les cuesta mucho trabajo pelear con ellos ya que los robots son muy fuertes. Detrás de todo esto se encuentran con Cooler, el hermano mayor de Freezer, al que todos pensaban que Goku había vencido. Esta vez es de metal y su cerebro forma parte de la computadora de la Gran Estrella Gete.",
+    "ACTORES": "  • Masako Nozawa (Son Gokû / Son Gohan (voice))\n  • Toshio Furukawa (Piccolo (voice))\n  • Mayumi Tanaka (Kuririn / Yajirobe (voice))\n  • Ryo Horikawa (Vegeta (voice))\n  • Kohei Miyauchi (Kame-sen'nin (voice))",
+    "DIRECTOR": "西尾大介",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/11980353899167"
+    ]
+  },
+  {
+    "CATEGORIA": "DRAGON_BALL_Z",
+    "TMDB_ID": 39104,
+    "ID_OKRU": "11980353571487",
+    "TITULO": "Dragon Ball Z꞉ ¡Batalla al límite! Los tres grandes super saiyans",
+    "FECHA": "1992-07-11",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/jIiqgyZLObr3Z5LIfGZsk2ouDWl.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/1u3yIvWFZaNDSSXmWYCYaNpCBBu.jpg",
+    "GENERO": "Acción, Animación, Ciencia ficción",
+    "RATING": 6.9,
+    "DURACION": 45,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "En el mundo paralelo, cuando los Androides Número 17 y 18 destruyeron a su propio creador, el Dr. Gero, una de las funciones de su computadora provocó que se activaran tres nuevos androides, los androides 13-15. Estos androides como todos los que fueron creados por el Dr. Gero tienen la misión de matar a Goku. Al despertar fueron a buscar a Goku que se encontraba junto a su familia y amigos en un centro comercial ayudando a Chi-Chi con sus compras, y en ese momento llegan a ese lugar. Cuando Goku ve a los androides se enfrenta a ambos en medio de la ciudad, durante la pelea Goku se da cuenta de los numerosos destrozos en la ciudad. En ese momento llega Trunks del futuro para ayudarle y los lleva a un lugar alejado de cualquier población.",
+    "ACTORES": "  • Masako Nozawa (Son Goku / Son Gohan (voice))\n  • Ryo Horikawa (Vegeta (voice))\n  • Takeshi Kusao (Future Trunks (voice))\n  • Toshio Furukawa (Piccolo (voice))\n  • Mayumi Tanaka (Kuririn (voice))",
+    "DIRECTOR": "西尾大介",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/11980353571487"
+    ]
+  },
+  {
+    "CATEGORIA": "DRAGON_BALL_Z",
+    "TMDB_ID": 44251,
+    "ID_OKRU": "11571613928095",
+    "TITULO": "Dragon Ball Z꞉ ¡El dúo peligroso! Los súper guerreros nunca duermen",
+    "FECHA": "1994-03-12",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/x83JFWT3zeqI1j2ubPp1xfPhJq4.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/2WTjYoswcKZTQrokeUOhY3Xb3mZ.jpg",
+    "GENERO": "Animación, Acción, Ciencia ficción",
+    "RATING": 6.774,
+    "DURACION": 52,
+    "FRASE_PROMOCIONAL": "Broly está de regreso!",
+    "SINOPSIS": "Broly regresa clamando venganza. Tras ser derrotado por Goku en una dura batalla en el planeta Neo Vegeta, Broly logra escapar en una cápsula espacial y llega a la Tierra. Allí queda congelado en un lago durante 7 años. Mientras, buscando las bolas de dragón, Videl, Goten y Trunks llegan a un extraño pueblo amenazado por la presencia de un monstruo. Los sollozos de Goten despiertan a Broly y comienza una batalla.",
+    "ACTORES": "  • Masako Nozawa (Son Gokû / Son Gohan / Son Goten (voice))\n  • Mayumi Tanaka (Krillin (voice))\n  • Takeshi Kusao (Trunks (voice))\n  • Yuko Minaguchi (Videl (voice))\n  • 嶋方淳子 (Koko (voice))",
+    "DIRECTOR": "Shigeyasu Yamauchi",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/11571613928095"
+    ]
   }
 ]
