@@ -4741,5 +4741,25 @@
     "URLS_OKRU": [
       "https://ok.ru/video/35796093527"
     ]
+  },
+  {
+    "CATEGORIA": "DRAGON_BALL_Z",
+    "TMDB_ID": 39148,
+    "ID_OKRU": "vk_230577224_456239020",
+    "TITULO": "Dragon Ball: El camino hacia el más fuerte",
+    "FECHA": "1996-03-04",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/sSdhAvMpKfqJ6DYUSkrWURt1L5Q.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/cJ2CNxc1AQh5raZgxeQreGKxale.jpg",
+    "GENERO": "Animación, Aventura, Fantasía",
+    "RATING": 7.406,
+    "DURACION": 79,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "El camino hacia el más fuerte es la 17ª película basada basada en la serie de manga y anime Dragon Ball, y la 4º de la etapa Dragon Ball. Se hizo con motivo del 10º aniversario de la serie, y cuenta de una manera diferente desde el principio de la serie hasta el fin del Ejército Red Ribbon, con una mejora gráfica y efectos en 3D: Goku conoce a Bulma y juntos deciden ir en busca de las siete Dragon Ball para resucitar al Dragón Xeron y pedirle un deseo. Durante el viaje, se les une Ulong, Yamcha y Puar. Todos juntos se embarcan en una peligrosa aventura enfrentándose al terrible ejército de la Red Ribbon, mandados por el malvado general White. Goku combate a robots de gran poder y espectaculares técnicas de combate. Una vez superado el obstáculo, el grupo sigue su camino hasta enfrentarse al ejército del general Blue con la ayuda del Duende Tortuga. Goku tendrá que usar todo su poder para conseguir las siete Dragon Ball.",
+    "ACTORES": "  • Masako Nozawa (Son Goku (voice))\n  • Hiromi Tsuru (Bulma (voice))\n  • Toru Furuya (Yamcha (voice))\n  • Naoki Tatsuta (Oolong (voice))\n  • Naoko Watanabe (Puar (voice))",
+    "DIRECTOR": "Shigeyasu Yamauchi",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://vkvideo.ru/video-230577224_456239020"
+    ]
   }
 ]
