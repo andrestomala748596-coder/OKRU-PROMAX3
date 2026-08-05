@@ -3525,13 +3525,13 @@
   {
     "CATEGORIA": "MOVIES_COMEDY",
     "TMDB_ID": 38322,
-    "ID_OKRU": "4215799876201",
+    "ID_OKRU": "3189912308390",
     "TITULO": "Esta abuela es mi padre",
     "FECHA": "2011-02-16",
     "PORTADA": "https://image.tmdb.org/t/p/w500/4l00cZxGGAP8zWiMnE2gvV7lQHK.jpg",
     "BACKDROP": "https://image.tmdb.org/t/p/w500/9pamTKugDIa1YQD8k280au3NVKd.jpg",
     "GENERO": "Crimen, Comedia, Acción",
-    "RATING": 5.542,
+    "RATING": 5.545,
     "DURACION": 112,
     "FRASE_PROMOCIONAL": "Mamá tiene refuerzos.",
     "SINOPSIS": "Tercera entrega de la saga \"Esta abuela es un peligro\". Martin Lawrence regresa como el agente del FBI Malcolm Turner y como su alter ego Hattie Mae Pierce, \"La Gran Abuela\". Pero esta vez, lo acompañará su hijo Trent, testigo de un asesinato perpetrado por unos gángsteres rusos, lo que los obligará a camuflarse en una Escuela de Arte para chicas, donde tendrán que encontrar al asesino antes de que él los encuentre a ellos",
@@ -3539,7 +3539,7 @@
     "DIRECTOR": "John Whitesell",
     "TRAILER": "https://youtube.com/watch?v=Sqpz9D_Ri4s",
     "URLS_OKRU": [
-      "https://ok.ru/video/4215799876201"
+      "https://ok.ru/video/3189912308390"
     ]
   },
   {
@@ -4800,6 +4800,186 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2457388387028"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 10140,
+    "ID_OKRU": "7661082512038",
+    "TITULO": "Las crónicas de Narnia: La travesía del viajero del alba",
+    "FECHA": "2010-12-02",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/i1VNVBUkai81eRQTS16zXllnN52.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/oc3be3waruLd0PB9h4bomN7Le3v.jpg",
+    "GENERO": "Aventura, Familia, Fantasía",
+    "RATING": 6.441,
+    "DURACION": 113,
+    "FRASE_PROMOCIONAL": "Emprende el viaje. Vive la aventura. Descubre Narnia como nunca antes la habías visto.",
+    "SINOPSIS": "Tercera entrega de la saga literaria creada por C.S. Lewis. En esta ocasión, los hermanos Edmund y Lucy Pevensie y su primo Eustace embarcan en la nave \"El Viajero del Alba\" para buscar a los siete caballeros que han sido expulsados del reino por Miraz, el usurpador del trono de Narnia.",
+    "ACTORES": "  • Georgie Henley (Lucy Pevensie)\n  • Skandar Keynes (Edmund Pevensie)\n  • Ben Barnes (Caspian)\n  • Will Poulter (Eustace Scrubb)\n  • Anna Popplewell (Susan Pevensie)",
+    "DIRECTOR": "Michael Apted",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7661082512038"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 2454,
+    "ID_OKRU": "7631739816614",
+    "TITULO": "Las crónicas de Narnia: El príncipe Caspian",
+    "FECHA": "2008-05-15",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/5DjVX6Nqa6zvvY8AWpBxIuftLhw.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/9pBv1BOSloAUgAkF0meJWdnbV4Q.jpg",
+    "GENERO": "Aventura, Familia, Fantasía",
+    "RATING": 6.635,
+    "DURACION": 144,
+    "FRASE_PROMOCIONAL": "Todo lo que conoces está a punto de cambiar.",
+    "SINOPSIS": "Un año después de los increíbles acontecimientos de \"El León, la Bruja y el Armario\", los reyes y las reinas de Narnia -los 4 hermanos Pevensie- vuelven a reunirse en ese remoto y fantástico mundo, donde descubrirán que han pasado más de 1.300 años, calculados en tiempo narniano. Durante su ausencia, la Edad de Oro de Narnia ha terminado, y los Telmarinos han conquistado el reino de Narnia, que ahora está dominado por el malvado Rey Miraz. Los cuatro niños no tardarán en conocer un nuevo y extraño personaje: el joven Príncipe Caspian, heredero legítimo al trono que se ha visto obligado a esconderse ya que su tío Miraz trama su asesinato para colocar a su hijo recién nacido en el trono. Los Narnianos, liderados por los poderosos caballeros Peter y Caspian, se embarcan en un extraordinario viaje para encontrar a Aslan, liberar Narnia del yugo tiránico de Miraz y restaurar la magia y la paz en el territorio.",
+    "ACTORES": "  • William Moseley (Peter Pevensie)\n  • Anna Popplewell (Susan Pevensie)\n  • Skandar Keynes (Edmund Pevensie)\n  • Georgie Henley (Lucy Pevensie)\n  • Ben Barnes (Prince Caspian)",
+    "DIRECTOR": "Andrew Adamson",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7631739816614"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 13836,
+    "ID_OKRU": "2981669702310",
+    "TITULO": "La montaña embrujada",
+    "FECHA": "2009-03-13",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/fta3pl47CEZ5mqXClD3XwX3fQhC.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/rlEQAN7vPn0mUUaHFjfgtUOQRtB.jpg",
+    "GENERO": "Aventura, Familia, Fantasía, Ciencia ficción, Suspense, Acción",
+    "RATING": 5.795,
+    "DURACION": 120,
+    "FRASE_PROMOCIONAL": "La carrera está en marcha.",
+    "SINOPSIS": "Remake de \"La montaña embrujada\"(1975). Durante años han circulado extrañas historias sobre Witch Mountain, un lugar situado en el desierto de Nevada, donde se han producido fenomenos inexplicables. Un taxista de Las Vegas (Dwayne Johnson), que debe llevar a este lugar a dos jóvenes (Anna Sophia Robb, Alexander Ludwig) con poderes sobrenaturales, se verá envuelto en una misteriosa aventura. Al parecer, la unica forma de salvar el mundo radica en descubrir los secretos de Witch Mountain. En el asunto se verán involucrados el Gobierno, la mafia y diversos seres extraterrestres.",
+    "ACTORES": "  • Dwayne Johnson (Jack Bruno)\n  • AnnaSophia Robb (Sara)\n  • Alexander Ludwig (Seth)\n  • Carla Gugino (Dr. Alex Friedman)\n  • Ciarán Hinds (Burke)",
+    "DIRECTOR": "Andy Fickman",
+    "TRAILER": "https://youtube.com/watch?v=WKRodkEmbwM",
+    "URLS_OKRU": [
+      "https://ok.ru/video/2981669702310"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 15045,
+    "ID_OKRU": "3937086474918",
+    "TITULO": "El gran Alberto",
+    "FECHA": "2004-12-25",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/biA3teAO8xZQfdBfLIK9ATdfOkJ.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/9jbcXYnwgRRCNHHIrriUb6NkcAV.jpg",
+    "GENERO": "Comedia, Familia, Fantasía",
+    "RATING": 5.143,
+    "DURACION": 93,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Doris Roberts (Pratt) se queda asombrada cuando su personaje de la tele favorito, Fat Albert (Thompson) y los chicos Cosby salen de la televisión y se meten en su mundo real. (FILMAFFINITY)",
+    "ACTORES": "  • Kenan Thompson (Fat Albert)\n  • Kyla Pratt (Doris Robertson)\n  • Dania Ramirez (Lauri Robertson)\n  • Shedrack Anderson III (Rudolph \"Rudy\" Davis)\n  • Jermaine Williams (James \"Mushmouth\" Mush)",
+    "DIRECTOR": "Joel Zwick",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3937086474918"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 12227,
+    "ID_OKRU": "3913671248550",
+    "TITULO": "Colmillo blanco",
+    "FECHA": "1991-01-18",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/umnGhfxqepSVammxXWn7wW2qJ2.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/1DcKVybwLpvnybtZ3Du8RTOu4MK.jpg",
+    "GENERO": "Acción, Aventura, Drama, Familia",
+    "RATING": 6.758,
+    "DURACION": 107,
+    "FRASE_PROMOCIONAL": "En tierra salvaje, sobrevivir el la aventura más grande de todas.",
+    "SINOPSIS": "A finales del siglo XIX, el joven Jack Conroy llega a Alaska en plena fiebre del oro, dispuesto a reclamar la herencia de su difunto padre. Allí entablará una estrecha relación con Colmillo Blanco, un cruce de lobo y perro.",
+    "ACTORES": "  • Ethan Hawke (Jack Conroy)\n  • Klaus Maria Brandauer (Alex Larson)\n  • Seymour Cassel (Skunker)\n  • Susan Hogan (Belinda Casey)\n  • James Remar (Beauty Smith)",
+    "DIRECTOR": "Randal Kleiser",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3913671248550"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 43643,
+    "ID_OKRU": "3920377678502",
+    "TITULO": "Vuelve colmillo blanco",
+    "FECHA": "1994-04-15",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/51dXdeFjQrf5dPRU220cOroRC9Z.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/syo8e0MKOFJjjOnYyxO6oRb0hyl.jpg",
+    "GENERO": "Aventura, Familia",
+    "RATING": 6.9,
+    "DURACION": 106,
+    "FRASE_PROMOCIONAL": "Un mito antiguo. Una tierra de misterio. Una aventura extraordinaria.",
+    "SINOPSIS": "Henry Casey es un joven que vive en compañía de Colmillo Blanco, mitad lobo, mitad perro, en las montañas de Alaska a principios de siglo. Durante uno de sus viajes por el río para recoger unas provisiones, la canoa en la que ambos viajan vuelca y Henry cae al agua, siendo arrastrado por la fuerte corriente. A pesar de los esfuerzos de Colmillo Blanco por salvar a su amo, el animal no logra dar con él. Sin embargo, Henry es rescatado por una princesa de una tribu india, cuyos miembros están sufriendo una hambruna que amenaza con hacerles desaparecer.",
+    "ACTORES": "  • Scott Bairstow (Henry Casey)\n  • Charmaine Craig (Lily Joseph)\n  • Al Harrington (Moses Joseph)\n  • Alfred Molina (Reverend Leland Drury)\n  • Victoria Racimo (Katrin)",
+    "DIRECTOR": "Ken Olin",
+    "TRAILER": "https://youtube.com/watch?v=IGqk-m36QIM",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3920377678502"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 11565,
+    "ID_OKRU": "3183527070374",
+    "TITULO": "Esta abuela es un peligro 2",
+    "FECHA": "2006-01-26",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/wBE1CYff72jD7CVGzvXUWqHHTev.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/4lo1OVm0TSM2dNkKXtav2sEQJry.jpg",
+    "GENERO": "Comedia, Crimen",
+    "RATING": 5.769,
+    "DURACION": 99,
+    "FRASE_PROMOCIONAL": "La mamá de todas las comedias está de regreso.",
+    "SINOPSIS": "Malcolm Turner, el agente del FBI que maestro en el arte del disfraz, vuelve a tener que transformarse en una señora mayor, amiga de pasarlo bien, conocida como la Gran Abuela. Pero ahora será aún más atrevida, más oronda y estupenda si cabe, para evitar un gran desastre para la seguridad nacional. Aunque salvar a su país va a ser ahora el menor de sus problemas, pues ha de aceptar un último desafío: ser la niñera y ama de llaves de la disfuncional familia del sospechoso.",
+    "ACTORES": "  • Martin Lawrence (Malcolm Turner / Big Momma)\n  • Marisol Nichols (Liliana Morales)\n  • Kevin Durand (Oshima)\n  • Dan Lauria (Crawford)\n  • Kat Dennings (Molly Fuller)",
+    "DIRECTOR": "John Whitesell",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3183527070374"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 9600,
+    "ID_OKRU": "3182358432422",
+    "TITULO": "Esta abuela es un peligro",
+    "FECHA": "2000-05-31",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/q5lXyHlqli0cJF2HYK84Qm6BkF6.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/wAmg1DdrJgHYE4I3K2IVv1S5orO.jpg",
+    "GENERO": "Crimen, Comedia",
+    "RATING": 5.823,
+    "DURACION": 97,
+    "FRASE_PROMOCIONAL": "Este agente del FBI va de incógnito ... y oculta más que un arma.",
+    "SINOPSIS": "El agente del FBI Malcolm Turner es un hombre duro y astuto, pero sobre todo un consumado maestro del arte del disfraz. Su última misión lo lleva a una pequeña ciudad del sur de los Estados Unidos, donde debe atrapar a un sanguinario ladrón de bancos que se acaba de fugar de prisión. Malcolm monta un puesto de vigilancia en la casa de una arisca matriarca, la Gran Abuela, que está a punto de recibir la visita de su nieta Sherry, ex-novia del presidiario, y de su hijo. Aunque el plan es muy sencillo, surge una dificultad nada desdeñable: la Gran Abuela se ha ido inesperadamente la ciudad, así que Malcolm tendrá que ingeniárselas para hacerse pasar por ella.",
+    "ACTORES": "  • Martin Lawrence (Malcolm Turner)\n  • Nia Long (Sherry Pierce)\n  • Paul Giamatti (John)\n  • Jascha Washington (Trent Pierce)\n  • Terrence Howard (Lester Vesco)",
+    "DIRECTOR": "Raja Gosnell",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3182358432422"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 14191,
+    "ID_OKRU": "2956790532774",
+    "TITULO": "Aquamarine",
+    "FECHA": "2006-03-03",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/16Oe4Dbkd3XrRpFCOlwRVfnasXJ.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/dysXmAJJNttAXqVWsKJis9MOf17.jpg",
+    "GENERO": "Fantasía, Romance, Familia, Comedia",
+    "RATING": 6.468,
+    "DURACION": 99,
+    "FRASE_PROMOCIONAL": "Una comedia de peces fuera del agua.",
+    "SINOPSIS": "Claire y Hailey son dos grandes amigas de 13 años que se embarcan en la aventura de sus vidas cuando, después de una gran tormenta, descubren a una sirena llamada Aquamarine dentro de una piscina. La sirena, de 18 años, guapa y de pelo azul, ha abandonado su hogar justo antes de su matrimonio arreglado en busca del amor verdadero. Si logra demostrar a su padre que ese tipo de amor no es un mito, la dejará cancelar la boda bajo el agua; pero solo le ha dado tres días. Aqua reclama la ayuda de Claire y Hailey, quienes supuestamente son dos grandes expertas en el tema, las cuales se han instruido a través de las páginas de las revistas que leen y citan a diario.",
+    "ACTORES": "  • Emma Roberts (Claire Brown)\n  • JoJo (Hailey Rogers)\n  • Sara Paxton (Aquamarine)\n  • Jake McDorman (Raymond)\n  • Arielle Kebbel (Cecilia Banks)",
+    "DIRECTOR": "Elizabeth Allen Rosenbaum",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/2956790532774"
     ]
   }
 ]
