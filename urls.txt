@@ -5682,5 +5682,185 @@
     "URLS_OKRU": [
       "https://ok.ru/video/4391069354633"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 21385,
+    "ID_OKRU": "7176715438759",
+    "TITULO": "Mickey, Donald y Goofy: Los tres mosqueteros",
+    "FECHA": "2004-08-04",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/5Ksryc9HHjSikRJNaX4LvBThROS.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/uLMSOtPaZDggYXdClvxnHaO094h.jpg",
+    "GENERO": "Aventura, Animación, Comedia, Familia",
+    "RATING": 6.737,
+    "DURACION": 60,
+    "FRASE_PROMOCIONAL": "Todo por diversión y diversión para todos.",
+    "SINOPSIS": "Mickey, Donald y Goofy, son unos humildes limpiadores que sueñan con llegar a ser mosqueteros. Sus vidas darán un vuelco cuando Pete Pata Palo, capitán de los mosqueteros, y su siniestro lugarteniente Clarabelle les utilizan en una malvada conspiración para destronar a la Princesa Minnie. Pero Mickey y sus amigos tienen preparada una sorpresa para Pete. Aprenderán, además, que el trabajo en equipo y la amistad pueden conseguirlo todo.",
+    "ACTORES": "  • Wayne Allwine (Mickey Mouse (voice))\n  • Tony Anselmo (Donald Duck (voice))\n  • Bill Farmer (Goofy / Pluto / Additional Voices (voice))\n  • Russi Taylor (Minnie (voice))\n  • Tress MacNeille (Daisy (voice))",
+    "DIRECTOR": "Donovan Cook",
+    "TRAILER": "https://youtube.com/watch?v=NcFEhWH85MM",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7176715438759"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 15789,
+    "ID_OKRU": "1329301097048",
+    "TITULO": "Goofy e hijo",
+    "FECHA": "1995-04-05",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/dLJvlkB3S25vxosfEIHlewJXBxt.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/Sb2cLe2xW5OATkZZJBbGrB6qjl.jpg",
+    "GENERO": "Aventura, Comedia, Romance, Animación, Familia",
+    "RATING": 7.0,
+    "DURACION": 78,
+    "FRASE_PROMOCIONAL": "La vida es una locura cuando tu padre es Goofy",
+    "SINOPSIS": "Goofy tiene la desafortunada idea de llevar a su hijo Max a pescar, pero éste, que teme convertirse de mayor en un ser tan tonto como su padre, tiene otros planes. Ha quedado con la bella Roxanne, que por fin ha accedido a salir con él. Pero Goofy no está dispuesto a permitir que su hijo ignore el arte de la pesca.",
+    "ACTORES": "  • Bill Farmer (Goofy (voice))\n  • Jason Marsden (Max (voice))\n  • Aaron Lohr (Max Goof (singing voice))\n  • Jim Cummings (Pete (voice))\n  • Rob Paulsen (P.J. (voice))",
+    "DIRECTOR": "Kevin Lima",
+    "TRAILER": "https://youtube.com/watch?v=v-K91PiaWs8",
+    "URLS_OKRU": [
+      "https://ok.ru/video/1329301097048"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 862972,
+    "ID_OKRU": "3534209288901",
+    "TITULO": "Walt Disney Cartoon Classics, Volume 3: Scary Tales",
+    "FECHA": "1983-01-01",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/bhAkMWrvTu2JDsHXd0nEuRvyQjk.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/hw9ROs3KP6pLHukLvHRWEjhpKhq.jpg",
+    "GENERO": "",
+    "RATING": 9.813,
+    "DURACION": 43,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Te espera un buen momento macabro con estos cuentos de miedo divertidos y coleccionables, con Mickey Mouse, Donald Duck y Pluto. Mickey descubre una casa llena de fantasmas cuando se encuentra con una vieja mansión. Luego, Donald se ve repentinamente rodeado de personajes siniestros cuando comienza a leer una novela de misterio. Y la mayor pesadilla de Plutón se hace realidad cuando persigue a un gato de más. Esta colección de Cartoon Classic también presenta \"The Skeleton Dance\", la primera \"Silly Symphony\" de Walt Disney.",
+    "ACTORES": "",
+    "DIRECTOR": "N/A",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3534209288901"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 260343,
+    "ID_OKRU": "1379845868093",
+    "TITULO": "Fábulas Disney - Vol.5",
+    "FECHA": "2004-05-31",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/mooNeFE8ziSsaY8GhP2i1JSQVrm.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/b6g6Zln4VG6GTTMUUEwjgpqM2EP.jpg",
+    "GENERO": "Animación, Familia, Comedia",
+    "RATING": 7.6,
+    "DURACION": 55,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Otras seis historias animadas de los estudios Disney. 'Los Tres Mosqueteros Ciegos' sigue las desventuras del trío indignante. En 'Los Tres Cerditos', el Gran Lobo Malo está haciendo todo lo posible para atrapar astutamente a los inocentes cerditos, mientras que en 'Tres Pequeños Lobos' va un paso más y decide disfrazar y entrenar a sus propios hijos para atraerlos a su pliegue . 'Funny Little Bunnies' explora el misterio del Conejo de Pascua. 'Lambert, el León' es un león adorable, tímido que arranca el valor para proteger a su familia adoptada de ovejas y carneros. 'Ferdinando el Toro' se mete en una plaza de toros de Madrid cuando es picado por una abeja y la multitud lo confunde con un toro de lucha.",
+    "ACTORES": "  • Sterling Holloway (Narrator / Mr. Stork (voice) (archive sound))\n  • June Foray (Mrs. Sheep / Lambert / Lambs / Sheep (voice) (archive sound))\n  • Stan Freberg (Lambert (voice) (archive sound))\n  • James MacDonald (Wolf / Lambert (voice) (archive sound))\n  • Don Wilson (Narrator (Ferdinand The Bull) (voice) (archive sound))",
+    "DIRECTOR": "N/A",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/1379845868093"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 260344,
+    "ID_OKRU": "1379846326845",
+    "TITULO": "Fábulas Disney - Vol.6",
+    "FECHA": "2004-05-31",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/o3pxSdoO3XZhCBHKvk6AjdsdBkb.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/viCLTh75vYEVvyoKFU1Yjx6HvOW.jpg",
+    "GENERO": "Animación, Familia, Comedia",
+    "RATING": 8.8,
+    "DURACION": 60,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Dos cortos de animación clásicos de los estudios de Disney. En 'El Dragón Chiflado' (1941), un jovencito y un famoso luchador de dragones se unen para enseñar a un dragón dócil el arte de ser una fuerza a tener en cuenta. En 'Mickey y las Judías Mágicas' (1947), Mickey Mouse, Goofy y Donald Duck enfrentan al temible Willie the Giant para intentar recuperar el arpa de canto mágico a Happy Valley.",
+    "ACTORES": "  • Pinto Colvig (Goofy (voice) (archive sound) (uncredited))\n  • Clarence Nash (Clarence Nash / Donald Duck (voice) (archive sound) (uncredited))\n  • Walt Disney (Walt Disney / Mickey Mouse (voice) (archive sound) (uncredited))\n  • Sterling Holloway (Narrator (voice) (archive sound) (uncredited))\n  • Robert Benchley (Robert Benchley (voice) (archive sound) (uncredited))",
+    "DIRECTOR": "N/A",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/1379846326845"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 260331,
+    "ID_OKRU": "1379846392381",
+    "TITULO": "Fábulas Disney - Vol.1",
+    "FECHA": "2003-04-07",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/hn985uJJtaBIu46lFLVYeYZd1GT.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/plP1gKOEN1QuV3IhCT6LnWGRldQ.jpg",
+    "GENERO": "Animación, Familia",
+    "RATING": 8.2,
+    "DURACION": 57,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Dos fábulas animadas de los estudios Disney. En 'La Leyenda de Sleepy Hollow' Ichabod Crane está enamorado de la encantadora Katrina, pero tiene que lidiar con Brom Bones, el matón de la ciudad. Su rivalidad lleva a Crane a la leyenda de Sleepy Hollow y el jinete sin cabeza. En 'El Príncipe y el Mendigo', Mickey, Goofy, Donald y Pluto protagonizan la versión de Disney del clásico de Mark Twain.",
+    "ACTORES": "  • Bing Crosby (Narrator / Ichabod Crane / Brom Bones (voice) (archive footage))\n  • Wayne Allwine (Mickey Mouse / Prince (voice) (archive footage))\n  • Bill Farmer (Goofy / Horace Horsecollar / Weasel #1 / Pluto (voice) (archive footage))\n  • Arthur Burghardt (Captain Pete (voice) (archive footage))\n  • Tony Anselmo (Donald Duck (voice) (archive footage))",
+    "DIRECTOR": "Clyde Geronimi",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/1379846392381"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 260341,
+    "ID_OKRU": "1379846523453",
+    "TITULO": "Fábulas Disney - Vol.4",
+    "FECHA": "2003-09-15",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/9CQ22jfqaV9rq6gPnAC53oQ0EIn.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/b171YSXvspMb75rOoYuGlZ07EFB.jpg",
+    "GENERO": "Animación",
+    "RATING": 8.3,
+    "DURACION": 49,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Seis historias clásicas contadas por el equipo de Disney. 'La tortuga y la liebre' presenta la carrera entre Max Hare y Toby Tortoise. En 'The Pied Piper', las ratas han invadido Hamelin y sólo el Pied Piper puede deshacerse de ellos, mientras que 'El Rey Midas' es un cuento de advertencia. 'Toby Tortoise Returns' cuenta con Max Hare y Toby Tortoise de nuevo, esta vez en un ring de boxeo. En 'El Viejo Rey Cole', todos los amigos del guión son invitados al castillo del Rey, mientras que el 'Rey Neptuno' salva a sus súbditos de los piratas.",
+    "ACTORES": "  • Pinto Colvig (Starter (The Tortoise and the Hare))\n  • Eddie Holden (Toby Tortoise)\n  • Ned Norton (Max Hare)\n  • Alyce Ardell (Girl Bunny (Toby Tortoise Returns))\n  • Martha Wentworth (Jenny Wren)",
+    "DIRECTOR": "N/A",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/1379846523453"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 260337,
+    "ID_OKRU": "1379846720061",
+    "TITULO": "Fábulas Disney - Vol.2",
+    "FECHA": "2003-04-07",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/cLUM6AHSK4HnUtT78jlAznWQ3T3.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/jUPPzUcwq400R1LHUB7YTWWbhX2.jpg",
+    "GENERO": "Animación",
+    "RATING": 7.8,
+    "DURACION": 51,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Seis relatos clásicos especialmente elegidos por Disney hacen de este volumen una delicia para toda la familia.\r Ganador de un Oscar, ‘El Patito Feo’ cuenta la historia de un pequeño pato rechazado por su propia familia por el simple hecho de ser ‘feo’, hasta que una mamá cisne, valorándole por sí mismo, decide acogerlo felizmente como a un hijo más.\r Tras haber fracasado como cazador, ‘El Pequeño Hiawatha’ decide ayudar a un conejito, reuniendo a todos los animales del bosque para salvarlo de las garras de un enorme oso.  Además incluye La Sinfonía de la Granja, Tres bebés viajan a la luna, Las Sirenitas y El viejo Molino.",
+    "ACTORES": "",
+    "DIRECTOR": "N/A",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/1379846720061"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 260340,
+    "ID_OKRU": "1380944579133",
+    "TITULO": "Fábulas Disney - Vol.3",
+    "FECHA": "2003-09-15",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/1VIk3O5qX80FQAvGKueJeg3cYH7.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/wh9a2zXYkZDSaPRSxgwsMGMRTnS.jpg",
+    "GENERO": "Animación",
+    "RATING": 8.6,
+    "DURACION": 62,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Tres historias clásicas del equipo Disney. 'Donald en el País de las Matemáticas' es un cortometraje con el pato favorito de todos. 'Franklin y Yo' tells es las história de cómo un pequeño ratón ayudó a Benjamin Franklin y cambió el curso de la historia. Finalmente, 'Modern Inventions' encuentra el Pato Donald en un museo dónde obtiene más de lo que esperaba.",
+    "ACTORES": "  • Billy Bletcher (Robot Butler (segment \"Modern Inventions\") (voice) (archive sound) (uncredited))\n  • Cliff Edwards (Robot Barber Chair (segment \"Modern Inventions\") (voice) (archive sound) (uncredited))\n  • Clarence Nash (Donald Duck (voice) (archive sound) (uncredited))\n  • Sterling Holloway (Amos Mouse (segment \"Ben and Me\") (voice) (archive sound) (uncredited))\n  • Hans Conried (Tom Jefferson / Crook (segment \"Ben and Me\") (voice) (archive sound) (uncredited))",
+    "DIRECTOR": "N/A",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/1380944579133"
+    ]
   }
 ]
