@@ -3211,12 +3211,12 @@
     "PORTADA": "https://image.tmdb.org/t/p/w500/4O6kh1pUdJBDEtDr2Ev3i9Hn3OG.jpg",
     "BACKDROP": "https://image.tmdb.org/t/p/w500/4idEU92m0oR1BWa1iwb5pZ9bWCu.jpg",
     "GENERO": "Animación, Aventura, Familia, Fantasía",
-    "RATING": 6.443,
+    "RATING": 6.442,
     "DURACION": 80,
     "FRASE_PROMOCIONAL": "",
     "SINOPSIS": "Tarón es un valeroso joven que debe impedir que el malvado Rey Horned se apodere del Caldero Mágico, cuya fuerza misteriosa es capaz de crear un auténtico ejército de invencibles guerreros sobrenaturales. En su lucha contra el mal, Tarón cuenta con la ayuda de su maestro, Dallben, la princesa Eilonwy, un animal con aspecto de osito de peluche llamada Gurgi, un juglar que se hace llamar Fflewddur Fflam, un cerdito con dotes de clarividente y un trío de brujas excéntricas.",
     "ACTORES": "  • Grant Bardsley (Taran (voice))\n  • Susan Sheridan (Eilonwy (voice))\n  • John Byner (Gurgi / Doli (voice))\n  • Nigel Hawthorne (Fflewddur Fflam (voice))\n  • John Hurt (The Horned King (voice))",
-    "DIRECTOR": "Ted Berman",
+    "DIRECTOR": "Richard Rich",
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/6999825713708"
@@ -3325,7 +3325,7 @@
   {
     "CATEGORIA": "DISNEY_PIXAR",
     "TMDB_ID": 37135,
-    "ID_OKRU": "10025626897134",
+    "ID_OKRU": "8517949131359",
     "TITULO": "Tarzán",
     "FECHA": "1999-06-17",
     "PORTADA": "https://image.tmdb.org/t/p/w500/1Gk8iihu4Q4BGh2n1IwNLB3zM8E.jpg",
@@ -3339,7 +3339,7 @@
     "DIRECTOR": "Chris Buck",
     "TRAILER": "No disponible",
     "URLS_OKRU": [
-      "https://ok.ru/video/10025626897134"
+      "https://ok.ru/video/8517949131359"
     ]
   },
   {
@@ -5181,6 +5181,506 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/2869470825126"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 9078,
+    "ID_OKRU": "10313678064366",
+    "TITULO": "Merlín el encantador",
+    "FECHA": "1963-12-25",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/hMAVsdyj0O13AJF4HK15WxaFsBm.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/uMe6McFXAPEhkasGVlaLTOuhfnl.jpg",
+    "GENERO": "Animación, Familia, Fantasía",
+    "RATING": 7.228,
+    "DURACION": 79,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Encantador relato de dibujos animados para los más pequeños sobre la leyenda del rey Arturo (aquí siendo todavía joven), el mago Merlín y la espada Excalibur. Aventuras mil, magia y fantasía para otro gran éxito de la Disney.",
+    "ACTORES": "  • Sebastian Cabot (The Narrator/Sir Ector (voice))\n  • Karl Swenson (Merlin (voice))\n  • Junius Matthews (Archimedes the Owl (voice))\n  • Martha Wentworth (Madam Mim / Old Lady Squirrel (voice))\n  • Norman Alden (Kay (voice))",
+    "DIRECTOR": "Wolfgang Reitherman",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/10313678064366"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 11886,
+    "ID_OKRU": "11905450511086",
+    "TITULO": "Robin Hood",
+    "FECHA": "1973-11-08",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/49XBX5xwFrJVP1bQLJf4MFFOavZ.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/3WeFPoPVIGgMumjgLn0EPIfq53A.jpg",
+    "GENERO": "Animación, Familia, Aventura",
+    "RATING": 7.311,
+    "DURACION": 83,
+    "FRASE_PROMOCIONAL": "Conoce a Robin Hood y a sus hombres felices.",
+    "SINOPSIS": "La popular leyenda de Robin Hood es revivida mágicamente por Disney. La diversión y el romance aparecen por doquier cuando Robin Hood, el héroe espadachín del Bosque de Sherwood, se desliza de aventura en aventura con su valiente ayudante, Little John, y su desternillante banda. Su objetivo es vencer al malvado príncipe y su ayuda de cámara, Hiss, que tienen atemorizado al pueblo a base de injustos impuestos.",
+    "ACTORES": "  • Brian Bedford (Robin Hood - A Fox (voice))\n  • Phil Harris (Little John - A Bear (voice))\n  • Andy Devine (Friar Tuck - A Badger (voice))\n  • Monica Evans (Maid Marian - A Vixen (voice))\n  • Peter Ustinov (Prince John - A Lion / King Richard (voice))",
+    "DIRECTOR": "Wolfgang Reitherman",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/11905450511086"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 11360,
+    "ID_OKRU": "10053656054510",
+    "TITULO": "Dumbo",
+    "FECHA": "1941-10-31",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/xXBX2G5dc2WUZslcWuAXYKvYKoI.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/eEKpOowAkVAF3sKJKqY2h4h12GV.jpg",
+    "GENERO": "Animación, Familia",
+    "RATING": 6.993,
+    "DURACION": 64,
+    "FRASE_PROMOCIONAL": "El ... El único ... El FABULOSO ...",
+    "SINOPSIS": "Las cigüeñas llegan, como todos los años, hasta un pintoresco circo para repartir los bebés a sus respectivas mamás. La señora Dumbo, una elefanta, descubre que su bebé tiene unas orejas enormes; todas sus compañeras se ríen de él, pero la señora Dumbo lo defiende siempre, hasta el punto de ser encerrada por enfrentarse a todo aquel que se mofe de su retoño. El pequeño Dumbo, maltratado y ridiculizado por todos sus compañeros, sólo cuenta con la ayuda de un minúsculo ratoncito llamado Timothy, que decide hacer de él una estrella del circo.",
+    "ACTORES": "  • Edward Brophy (Timothy Q. Mouse (voice) (uncredited))\n  • Margaret Wright (Casey Jr. (voice) (uncredited))\n  • Verna Felton (Elephant Matriarch / Mrs. Jumbo (voice) (uncredited))\n  • Sarah Selby (Prissy the Elephant (voice) (uncredited))\n  • Noreen Gammill (Catty the Elephant (voice) (uncredited))",
+    "DIRECTOR": "Ben Sharpsteen",
+    "TRAILER": "https://youtube.com/watch?v=sie0ataCDHg",
+    "URLS_OKRU": [
+      "https://ok.ru/video/10053656054510"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 10112,
+    "ID_OKRU": "10036098173678",
+    "TITULO": "Los aristogatos",
+    "FECHA": "1970-12-24",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/s9DsxlbVE1HvHnCz50GdHDBeZRy.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/rnMwOM8gMqo6Gf6XXMpaJEayUwk.jpg",
+    "GENERO": "Animación, Comedia, Familia, Aventura",
+    "RATING": 7.304,
+    "DURACION": 78,
+    "FRASE_PROMOCIONAL": "Una extravagancia animada llena de melodías.",
+    "SINOPSIS": "1910. En París una anciana millonaria y excéntrica lleva una vida feliz con sus gatos en su enorme mansión, con la única ayuda de su fiel mayordomo Edgar. Allí, Duquesa vive despreocupadamente con sus tres traviesos cachorros, sin saber que Edgar planea acabar con todos los gatos para convertirse en el único heredero de la enorme fortuna de la anciana Madame Bonfamille. Con este propósito, los abandona en un lugar remoto, pero quiere la suerte que se encuentren con Thomas O’Malley, un atractivo gato vagabundo y mundano. Desde el principio, O’Malley, atraído por la elegancia de Duquesa, se propone ayudarla a regresar a casa de Madame Bonfamille, aunque para ello tenga que enfrentarse con todos los peligros de la gran ciudad. Afortunadamente, contarán también con la ayuda de Scat Cat y sus gatos swing, que añaden un toque de ritmo y diversión a la vida de Duquesa y de los cachorros.",
+    "ACTORES": "  • Phil Harris (O'Malley (voice))\n  • Eva Gabor (Duchess (voice))\n  • Sterling Holloway (Roquefort (voice))\n  • Scatman Crothers (Scat Cat (voice))\n  • Paul Winchell (Chinese Cat (voice))",
+    "DIRECTOR": "Wolfgang Reitherman",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/10036098173678"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 408,
+    "ID_OKRU": "11478939798254",
+    "TITULO": "Blancanieves y los siete enanitos",
+    "FECHA": "1938-01-22",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/b2ZPP3bZqDOzqTHr1TlFIFPWP48.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/4yWayBvwl9gHXaWrDrAslxjL7mh.jpg",
+    "GENERO": "Fantasía, Animación, Familia",
+    "RATING": 7.127,
+    "DURACION": 83,
+    "FRASE_PROMOCIONAL": "El cuento animado más feliz, Tontín, Gruñon y Estornud...aaachú del año.",
+    "SINOPSIS": "La malvada madrastra de la princesa Blancanieves decide deshacerse de ella porque no puede soportar que la belleza de la joven sea superior a la de ella. Sin embargo, Blancanieves consigue salvarse y se refugia en la cabaña de los siete enanitos. A pesar de todo, su cruel madrastra consigue encontrarla y la envenena con una manzana. Pero la princesa no está muerta, sólo dormida, a la espera de que un príncipe azul la rescate.",
+    "ACTORES": "  • Adriana Caselotti (Snow White (voice) (uncredited))\n  • Lucille La Verne (Queen / Witch (voice) (uncredited))\n  • Harry Stockwell (Prince (voice) (uncredited))\n  • Roy Atwell (Doc (voice) (uncredited))\n  • Pinto Colvig (Sleepy / Grumpy / Dopey (hiccups) (voice) (uncredited))",
+    "DIRECTOR": "David Hand",
+    "TRAILER": "https://youtube.com/watch?v=irhNvQuMmBA",
+    "URLS_OKRU": [
+      "https://ok.ru/video/11478939798254"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 10693,
+    "ID_OKRU": "12382361422574",
+    "TITULO": "Peter Pan",
+    "FECHA": "1953-02-05",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/tDvGRWSdqT31ADijJf9OhbTbQ77.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/vwcfvPzYO3Gz975yRXp6DYSSbzo.jpg",
+    "GENERO": "Animación, Familia, Aventura, Fantasía",
+    "RATING": 7.193,
+    "DURACION": 77,
+    "FRASE_PROMOCIONAL": "¡Vivirá en tu corazón para siempre!",
+    "SINOPSIS": "Uno de los grandes clásicos de la factoría Walt Disney, que relata las aventuras en el País de Nunca Jamás de Peter Pan, su compañera Campanilla, su amiga Wendy y los Niños Perdidos, en su lucha contra el malvado Capitán Garfio.",
+    "ACTORES": "  • Bobby Driscoll (Peter Pan (voice))\n  • Kathryn Beaumont (Wendy Darling (voice))\n  • Hans Conried (Captain Hook / Mr. Darling (voice))\n  • Bill Thompson (Mr. Smee (voice))\n  • Heather Angel (Mrs. Darling (voice))",
+    "DIRECTOR": "Clyde Geronimi",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/12382361422574"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 22660,
+    "ID_OKRU": "2590929324621",
+    "TITULO": "Fiel amigo",
+    "FECHA": "1957-12-25",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/ehhvTMUfZHbuCMeTWv38iX0yGil.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/bFj82z1rOIEmsin3jbdGzkeBDpv.jpg",
+    "GENERO": "Aventura, Drama, Familia, Western",
+    "RATING": 6.889,
+    "DURACION": 84,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Texas, 1860. Travis es un chico que, al principio, no quiere saber nada de un perro vagabundo. Pero muy pronto el animal le demuestra su fidelidad protegiendo la granja de su familia y salvándole la vida. Es así como se convierten en amigos inseparables que comparten toda clase de experiencias y aventuras.",
+    "ACTORES": "  • Tommy Kirk (Travis Coates)\n  • Dorothy McGuire (Katie Coates)\n  • Fess Parker (Jim Coates)\n  • Kevin Corcoran (Arliss Coates)\n  • Jeff York (Bud Searcy)",
+    "DIRECTOR": "Robert Stevenson",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/2590929324621"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 400650,
+    "ID_OKRU": "9452577952165",
+    "TITULO": "El regreso de Mary Poppins",
+    "FECHA": "2018-12-13",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/9n8P4VrtipXe6CPrcpfVnhGbgLT.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/oGzToOBTRdXVOrHj8r0VgK3d2sU.jpg",
+    "GENERO": "Fantasía, Familia, Comedia",
+    "RATING": 6.51,
+    "DURACION": 130,
+    "FRASE_PROMOCIONAL": "Recuerda que la magia siempre regresa.",
+    "SINOPSIS": "Mary Poppins es la niñera casi perfecta, con unas extraordinarias habilidades mágicas para convertir una tarea rutinaria en una aventura inolvidable y fantástica. Esta nueva secuela, vuelve para ayudar a la siguiente generación de la familia Banks a encontrar la alegría y la magia que faltan en sus vidas después de una trágica pérdida personal. La niñera viene acompañada de su amigo Jack, un optimista farolero que ayuda a llevar la luz -y la vida- a las calles de Londres.",
+    "ACTORES": "  • Emily Blunt (Mary Poppins)\n  • Lin-Manuel Miranda (Jack)\n  • Ben Whishaw (Michael Banks)\n  • Emily Mortimer (Jane Banks)\n  • Pixie Davies (Annabel)",
+    "DIRECTOR": "Rob Marshall",
+    "TRAILER": "https://youtube.com/watch?v=S6BeTSe8Buo",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9452577952165"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 11114,
+    "ID_OKRU": "2602656336461",
+    "TITULO": "Pedro y el dragón Elliot",
+    "FECHA": "1977-11-03",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/stP0ysD60PyUCGUeGDbD121WFKO.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/hoItQR25BE6qWLInEq1iRPgBDDZ.jpg",
+    "GENERO": "Fantasía, Animación, Comedia, Familia",
+    "RATING": 6.317,
+    "DURACION": 128,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Pedro, un joven huérfano, huye a un pueblo de pescadores de Maine con su mejor amigo - un dragón entrañable, y a veces invisible llamado Elliott. Un amable farero  (Mickey Rooney), y su hija Nora deciden alojarlos. Pero una broma de Elliott les mete en grandes problemas. Cuando unos vendedores sin escrúpulos tratan de capturar Elliott, Pedro debe intentar un audaz rescate.",
+    "ACTORES": "  • Sean Marshall (Pete)\n  • Helen Reddy (Nora)\n  • Jim Dale (Dr. Terminus)\n  • Mickey Rooney (Lampie)\n  • Red Buttons (Hoagy)",
+    "DIRECTOR": "Don Chaffey",
+    "TRAILER": "https://youtube.com/watch?v=DcV-rVrXsWs",
+    "URLS_OKRU": [
+      "https://ok.ru/video/2602656336461"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 20173,
+    "ID_OKRU": "6493394700982",
+    "TITULO": "Un ejecutivo muy mono",
+    "FECHA": "1971-03-17",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/bVCegK7mHqC03Z7oTtUCeTdnTeT.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/9V6a5txVOLcpN6IIGRdp8fL91Fw.jpg",
+    "GENERO": "Comedia, Familia",
+    "RATING": 5.564,
+    "DURACION": 96,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Steven Post (Kurt Russell) es un joven que trabaja como mensajero en una cadena de televisión y que tiene a un mono como mascota. Un día, descubre que su mono es capaz de vaticinar el éxito o el fracaso de los programas del canal con un criterio más acertado que los propios ejecutivos del lugar, algo que el chico aprovechará para beneficiarse económicamente.",
+    "ACTORES": "  • Kurt Russell (Steven Post)\n  • Joe Flynn (Francis X. Wilbanks)\n  • Harry Morgan (E.J. Crampton)\n  • Wally Cox (Mertons)\n  • Heather North (Jennifer Scott)",
+    "DIRECTOR": "Robert Butler",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/6493394700982"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 15943,
+    "ID_OKRU": "3457312295606",
+    "TITULO": "Un candidato muy peludo",
+    "FECHA": "1976-12-17",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/kCPsn2AvL6t5nwOJJuWt7GRm2bZ.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/msEC7qhaFwNf5WVqdb36Aehwsdy.jpg",
+    "GENERO": "Comedia, Familia, Fantasía",
+    "RATING": 5.8,
+    "DURACION": 91,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Una pacífico ciudadano, harto de observar los manejos del fiscal del distrito, decide presentar su candidatura en las próximas elecciones. Sin embargo, un extraño sortilegio le hace transformarse en un perro.",
+    "ACTORES": "  • Dean Jones (Wilby Daniels)\n  • Suzanne Pleshette (Betty Daniels)\n  • Tim Conway (Tim)\n  • Keenan Wynn (John Slade)\n  • Jo Anne Worley (Katrinka Muggelberg)",
+    "DIRECTOR": "Robert Stevenson",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3457312295606"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 19378,
+    "ID_OKRU": "2634218277522",
+    "TITULO": "El gato que vino del espacio",
+    "FECHA": "1978-06-09",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/en0MZ7AXBxghhRuCsbagpW26erS.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/wrtByjLIqkTFlChOMFPxYfmnJzC.jpg",
+    "GENERO": "Comedia, Familia, Ciencia ficción",
+    "RATING": 5.961,
+    "DURACION": 104,
+    "FRASE_PROMOCIONAL": "¡Un encuentro cercano del tipo 'peludo'!",
+    "SINOPSIS": "Un gato extraterrestre aterriza en la Tierra, concretamente en una granja, cuando su nave espacial sufre una avería. Entonces aparecen los militares y se llevan la nave a un laboratorio para analizarla y ver su fuente de energía. El gato entonces intentará estar cerca de la nave, por lo que se deja acoger por Frank Wilson, uno de los científicos, que le adopta en su casa. Un día, para sorpresa de Frank, el gato le habla.",
+    "ACTORES": "  • Ken Berry (Frank)\n  • Sandy Duncan (Liz)\n  • Harry Morgan (General Stilton)\n  • Roddy McDowall (Mr. Stallwood)\n  • McLean Stevenson (Link)",
+    "DIRECTOR": "Norman Tokar",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/2634218277522"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 14059,
+    "ID_OKRU": "4527967242841",
+    "TITULO": "Snow Buddies",
+    "FECHA": "2008-02-05",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/7eOFi6eVxbbVmkDg0f1lYsUO4O2.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/AhlZZscvXIRigOtaSLCw9vSKH7J.jpg",
+    "GENERO": "Familia, Aventura",
+    "RATING": 6.131,
+    "DURACION": 87,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Continuación de la saga \"Air Bud\". Un grupo de cachorros aventureros llega a Alaska donde conocen Shasta, un joven husky cuyo dueño no quiere más que hacerle caricias y al que ayudan a conseguir sus sueños. Los cachorros se ven envueltos en una carrera de trineos tirados por perros, pero tienen un grave problema: no conocen a nadie que les pueda enseñar a ser unos buenos perros de nieve. Por suerte Shasta encuentra a Talon y le convence para que les ayude.",
+    "ACTORES": "  • Skyler Gisondo (B-Dawg (voice))\n  • Josh Flitter (Budderball (voice))\n  • Liliana Mumy (Rosebud (voice))\n  • Henry Hodges (Mudbud (voice))\n  • Jimmy Bennett (Buddha (voice))",
+    "DIRECTOR": "Robert Vince",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/4527967242841"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 532639,
+    "ID_OKRU": "6540379490838",
+    "TITULO": "Pinocho",
+    "FECHA": "2022-09-07",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/76MYNTMpbiZYqzNArPXmXnPsQce.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/nnUQqlVZeEGuCRx8SaoCU4XVHJN.jpg",
+    "GENERO": "Fantasía, Aventura, Familia",
+    "RATING": 6.264,
+    "DURACION": 105,
+    "FRASE_PROMOCIONAL": "El clásico eterno.",
+    "SINOPSIS": "Versión en acción real del aclamado cuento sobre una marioneta que se embarca en una trepidante aventura para convertirse en un niño de verdad. La historia también presenta a otros personajes, como Gepetto, el carpintero que fabrica a Pinocho y lo trata como a su propio hijo; Pepito Grillo, que hace las veces de guía y “conciencia” de Pinocho; el Hada Azul; el Honrado Juan; la gaviota Sofía, y el cochero.",
+    "ACTORES": "  • Joseph Gordon-Levitt (Jiminy Cricket (voice))\n  • Tom Hanks (Geppetto)\n  • Benjamin Evan Ainsworth (Pinocchio (voice))\n  • Angus Wright (Signore Rizzi)\n  • Cynthia Erivo (Blue Fairy)",
+    "DIRECTOR": "Robert Zemeckis",
+    "TRAILER": "https://youtube.com/watch?v=dZrmy91eZa4",
+    "URLS_OKRU": [
+      "https://ok.ru/video/6540379490838"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 13654,
+    "ID_OKRU": "3721206499929",
+    "TITULO": "101 dálmatas 2",
+    "FECHA": "2003-03-02",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/tBZbbkloDEeA8Fy8KjNBNVAhByv.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/vhuNTct6wQKcaV0U8aUXLVvjetU.jpg",
+    "GENERO": "Familia, Animación, Aventura, Comedia",
+    "RATING": 6.02,
+    "DURACION": 70,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Perdido en un mar de manchas, el pequeño Patch quiere destacar sobre los demás cachorros y sueña con convertirse en un perro único en su especie como su estrella favorita de televisión, Relámpago. Cuando Patch se separa accidentalmente de su familia, tiene la oportunidad de conocer a su héroe y milagrosamente, convertirse en su socio en la vida real. Mientras, Cruella se ha convertido en mecenas de un excéntrico artista cuya pintura se compone de juegos de manchas. Para inspirarle, Cruella secuestra a todos los cachorros de Dálmatas. Juntos Patch y Relámpago planean rescate y Patch descubre que realmente es un perro único.",
+    "ACTORES": "  • Barry Bostwick (Thunderbolt (voice))\n  • Jason Alexander (Lightning (voice))\n  • Martin Short (Lars (voice))\n  • Bobby Lockwood (Patch (voice))\n  • Susanne Blakeslee (Cruella (voice))",
+    "DIRECTOR": "Brian Smith",
+    "TRAILER": "https://youtube.com/watch?v=sxVaBzW8gGM",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3721206499929"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 10674,
+    "ID_OKRU": "6658325351071",
+    "TITULO": "Mulán",
+    "FECHA": "1998-06-18",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/towmTJ0k29quKI9IDnOZKAAtQx.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/mUYV0ZdsDEliGaQahcQH1F3grsP.jpg",
+    "GENERO": "Animación, Familia, Aventura",
+    "RATING": 7.903,
+    "DURACION": 88,
+    "FRASE_PROMOCIONAL": "Esta vez, la princesa salva al príncipe.",
+    "SINOPSIS": "Mulán, una joven china hija única de la familia Fa, en lugar de buscar novio, como sus amigas, trata por todos los medios de alistarse en el ejército imperial para evitar que su anciano padre sea llamado a filas para defender al Emperador del acoso de los Hunos. Cuando el emisario imperial lleva a cabo la orden de reclutar a los varones de todas las familias, Mulán se hará pasar por soldado y se someterá a un duro entrenamiento hasta hacerse merecedora de la estima y de la confianza del resto de su escuadrón.",
+    "ACTORES": "  • Ming-Na Wen (Mulan (voice))\n  • Eddie Murphy (Mushu (voice))\n  • BD Wong (Shang (voice))\n  • Miguel Ferrer (Shan-Yu (voice))\n  • Harvey Fierstein (Yao (voice))",
+    "DIRECTOR": "Tony Bancroft",
+    "TRAILER": "https://youtube.com/watch?v=FNZLizaAfno",
+    "URLS_OKRU": [
+      "https://ok.ru/video/6658325351071"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 13313,
+    "ID_OKRU": "3852187667021",
+    "TITULO": "La bella y la bestia 2: Una navidad encantada",
+    "FECHA": "1997-11-11",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/xY0MXOXPfUIif5RkzpobTMvCtma.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/cJb3cXT8Zx3VdXTKDyR3O5SbVKv.jpg",
+    "GENERO": "Animación, Fantasía, Familia, Romance",
+    "RATING": 6.2,
+    "DURACION": 75,
+    "FRASE_PROMOCIONAL": "Toda la magia del legendario clásico de Disney continúa.",
+    "SINOPSIS": "Es víspera de Navidad y Bella planea animar y decorar el sombrío castillo de Bestia con alegría y muchos adornos, aún sabiendo que Bestia odia la Navidad. Antes de que empiece la fiesta, Bella, junto a todos los personajes que encandilaron al mundo, descubren que el Maestro Fortes, un malvado órgano de tubos y su fiel y divertido compañero Pífano están tratando de sabotear el evento. Ni siquiera bajo esta terrible amenaza, Bella desiste de enseñar a Bestia el verdadero significado de la Navidad. Con una animación exquisita, esta película brilla con nuevos y sorprendentes personajes, música envolvente y magia.",
+    "ACTORES": "  • Paige O'Hara (Belle (voice))\n  • Robby Benson (Beast (voice))\n  • Jerry Orbach (Lumiere (voice))\n  • David Ogden Stiers (Cogsworth (voice))\n  • Bernadette Peters (Angelique (voice))",
+    "DIRECTOR": "Andy Knight",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3852187667021"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 12230,
+    "ID_OKRU": "3336459782737",
+    "TITULO": "101 dálmatas",
+    "FECHA": "1961-01-25",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/2Bt5iwJ0bMPWgIMBVTJPtI7onbe.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/npb2nrqJZDsintMTh6XOxNXfyG2.jpg",
+    "GENERO": "Aventura, Animación, Comedia, Familia",
+    "RATING": 7.176,
+    "DURACION": 79,
+    "FRASE_PROMOCIONAL": "¡La aventura perruna del siglo!",
+    "SINOPSIS": "Pongo y Perdita, los dalmatas protagonistas, son una feliz pareja canina que vive rodeada de sus cachorros junto a sus amos, Roger y Anita. Pero la felicidad no es eterna y hay una malvada mujer, que vive en una gran mansion, que es la mayor enemiga del perro.Cuando se entera de que los protagonistas tienen nada menos que quince cachorros dalmatas, su sueño de obtener un exclusivo abrigo de piel de los pequeños perros, se convierte en una obsesion. Para conseguirlo contrata a dos ladrones y pone en marcha un malvado plan con el unico fin de secuestrar a los dalmatas.",
+    "ACTORES": "  • Rod Taylor (Pongo (voice))\n  • J. Pat O'Malley (Colonel / Jasper (voice))\n  • Betty Lou Gerson (Cruella De Vil / Miss Birdwell (voice))\n  • Martha Wentworth (Nanny / Queenie / Lucy (voice))\n  • Ben Wright (Roger (voice))",
+    "DIRECTOR": "Hamilton Luske",
+    "TRAILER": "https://youtube.com/watch?v=gXgnT50Cr-c",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3336459782737"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 10144,
+    "ID_OKRU": "4519400180374",
+    "TITULO": "La sirenita",
+    "FECHA": "1989-11-17",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/Vc0KvO7z2OzEbRs6nyZs9xD81s.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/qGZXYHvWR1TYOU9raCaEABrj9m7.jpg",
+    "GENERO": "Animación, Familia, Fantasía",
+    "RATING": 7.352,
+    "DURACION": 83,
+    "FRASE_PROMOCIONAL": "En algún lugar bajo del mar y más allá de tu imaginación existe una aventura de fantasía.",
+    "SINOPSIS": "Ariel es una sirena adolescente, hija de Tritón, el rey del mar. Desobedeciendo a su padre, visita la superficie y se enamora del príncipe Eric. Con la esperanza de encontrar a su amado, la sirenita cae inocentemente bajo los encantos de Úrsula, la bruja del mar, que la transforma en un ser humano. Pero la bruja tiene planes terribles para Ariel y su padre.",
+    "ACTORES": "  • Jodi Benson (Ariel (voice))\n  • Samuel E. Wright (Sebastian (voice))\n  • Pat Carroll (Ursula (voice))\n  • Christopher Daniel Barnes (Eric (voice))\n  • Kenneth Mars (Triton (voice))",
+    "DIRECTOR": "John Musker",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/4519400180374"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 15657,
+    "ID_OKRU": "10709688191553",
+    "TITULO": "Tarzán 2",
+    "FECHA": "2005-06-13",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/5KRnGepv2b1daJ2WM8ZGnPS64nl.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/A6kMrGNxDHtjoOiksUdwAv7FCY4.jpg",
+    "GENERO": "Aventura, Animación, Familia",
+    "RATING": 6.094,
+    "DURACION": 72,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Antes de ser el Rey de la Selva, Tarzán era un niño inquieto que intentaba encontrar su papel en el mundo. Cuando una de sus travesuras pone a su familia en peligro, Tarzán decide que ellos estarán mejor sin él. Así se embarca en un emocionante viaje que le llevará a encontrarse cara a cara con el misterioso Zugor, la fuerza más poderosa del planeta. Juntos, Tarzán y Zugor descubren que ser diferentes no es una debilidad y que los amigos y la familia son el mayor apoyo de todos.",
+    "ACTORES": "  • Harrison Chad (Tarzan (voice))\n  • George Carlin (Zugor (voice))\n  • Brad Garrett (Uto (voice))\n  • Ron Perlman (Kago (voice))\n  • Estelle Harris (Mama Gunda (voice))",
+    "DIRECTOR": "Brian Smith",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/10709688191553"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 13683,
+    "ID_OKRU": "10025694333678",
+    "TITULO": "Tarzán y Jane",
+    "FECHA": "2002-06-24",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/6AEkHBqavdBdnuFvE0cSkm6Srns.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/6LFxCfng1c902SyIqvI8ZL30ztg.jpg",
+    "GENERO": "Animación, Familia, Aventura",
+    "RATING": 6.046,
+    "DURACION": 75,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Tarzán y Jane celebran su primer año juntos, y Jane le busca el regalo perfecto con la ayuda de Terk y Tantor. Recordando todas las aventuras que han compartido, Jane decubre lo excitante que es vivir en la jungla: desde encuentros con viejos amigos y nuevos enemigos, hasta burlar a una hambrienta pantera o deslizarse sobre la lava de un volcán en erupción. Aunque vengan de mundos diferentes, Tarzán y Jane descubren que formando un equipo, no tienen rival.",
+    "ACTORES": "  • Michael T. Weiss (Tarzan (voice))\n  • Olivia D'Abo (Jane Porter (voice))\n  • Jeff Bennett (Prof. Archimedes Q. Porter (voice))\n  • Jim Cummings (Tantor / Merkus (voice))\n  • April Winchell (Terk (voice))",
+    "DIRECTOR": "Don MacKinnon",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/10025694333678"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 8587,
+    "ID_OKRU": "4392572947081",
+    "TITULO": "El rey león",
+    "FECHA": "1994-06-15",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/q00H8EqULYSK74lgevMkhmGGLHn.jpg",
+    "GENERO": "Animación, Familia, Drama",
+    "RATING": 8.253,
+    "DURACION": 85,
+    "FRASE_PROMOCIONAL": "El ciclo de la vida.",
+    "SINOPSIS": "La sabana africana es el escenario en el que tienen lugar las aventuras de Simba, un pequeño león que es el heredero del trono. Sin embargo, se ve forzado a exiliarse al ser injustamente acusado de la muerte de su padre. Durante su destierro, hará buenas amistades y, finalmente, regresará para recuperar lo que legítimamente le corresponde.",
+    "ACTORES": "  • Matthew Broderick (Simba (voice))\n  • Moira Kelly (Nala (voice))\n  • Jeremy Irons (Scar (voice))\n  • Nathan Lane (Timon (voice))\n  • Ernie Sabella (Pumbaa (voice))",
+    "DIRECTOR": "Roger Allers",
+    "TRAILER": "https://youtube.com/watch?v=bjJvvrKl83M",
+    "URLS_OKRU": [
+      "https://ok.ru/video/4392572947081"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 13378,
+    "ID_OKRU": "4366992214665",
+    "TITULO": "Mickey: La mejor Navidad",
+    "FECHA": "2004-11-09",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/5mrTyw3eE1lU9PEzlY7HcWi7uSv.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/9QNeSkYjBJiymEmCxavukse3a5C.jpg",
+    "GENERO": "Animación, Comedia, Familia, Fantasía",
+    "RATING": 7.008,
+    "DURACION": 68,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Disfruta en la nueva celebración navideña de Disney. Mickey, Donald, Goofy y sus amigos protagonizan esta original película sobre la importancia de abrir el corazón al verdadero espíritu de la Navidad. Diviértete con las divertidas ocurrencias del gruñón Donald, que intentará resistirse sin conseguirlo a la alegría que reina en esta época del año. Y no pares de reírte con Mickey y Pluto mientras aprenden una gran lección sobre la importancia de la amistad. Secuela directa a DVD de \"Mickey descubre la Navidad (1999).",
+    "ACTORES": "  • Wayne Allwine (Mickey Mouse (voice))\n  • Tony Anselmo (Donald Duck (voice))\n  • Bill Farmer (Goofy / Pluto (voice))\n  • Jim Cummings (Blitzen (voice))\n  • Tress MacNeille (Daisy Duck (voice))",
+    "DIRECTOR": "Matthew O'Callaghan",
+    "TRAILER": "https://youtube.com/watch?v=c5raWxmcjZQ",
+    "URLS_OKRU": [
+      "https://ok.ru/video/4366992214665"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 40645,
+    "ID_OKRU": "4386062797449",
+    "TITULO": "Timón y Pumba: Por fin las vacaciones",
+    "FECHA": "1997-08-14",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/maWRT9OFZePofAeQFfZ5zVCvCdy.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/3kDIZSgAVYET7cVmfKg4nAP86WO.jpg",
+    "GENERO": "Animación, Comedia, Familia",
+    "RATING": 6.2,
+    "DURACION": 65,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Únete a Timón y Pumba, tus amigos favoritos de El Rey León, para risas escandalosas y aventuras de gran espíritu y trotamundos. Primer destino: África. En 'Kenya Be My Friend', Timon y Pumba olvidan cómo ser amigos cuando Timon olvida el 'Bestest Best Friend Day'. En 'South Sea Sick', Timon se hace médico cuando Pumba come un bicho malo, pero la cura puede matar primero. Luego, en 'Uganda Be An Elephant', Pumba se entera de que está contento de ser él mismo después de intentar ser uno de los animales más populares en la selva. Luego, se dirige a América Central en 'Cómo vencer a la alta Costa Rica'. Un ladrón y su dinero pronto se separan cuando Timón y Pumba intentan recuperar el dinero robado del malvado ladrón de bancos, Quint.",
+    "ACTORES": "  • Quinton Flynn (Timon (Voice))\n  • Ernie Sabella (Pumbaa (Voice))\n  • Charlie Adler (The Teds (Voice))\n  • Rodger Bumpass (The Savage Lion (Voice))\n  • Corey Burton (Quint (Voice))",
+    "DIRECTOR": "Bobs Gannaway",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/4386062797449"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 26730,
+    "ID_OKRU": "4391069354633",
+    "TITULO": "Los 1001 cuentos de Bugs Bunny",
+    "FECHA": "1982-11-19",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/cYknJKuyRPdnnS1tw45cxxhcGfY.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/5pDoHPXtrCBy7Ol0TyWkITKO7b8.jpg",
+    "GENERO": "Animación, Comedia, Familia, Aventura, Música",
+    "RATING": 7.2,
+    "DURACION": 74,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Si Bugs Bunny dirigiera su pregunta característica —\"¿Qué hay de nuevo, viejo?\"— al equipo creativo actual de Warner Bros., no estaría muy equivocado. Para 1001 Rabbit Tales, han retocado una serie de dibujos animados clásicos protagonizados por el conejo come zanahorias y sus torpes compañeros y los han reunido, casi a la perfección, en un largometraje. Esta es la premisa: Bugs y Daffy, ambos vendedores de libros, compiten por vender la mayor cantidad de copias de un libro infantil. En lugar de dirigirse directamente a su territorio de ventas (debería haber girado a la izquierda en Albuquerque), Bugs termina en el castillo de Yosemite Sam, aquí un jefe que lidera un harén. El hijo de Sam, el príncipe Abalaba, un verdadero dolor de cabeza, necesita que alguien le lea cuentos; Bugs, que prefiere aceptar el trabajo antes que sufrir la alternativa, que implica ser hervido en aceite, se apunta.",
+    "ACTORES": "  • Mel Blanc (Bugs Bunny / Daffy Duck / Porky Pig / Yosemite Sam / Sylvester / Sylvester, Jr. / Speedy Gonzales / Tweety / Genie / Hassan / Big Bad Wolf / Beanstalk Giant / Elvis Gorilla / Stork (voice))\n  • Bea Benaderet (Witch Hazel (voice))\n  • Arthur Q. Bryan (Elmer Fudd (voice))\n  • June Foray (Granny / Mother Gorilla / Goldimouse (voice))\n  • Shepard Menken (Old Storyteller (voice))",
+    "DIRECTOR": "Chuck Jones",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/4391069354633"
     ]
   }
 ]
