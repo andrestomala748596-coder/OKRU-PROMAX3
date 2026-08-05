@@ -4761,5 +4761,45 @@
     "URLS_OKRU": [
       "https://vkvideo.ru/video-230577224_456239020"
     ]
+  },
+  {
+    "CATEGORIA": "DRAGON_BALL_Z",
+    "TMDB_ID": 18095,
+    "ID_OKRU": "2287087389384",
+    "TITULO": "Dragon Ball GT: 100 años después",
+    "FECHA": "1997-03-26",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/izZaeWcWDir9PvuSwaITV1E1rA8.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/lesSOGpRuJwebgtL4vNkoRFnbil.jpg",
+    "GENERO": "Aventura, Acción, Animación, Ciencia ficción",
+    "RATING": 6.8,
+    "DURACION": 44,
+    "FRASE_PROMOCIONAL": "¡Historia alternativa de Goku! La prueba del coraje es la Sûshinchû",
+    "SINOPSIS": "Han pasado 100 años desde la derrota de Baby, la única de los guerreros Z con vida es Pan que ahora es una anciana que vive con su nieto Son Goku Jr. Pan intenta entrenarle para que se haga fuerte, pero el chico parece no haber heredado las dotes de lucha de los Saiyans. Un día uno de los matones de la escuela le roba un bolígrafo de juguete a Goku Jr., sin que este oponga resistencia. Al enterarse, Pan se enfurece tanto que cae víctima de una insuficiencia cardíaca y es llevada al hospital. Entonces Goku Jr. decide ir a buscar las bolas de dragón de las que tanto habla su abuela y pedir al dragón que la cure. Así emprende la partida hacia el monte Paoz donde está la cabaña de su tatarabuelo Goku; De camino se encuentra con Puck, quien decide acompañarlo.",
+    "ACTORES": "  • Masako Nozawa (Son Gokû Jr. / Son Gokû)\n  • Yuko Minaguchi (Pan (voice))\n  • Shin Aomori (Gettô (voice))\n  • 曽我部和恭 (Rakkaru (voice))\n  • Miki Ito (Manba (voice))",
+    "DIRECTOR": "葛西治",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/2287087389384"
+    ]
+  },
+  {
+    "CATEGORIA": "DRAGON_BALL_Z",
+    "TMDB_ID": 34433,
+    "ID_OKRU": "2457388387028",
+    "TITULO": "Dragon Ball Z: ¡Arde! Una ardiente, intensa y super feroz batalla",
+    "FECHA": "1993-03-06",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/ohLUrudLh5WggTa3f7eb4WyJhMo.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/xrg1pYVPK1yN0UREAzd1ywoVM6m.jpg",
+    "GENERO": "Animación, Ciencia ficción, Acción",
+    "RATING": 7.267,
+    "DURACION": 71,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Un saiyan veterano, Paragus, decide ir a buscar a Vegeta a la Tierra. Su objetivo es restablecer el imperio de los saiyans. Goku, Vegeta, Trunks del futuro alternativo, Gohan, Krilin, Oolong y Kame-Sen’nin son llevados a un nuevo planeta el cual será el próximo mundo de los saiyans. Sin embargo, su objetivo real es que Broly, su hijo, que es el super saiyan legendario, extermine a los saiyans que quedan, por venganza ya que el Rey Vegeta al enterarse del poder de Broly cuando nació, ordenó su ejecución junto a su padre, sin embargo estos dos últimos sobrevivieron cuando Freezer destruyó el planeta Vegeta. Para matarlos, un cometa enorme chocará contra el planeta, acontecimiento inevitable y él piensa escapar.",
+    "ACTORES": "  • Bin Shimada (Broly (voice))\n  • Masako Nozawa (Son Goku / Son Gohan (voice))\n  • Ryo Horikawa (Vegeta (voice))\n  • Iemasa Kayumi (Paragus (voice))\n  • Takeshi Kusao (Trunks (voice))",
+    "DIRECTOR": "Shigeyasu Yamauchi",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/2457388387028"
+    ]
   }
 ]
