@@ -6022,5 +6022,25 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2823169247890"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 1108427,
+    "ID_OKRU": "16263253133889",
+    "TITULO": "Vaiana",
+    "FECHA": "2026-07-08",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+    "GENERO": "Familia, Fantasía, Comedia, Aventura",
+    "RATING": 5.919,
+    "DURACION": 115,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+    "ACTORES": "  • Catherine Lagaʻaia (Moana)\n  • Dwayne Johnson (Maui)\n  • Rena Owen (Gramma Tala)\n  • John Tui (Chief Tui)\n  • Frankie Adams (Sina)",
+    "DIRECTOR": "Thomas Kail",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/16263253133889"
+    ]
   }
 ]
