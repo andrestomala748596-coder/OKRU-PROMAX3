@@ -6182,5 +6182,105 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10988516936430"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 38757,
+    "ID_OKRU": "7481434245764",
+    "TITULO": "Enredados",
+    "FECHA": "2010-11-24",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/z5kvXWek4smCyeWBDJQkT5sLc9T.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
+    "GENERO": "Animación, Familia, Aventura",
+    "RATING": 7.615,
+    "DURACION": 101,
+    "FRASE_PROMOCIONAL": "¡Nadie les toma el pelo!",
+    "SINOPSIS": "Flynn Rider, el más buscado -y encantador- bandido del reino, se esconde en una misteriosa torre y allí se encuentra con Rapunzel, una bella y avispada adolescente con una cabellera dorada de 21 metros de largo, que vive encerrada allí desde hace años. Ambos sellan un pacto y a partir de ese momento la pareja vivirá emocionantes aventuras en compañía de un caballo superpolicía, un camaleón sobreprotector y una ruda pandilla de matones",
+    "ACTORES": "  • Mandy Moore (Rapunzel (voice))\n  • Zachary Levi (Flynn Rider (voice))\n  • Donna Murphy (Mother Gothel (voice))\n  • Ron Perlman (Stabbington Brother (voice))\n  • M.C. Gainey (Captain of the Guard (voice))",
+    "DIRECTOR": "Nathan Greno",
+    "TRAILER": "https://youtube.com/watch?v=ee3XOCH-pok",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7481434245764"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 405894,
+    "ID_OKRU": "8149976681092",
+    "TITULO": "La Banda del patio ya esta en el 5º Curso",
+    "FECHA": "2003-12-09",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/phdwTroFpF7E2E5G2p0ydi8gp9j.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/mWmdp69wtnaHIQHpnoqe5U0Nq8U.jpg",
+    "GENERO": "Familia, Comedia, Animación",
+    "RATING": 6.6,
+    "DURACION": 62,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Aquí llega una nueva película para un nuevo año escolar. Es hora de volver a la Escuela de la Calle Tercera junto a la Banda del Patio, ¡que ya está en quinto curso!. La Pandilla se desanima al descubrir que se han producido en la escuela algunos cambios desagradables: ¡ya no habrá pizza, ni patio de juegos..., ni taquillas! Y, por si fuera poco, su nueva profesora resulta ser la señorita Finster! Todo esto es demasiado para T.J., que está decidido a encontrar la manera de defender aquello en lo que la Pandilla cree y a conseguir que la escuela vuelva a ser lo que era. Llena de emoción, suspense y montones de carcajadas, disfruta cómo el 5º curso conseguirá sacar lo mejor de cada uno... ¡incluyendo lo mejor de la señorita Finster y del Director Pickly! La Banda del Patio ya está en el 5º curso y te enseñará que trabajar juntos es la mejor manera para aprender sobre la amistad, el trabajo en equipo y, ante todo, la diversión",
+    "ACTORES": "  • Rickey D'Shon Collins (Vince (voice))\n  • Jason Davis (Mikey Blumberg (voice))\n  • Myles Jeffrey (T.J. Detweiler (voice))\n  • Ashley Johnson (Gretchen (voice))\n  • Courtland Mead (Gus (voice))",
+    "DIRECTOR": "Howy Parkins",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/8149976681092"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 10607,
+    "ID_OKRU": "7708326103684",
+    "TITULO": "Los Colegas del Barrio",
+    "FECHA": "1996-01-12",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/eCgKRs1qMRCc2wx0VG7ONEOj2MJ.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/dfkE2LppPbJ1qUzi3tdND5iuMFp.jpg",
+    "GENERO": "Comedia, Crimen",
+    "RATING": 7.054,
+    "DURACION": 89,
+    "FRASE_PROMOCIONAL": "Por fin, la película que demuestra que la justicia no siempre es poética, que la jungla de la calle no siempre es atractiva... pero sí que es divertida.",
+    "SINOPSIS": "Ashtray es un joven negro que se va a Los Angeles a vivir con su padre y con su peculiar abuela. Allí se encuentra con su primo Loc Dog, que se pasa el día con su pandilla de amigos por el barrio.",
+    "ACTORES": "  • Shawn Wayans (Ashtray)\n  • Marlon Wayans (Loc Dog)\n  • Tracey Cherelle Jones (Dashiki)\n  • Chris Spencer (Preach)\n  • Vivica A. Fox (Ashtray's Mother)",
+    "DIRECTOR": "Paris Barclay",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7708326103684"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 2109,
+    "ID_OKRU": "7647484054148",
+    "TITULO": "Hora punta",
+    "FECHA": "1998-09-18",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/wQjBF386gMhiaQucVWwQYdtJ22s.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/9FrpAtF87VKblKkDEiIZzYgO40K.jpg",
+    "GENERO": "Acción, Comedia, Crimen",
+    "RATING": 7.081,
+    "DURACION": 98,
+    "FRASE_PROMOCIONAL": "Las manos más rápidas del Este conocerá al bocazas más grande del Oeste.",
+    "SINOPSIS": "Dos detectives diferentes son asignados en un mismo caso. Ambos tendrán que adaptarse a las costumbres del otro para poder concluir su trabajo con éxito, pero no va a ser una tarea fácil. El detective inspector Lee es el rey de las artes marciales y pertenece a la Royal Hong Kong Police. Su pupila preferida es la hija de once años del Cónsul chino, de la cual el inspector Lee es su guardaespaldas y su mejor amigo. Esta muchacha es capturada y llevada a los Estados Unidos por un peligroso grupo criminal. Hasta allí tendrá que viajar el inspector y, donde se unirá a la investigación con un departamento del FBI y, concretamente, al detective James Carter, un arrogante e impulsivo agente de policía. La explosiva pareja tendrá que enfrentarse a una banda de criminales muy peligrosa, y contarán con la ayuda de Tania Johnson, una experta en artefactos explosivos.",
+    "ACTORES": "  • Jackie Chan (Lee)\n  • Chris Tucker (Carter)\n  • Tom Wilkinson (Griffin)\n  • Philip Baker Hall (Captain Diel)\n  • Elizabeth Peña (Johnson)",
+    "DIRECTOR": "Brett Ratner",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7647484054148"
+    ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 5175,
+    "ID_OKRU": "7647542839940",
+    "TITULO": "Hora punta II",
+    "FECHA": "2001-08-03",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/no3uHLYK0lQyjXiIXIj82fgUsZX.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/vPJwn9pp5f58CqdaXU3eOSLoJkl.jpg",
+    "GENERO": "Acción, Comedia, Crimen",
+    "RATING": 6.774,
+    "DURACION": 90,
+    "FRASE_PROMOCIONAL": "¡Prepárate para un segundo asalto!",
+    "SINOPSIS": "El detective James Carter se encuentra de vacaciones en Hong Kong con su buen amigo el detective Lee. Mientras Carter está ansioso por dedicarse a la juerga y las mujeres, Lee tiene que enfrentarse con un jefe de las Tríadas, responsable del asesinato de dos funcionarios de la embajada norteamericana. Conforme avancen en la investigación, descubrirán una trama de distribución de billetes falsos.",
+    "ACTORES": "  • Jackie Chan (Yan Naing Lee)\n  • Chris Tucker (James Carter)\n  • John Lone (Ricky Tan)\n  • Roselyn Sánchez (Isabella Molina)\n  • Zhang Ziyi (Hu Li)",
+    "DIRECTOR": "Brett Ratner",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7647542839940"
+    ]
   }
 ]
