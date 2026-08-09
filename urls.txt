@@ -6142,5 +6142,25 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7368868825695"
     ]
+  },
+  {
+    "CATEGORIA": "MOVIES_COMEDY",
+    "TMDB_ID": 21724,
+    "ID_OKRU": "6629741234810",
+    "TITULO": "Dance Movie: Despatarre en la pista",
+    "FECHA": "2009-05-22",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/u7bXP8bbGhvQTTTA8WeV2ruIA41.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/yTg0O6dYknEp3yPDnsI1jp4Aj8T.jpg",
+    "GENERO": "Música, Comedia",
+    "RATING": 5.029,
+    "DURACION": 83,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Parodia de las películas de bailes de adolescentes en la que un joven bailarín de street dance, Thomas Uncles (Damon Wayans Jr.), con tendencia a ir por el mal camino, y una joven muy hermosa, Megan White (Shoshana Bush), se unen gracias a su pasión hacia el baile y son puestos a prueba en la competición de baile más divertida.",
+    "ACTORES": "  • Shoshana Bush (Megan)\n  • Damon Wayans Jr. (Thomas)\n  • Essence Atkins (Charity)\n  • Affion Crockett (A-Con)\n  • David Alan Grier (Sugar Bear)",
+    "DIRECTOR": "Damien Dante Wayans",
+    "TRAILER": "https://youtube.com/watch?v=GgreeAgJCCs",
+    "URLS_OKRU": [
+      "https://ok.ru/video/6629741234810"
+    ]
   }
 ]
