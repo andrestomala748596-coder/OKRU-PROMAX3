@@ -5246,7 +5246,7 @@
   {
     "CATEGORIA": "DISNEY_PIXAR",
     "TMDB_ID": 10112,
-    "ID_OKRU": "10036098173678",
+    "ID_OKRU": "7401081997956",
     "TITULO": "Los aristogatos",
     "FECHA": "1970-12-24",
     "PORTADA": "https://image.tmdb.org/t/p/w500/s9DsxlbVE1HvHnCz50GdHDBeZRy.jpg",
@@ -5260,7 +5260,7 @@
     "DIRECTOR": "Wolfgang Reitherman",
     "TRAILER": "No disponible",
     "URLS_OKRU": [
-      "https://ok.ru/video/10036098173678"
+      "https://ok.ru/video/7401081997956"
     ]
   },
   {
@@ -6501,6 +6501,106 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/7449452677764"
+    ]
+  },
+  {
+    "CATEGORIA": "PRINCESA_SOFIA",
+    "TMDB_ID": 318393,
+    "ID_OKRU": "7446969977476",
+    "TITULO": "La Princesa Sofía: La fiesta encantada",
+    "FECHA": "2014-08-05",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/6MRQRMPtxdWZHJ9HHkKBsYqeDrc.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/xWpKjDTEtPj17AF4yEcidA9ak1j.jpg",
+    "GENERO": "Animación, Fantasía, Familia, Película de TV, Música",
+    "RATING": 7.8,
+    "DURACION": 113,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "En esta aventura de la realeza donde todos los monarcas de reinos vecinos de Enchancia llegarán para ver un deslumbrante despliegue de magia: En primer lugar, Cedric evocará una fiesta fabulosa, donde se va a transformar la sala de banquetes en una sala de increíbles morfo-espejos. Pero antes de que comience la diversión, se aparece la malvada señorita Ortiga (disfrazada de Sascha la Hechicera) haciendo de las suyas , mientras que el hada mala se cuela en la fiesta con un plan para robar el amuleto mágico de Sofía. ¿Podrá Sofia frustrar el plan antes de que sea demasiado tarde? Quizá con la ayuda de Blanca Nieves, quien le recuerda que es importante confiar en sus instintos.",
+    "ACTORES": "  • Ariel Winter (Princess Sofia (voice))\n  • Wayne Brady (Clover (voice))\n  • Pamela Adlon (Rosey (voice))\n  • Katherine Von Till (Snow White (voice))\n  • Darcy Rose Byrnes (Princess Amber (voice))",
+    "DIRECTOR": "Mircea Mantta",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7446969977476"
+    ]
+  },
+  {
+    "CATEGORIA": "PRINCESA_SOFIA",
+    "TMDB_ID": 266775,
+    "ID_OKRU": "7446920956548",
+    "TITULO": "La princesa Sofía: El palacio flotante",
+    "FECHA": "2013-11-24",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/k3Hhgg4baysaL1c7GIZDhT351a8.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/1jNrFevrTMaiufxWQ0XKhX5puc0.jpg",
+    "GENERO": "Animación, Película de TV, Aventura",
+    "RATING": 7.198,
+    "DURACION": 50,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Después de ayudar a una pequeña sirena llamada Oona, el amuleto de Sofía le concede el poder de transformarse en sirena para ir a visitar el reino submarino secreto de su nueva amiga. Pero Cédric (disfrazado de monstruo marino) planea robar la Peineta de la Sirena encantada de Oona y hará que los dos mundos peligren. Con un poco de ayuda de Ariel, la invitada especial, Sofía parte en una aventura para rescatar a Oona y evitar un tifón antes de que sea demasiado tarde.",
+    "ACTORES": "  • Ariel Winter (Princess Sofia (voice))\n  • Travis Willingham (King Roland II (voice))\n  • Sara Ramirez (Queen Miranda (voice))\n  • Darcy Rose Byrnes (Princess Amber (voice))\n  • Zach Callison (Prince James (voice))",
+    "DIRECTOR": "Larry Leichliter",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7446920956548"
+    ]
+  },
+  {
+    "CATEGORIA": "PRINCESA_SOFIA",
+    "TMDB_ID": 308141,
+    "ID_OKRU": "7446912371332",
+    "TITULO": "La princesa Sofía: La maldición de la princesa Ivy",
+    "FECHA": "",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/x3ck4LPnBm8EPWXqnoPKmer3jXz.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/6kCK7vx4QQSpg2ynYOJyo6cJvku.jpg",
+    "GENERO": "",
+    "RATING": 8.5,
+    "DURACION": 60,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Amber descubre el amuleto mágico de Sofía y lo coge cuando esta está durmiendo. Al hacerlo se desata una maldición que hace aparecer a una malvada princesa.",
+    "ACTORES": "",
+    "DIRECTOR": "N/A",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7446912371332"
+    ]
+  },
+  {
+    "CATEGORIA": "TERROR_ANIMADO",
+    "TMDB_ID": 730840,
+    "ID_OKRU": "7446958377604",
+    "TITULO": "Trollhunters: El despertar de los titanes",
+    "FECHA": "2021-07-21",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/fhhjAX2iDmnZksQWsJ8DdAcDBc5.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/d1i6oB5xdo2a7sOmjprCcElqlrD.jpg",
+    "GENERO": "Animación, Fantasía, Familia, Acción, Aventura",
+    "RATING": 7.5,
+    "DURACION": 106,
+    "FRASE_PROMOCIONAL": "Ellos se levantarán.",
+    "SINOPSIS": "Los héroes de la serie Trollhunters se unen en una épica aventura para luchar contra la Orden de los Arcanos para determinar quién controla el poder de la magia que los une a todos.",
+    "ACTORES": "  • Emile Hirsch (Jim (voice))\n  • Lexi Medrano (Claire (voice))\n  • Charlie Saxton (Toby (voice))\n  • Kelsey Grammer (Blinky (voice))\n  • Alfred Molina (Archie (voice))",
+    "DIRECTOR": "Francisco Ruiz Velasco",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7446958377604"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 420821,
+    "ID_OKRU": "7424576653956",
+    "TITULO": "Chip y Chop: Los guardianes rescatadores",
+    "FECHA": "2022-05-20",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/cVE6Mop3gCqIZfnQEkvGV2rG0IM.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/qK7Ssnrfvrt65F66A1thvehfQg2.jpg",
+    "GENERO": "Animación, Familia, Comedia, Aventura, Misterio",
+    "RATING": 6.983,
+    "DURACION": 98,
+    "FRASE_PROMOCIONAL": "No es un reboot, es un regreso.",
+    "SINOPSIS": "Treinta años después, las estrellas de las series de animación de Disney de los años 1990, Chip y Chop, viven en Los Ángeles entre dibujos animados y humanos. Chip lleva una vida rutinaria y hogareña como vendedor de seguros, mientras que Chop se ha hecho la cirugía 3D y se dedica a explotar la nostalgia de convención en convención, desesperado por revivir sus días de gloria. Cuando un antiguo compañero de reparto desaparece misteriosamente, Chip y Chop se ven obligados a recuperar la amistad perdida y a hacer de detectives una vez más como Guardianes Rescatadores para salvar a su amigo.",
+    "ACTORES": "  • Andy Samberg (Dale (voice))\n  • John Mulaney (Chip (voice))\n  • KiKi Layne (Ellie Steckler)\n  • Will Arnett (Sweet Pete (voice))\n  • Eric Bana (Monterey Jack (voice))",
+    "DIRECTOR": "Akiva Schaffer",
+    "TRAILER": "https://youtube.com/watch?v=W9QY3lKw2p4",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7424576653956"
     ]
   }
 ]
