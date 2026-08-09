@@ -6082,5 +6082,65 @@
     "URLS_OKRU": [
       "https://ok.ru/video/2558241213071"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 10340,
+    "ID_OKRU": "6920146193063",
+    "TITULO": "La dama y el vagabundo",
+    "FECHA": "1955-06-22",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/vHbizQYlkL8MwtOdsdWaPuR5N5w.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/yGgEg4yimYQJLZrZg3Qhogp2raQ.jpg",
+    "GENERO": "Animación, Familia, Romance, Aventura, Comedia",
+    "RATING": 7.129,
+    "DURACION": 76,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Reina es una preciosa perrita de pura raza que vive feliz en su hogar. Jaimito y Linda, la miman mucho y ella corresponde feliz a sus cuidados. Sin embargo, el día en que sus dueños deciden hacer un viaje, la vida de Reina se ve alterada; la llegada de la tía Sara con sus gatos no provoca más que sobresaltos. Menos mal que conoce a Golfo, un perro vagabundo muy simpático",
+    "ACTORES": "  • Barbara Luddy (Lady (voice))\n  • Larry Roberts (Tramp (voice))\n  • Peggy Lee (Darling / Si / Am / Peg (voice))\n  • Bill Thompson (Jock / Bull / Policeman at Zoo / Dachsie / Joe (voice))\n  • Bill Baucom (Trusty (voice))",
+    "DIRECTOR": "Hamilton Luske",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/6920146193063"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 77950,
+    "ID_OKRU": "78820739715",
+    "TITULO": "Turbo",
+    "FECHA": "2013-07-11",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/lDARMqluCrWaFgybY9KHLY96L3n.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/3qfiZd8ETMk9MQsmhbOB5QAAx0l.jpg",
+    "GENERO": "Animación, Familia",
+    "RATING": 6.279,
+    "DURACION": 95,
+    "FRASE_PROMOCIONAL": "Él es rápido. Los demás están furiosos.",
+    "SINOPSIS": "Turbo es un caracol de jardín con un sueño imposible: convertirse en el caracol más rápido del mundo. Cuando un extraño accidente le da el poder de la súper-velocidad, Turbo intentará cumplir su sueño. Primero se hará amigo de una peculiar pandilla de caracoles callejeros tuneados y obsesionados con la velocidad, y allí Turbo aprenderá que nadie llega a tener éxito por sí solo. Así que coloca su corazón y su concha en la línea de salida dispuesto a ayudar a sus colegas a lograr sus sueños, antes de intentar alcanzar su sueño imposible: ganar las 500 millas de Indianápolis.",
+    "ACTORES": "  • Ryan Reynolds (Turbo (voice))\n  • Paul Giamatti (Chet (voice))\n  • Michael Peña (Tito (voice))\n  • Samuel L. Jackson (Whiplash (voice))\n  • Luis Guzmán (Angelo (voice))",
+    "DIRECTOR": "David Soren",
+    "TRAILER": "https://youtube.com/watch?v=5qAo-4YDnZQ",
+    "URLS_OKRU": [
+      "https://ok.ru/video/78820739715"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 109445,
+    "ID_OKRU": "7368868825695",
+    "TITULO": "Frozen: El reino del hielo",
+    "FECHA": "2013-11-20",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/sGNuWC4BwqOB4l0tkbKwLy70tXC.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg",
+    "GENERO": "Animación, Familia, Aventura, Fantasía",
+    "RATING": 7.249,
+    "DURACION": 102,
+    "FRASE_PROMOCIONAL": "Un acto de amor verdadero puede acabar con un corazón congelado.",
+    "SINOPSIS": "Cuando una profecía condena a un reino a un invierno eterno, Anna, una joven optimista se une a un temerario montañero llamado Kristoff y a su compinche el reno Sven. Juntos emprenden un viaje épico en busca de Elsa, hermana de Anna y reina de Las Nieves para poner fin al gélido hechizo.",
+    "ACTORES": "  • Kristen Bell (Anna (voice))\n  • Idina Menzel (Elsa (voice))\n  • Jonathan Groff (Kristoff (voice))\n  • Josh Gad (Olaf (voice))\n  • Santino Fontana (Hans (voice))",
+    "DIRECTOR": "Jennifer Lee",
+    "TRAILER": "https://youtube.com/watch?v=XW6sBY4zMy0",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7368868825695"
+    ]
   }
 ]
