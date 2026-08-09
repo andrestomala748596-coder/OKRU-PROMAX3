@@ -6482,5 +6482,25 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3451026147957"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 26736,
+    "ID_OKRU": "7449452677764",
+    "TITULO": "Los magos de Waverly Place: Vacaciones en el Caribe",
+    "FECHA": "2009-08-28",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/5aCizetfljyF2iMyrTPSAWpU6iM.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/9Qvc6fzE3PzodgJ9no11GlLYZJF.jpg",
+    "GENERO": "Familia, Película de TV, Aventura, Comedia, Fantasía, Acción, Drama",
+    "RATING": 7.314,
+    "DURACION": 89,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "La familia Russo se va de vacaciones al Caribe, al lugar donde los padres se conocieron. Alex Russo, cansada de que sus padres la controlen, lanza accidentalmente un hechizo deseando que sus padres nunca se hubiesen conocido, provocando que se olviden el uno del otro y de sus propios hijos. Alex y Justin deberán adentrarse en la selva para encontrar la Piedra de los Deseos, el único modo de revertir el hechizo. Mientras, Max, vigilará a sus padres para que no se metan en problemas.",
+    "ACTORES": "  • Selena Gómez (Alex Russo)\n  • David Henrie (Justin Russo)\n  • Jake T. Austin (Max Russo)\n  • Maria Canals-Barrera (Theresa Russo)\n  • David DeLuise (Jerry Russo)",
+    "DIRECTOR": "Lev L. Spiro",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7449452677764"
+    ]
   }
 ]
