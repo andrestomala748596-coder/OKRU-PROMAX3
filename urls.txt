@@ -5726,8 +5726,8 @@
   {
     "CATEGORIA": "DISNEY_PIXAR",
     "TMDB_ID": 862972,
-    "ID_OKRU": "3534209288901",
-    "TITULO": "Walt Disney Cartoon Classics, Volume 3: Scary Tales",
+    "ID_OKRU": "5363506875020",
+    "TITULO": "Historias Horripilantes de Disney",
     "FECHA": "1983-01-01",
     "PORTADA": "https://image.tmdb.org/t/p/w500/bhAkMWrvTu2JDsHXd0nEuRvyQjk.jpg",
     "BACKDROP": "https://image.tmdb.org/t/p/w500/hw9ROs3KP6pLHukLvHRWEjhpKhq.jpg",
@@ -5735,12 +5735,12 @@
     "RATING": 9.813,
     "DURACION": 43,
     "FRASE_PROMOCIONAL": "",
-    "SINOPSIS": "Te espera un buen momento macabro con estos cuentos de miedo divertidos y coleccionables, con Mickey Mouse, Donald Duck y Pluto. Mickey descubre una casa llena de fantasmas cuando se encuentra con una vieja mansión. Luego, Donald se ve repentinamente rodeado de personajes siniestros cuando comienza a leer una novela de misterio. Y la mayor pesadilla de Plutón se hace realidad cuando persigue a un gato de más. Esta colección de Cartoon Classic también presenta \"The Skeleton Dance\", la primera \"Silly Symphony\" de Walt Disney.",
+    "SINOPSIS": "Mickey descubre una casa llena de fantasmas cuando se encuentra con una vieja mansión.  Luego, Donald se ve repentinamente rodeado de personajes siniestros cuando comienza a leer una novela de misterio.  Y la mayor pesadilla de Plutón se hace realidad cuando persigue a un gato de más. Esta colección de Cartoon Classic también presenta \"The Skeleton Dance\", la primera \"Silly Symphony\" de Walt Disney.",
     "ACTORES": "",
     "DIRECTOR": "N/A",
     "TRAILER": "No disponible",
     "URLS_OKRU": [
-      "https://ok.ru/video/3534209288901"
+      "https://ok.ru/video/5363506875020"
     ]
   },
   {
@@ -6941,6 +6941,226 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/4190108322409"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 14900,
+    "ID_OKRU": "7785377630852",
+    "TITULO": "La gran aventura de los Muppets",
+    "FECHA": "1981-06-26",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/cc7Aetww1V5aT6QmvDKiwRMxXdt.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/p5qPj9klS3IKXBbnWurZYlmSpHx.jpg",
+    "GENERO": "Comedia, Crimen, Familia, Misterio, Romance",
+    "RATING": 6.938,
+    "DURACION": 97,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "",
+    "ACTORES": "  • Jim Henson (Kermit the Frog / Rowlf the Dog / Dr. Teeth / Waldorf / Swedish Chef / The Muppet Newsman / Zeke / Man in Dubonnet Club)\n  • Frank Oz (Miss Piggy / Fozzie Bear / Animal / Sam the Eagle / Gramps / Swedish Chef (voice))\n  • Dave Goelz (The Great Gonzo / Beauregard / Zoot / Dr. Bunsen Honeydew / Lobbuck Lou / Singing Food (voice))\n  • Jerry Nelson (Sergeant Floyd Pepper / Pops / Lew Zealand / Louis Kazagger / Bellhop Rat / Slim Wilson / \"Dirty Bird\" / Man in Park)\n  • Richard Hunt (Scooter / Statler / Sweetums / Janice / Beaker / Bellhop Rat / Bubba / Gramps / Monster / Singing Food / Cab Driver)",
+    "DIRECTOR": "Jim Henson",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7785377630852"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 11238,
+    "ID_OKRU": "14435794422412",
+    "TITULO": "Aladdín y el rey de los ladrones",
+    "FECHA": "1996-05-20",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/8hNo4sagsaO6ZnZO52QKX7Ggco6.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/gkzfPl0rjp5COdFXPaxitp9J3X3.jpg",
+    "GENERO": "Aventura, Animación, Familia",
+    "RATING": 6.252,
+    "DURACION": 81,
+    "FRASE_PROMOCIONAL": "Aladdín y los 40 ladrones",
+    "SINOPSIS": "Por fin Aladdin se va a casar con la princesa Jasmine. A pesar de la presencia y ánimo de sus amigos Genio, Alfombra y el mono Abú, está algo preocupado: tiene miedo porque no sabe qué tipo de padre va a ser, si él nunca tuvo ninguno. Pero todas sus preocupaciones quedarán de lado cuando 40 ladrones irrumpen en la boda para robar un mágico talismán.",
+    "ACTORES": "  • Scott Weinger (Aladdin (voice))\n  • Brad Kane (Aladdin (singing voice))\n  • Robin Williams (Genie (voice))\n  • Linda Larkin (Jasmine (voice))\n  • Liz Callaway (Jasmine (singing voice))",
+    "DIRECTOR": "Tad Stones",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/14435794422412"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 22752,
+    "ID_OKRU": "15014099880588",
+    "TITULO": "El Dragón Chiflado",
+    "FECHA": "1941-06-19",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/yZ8buDFOCltTfD9TwKmVYIc5V95.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/i93j8LqXisSyY5NGdA8qAnz6vP9.jpg",
+    "GENERO": "Animación, Familia, Comedia",
+    "RATING": 6.6,
+    "DURACION": 74,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Robert Benchley echa un vistazo detrás de cámaras para ver cómo se crea la animación.\r Un entrañable dragón se distingue del resto de su especie porque no se siente violento ni malvado. Antes que atacar a los seres humanos, prefiere entretenerse en cantar canciones o recitar poesía. Un día aparece un famoso caballero andante, que le enseñará a combatir.",
+    "ACTORES": "  • Robert Benchley (Robert Benchley)\n  • Frances Gifford (Doris)\n  • Buddy Pepper (Humphrey)\n  • Nana Bryant (Mrs. Benchley)\n  • Claud Allister (Sir Giles (segment \"The Reluctant Dragon\") (voice))",
+    "DIRECTOR": "Alfred L. Werker",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/15014099880588"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 13757,
+    "ID_OKRU": "8702123051660",
+    "TITULO": "Ritmo y melodía",
+    "FECHA": "1948-05-27",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/ympS9JL98zqlLP8ydP4dBASQuRJ.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/zy7wZp6WEdK4zeVhrw2V5BIbLRy.jpg",
+    "GENERO": "Animación, Música, Familia",
+    "RATING": 6.091,
+    "DURACION": 75,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "En la más pura tradición de Walt Disney llega este clásico, que hace el número 10, con historias llenas de simpáticos personajes y música muy pegadiza. Únete al Pato Donald en «Échale la culpa a la samba» y no podrás dejar de mover el cuerpo. En la siguiente historia descubrirás que la música es una verdadera aventura para una abeja muy ocupada en «El abejorro». También conocerás a un pequeño personaje, en tamaño, pero de enorme corazón, «Silbatín», y con Juanito Manzanas descubrirás cómo el trabajo puede resultar muy gratificante.",
+    "ACTORES": "  • Roy Rogers (Roy Rogers)\n  • Dennis Day (Johnny Appleseed Narrator (voice))\n  • Freddy Martin (Pianist)\n  • Frances Langford (Frances Langford)\n  • Ethel Smith (Ethel Smith)",
+    "DIRECTOR": "Clyde Geronimi",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/8702123051660"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 1123093,
+    "ID_OKRU": "6908741356172",
+    "TITULO": "El diario de Greg: ¡Navidad sin salida!",
+    "FECHA": "2023-12-07",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/aZ7HhJVOJqoHMez57ST20mb66Ev.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/pdW32dO2FHSHIkXYFAB19RvbIDc.jpg",
+    "GENERO": "Animación, Comedia, Familia",
+    "RATING": 6.725,
+    "DURACION": 64,
+    "FRASE_PROMOCIONAL": "¡Prepárate para la Navidad más débil jamás vivida!",
+    "SINOPSIS": "Una graciosa y conmovedora historia de Navidad sobre nuestro estudiante de secundaria favorito, Greg Heffley, quien aunque sea propenso a los desastres, lucha desesperadamente por recibir su regalo de Santa, mientras que su familia se prepara para una fuerte tormenta de nieve.",
+    "ACTORES": "  • Wesley Kimmel (Greg Heffley (voice))\n  • Erica Cerra (Susan (voice))\n  • Christian Convery (Fregley (voice))\n  • Chris Diamantopoulos (Frank (voice))\n  • Hunter Dillon (Rodrick (voice))",
+    "DIRECTOR": "Luke Cormican",
+    "TRAILER": "https://youtube.com/watch?v=1f9LFnTr1r0",
+    "URLS_OKRU": [
+      "https://ok.ru/video/6908741356172"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 15653,
+    "ID_OKRU": "6252102093452",
+    "TITULO": "Extremadamente Goofy",
+    "FECHA": "2000-02-29",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/bRQbaTkzxuHcsNy1NK1aRuueFLs.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/2XoHSRRhwSdv42suJMJBgEyWy5b.jpg",
+    "GENERO": "Animación, Familia, Comedia",
+    "RATING": 6.45,
+    "DURACION": 80,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Nuevas aventuras de Goofy y su hijo adolescente Max. En esta ocasión, Max se ha matriculado en la universidad, y dedica su tiempo libre a practicar todo tipo de arriesgados deportes. Goofy le echa tanto de menos, que se da cuenta de que hasta entonces ha dedicado demasiado tiempo al trabajo y muy poco a su hijo. Así que toma una decisión radical: se matricula también en la universidad.",
+    "ACTORES": "  • Bill Farmer (Goofy (voice))\n  • Jason Marsden (Max (voice))\n  • Jeff Bennett (Bradley Uppercrust / Unemployment Lady / Chuck  (voice))\n  • Jim Cummings (Pete (voice))\n  • Brad Garrett (Tank (voice))",
+    "DIRECTOR": "Douglas McCarthy",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/6252102093452"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 20343,
+    "ID_OKRU": "2701254789772",
+    "TITULO": "Música maestro",
+    "FECHA": "1946-06-30",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/bymVgvGUQtG7SMymnYsNtqw07k9.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/v3a6fM8QpNWZOQFgOYUeHu6RIad.jpg",
+    "GENERO": "Animación, Música, Familia",
+    "RATING": 5.85,
+    "DURACION": 75,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Antología musical animada compuesta por 10 fragmentos: \"Los Guerrero y los de León\", \"Tarde Azul\", \"Cuando los gatos se juntan\", \"Tres palabras\", \"El gran valente\", \"Un sueño en silueta\", \"Pedro y el lobo\", \"Después que te fuiste\", \"Historia de un idilio\" y \"El ballenato que quiso cantar en la ópera\".",
+    "ACTORES": "  • Nelson Eddy (Narrator / Characters (segment \"The Whale Who Wanted to Sing at the Met\") (voice))\n  • Dinah Shore (Self (voice))\n  • Benny Goodman (Self (voice))\n  • Jerry Colonna (Narrator (segment \"Casey at the Bat\") (voice))\n  • Andy Russell (Self (voice))",
+    "DIRECTOR": "Robert Cormack",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/2701254789772"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 14906,
+    "ID_OKRU": "2719659788940",
+    "TITULO": "Saludos amigos",
+    "FECHA": "1942-08-24",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/AqNjU3PS1WCKZIIVK9o8l0s7ltH.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/epWLmnK6XYtlR8ICOKauGH546W2.jpg",
+    "GENERO": "Animación, Aventura, Música",
+    "RATING": 5.8,
+    "DURACION": 42,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Mezcla de animación y realidad, presenta cuatro historias protagonizadas por el Pato Donald, Goofy y José Carioca, todas ellas ambientadas en Sudamérica y que van desde los Andes, hasta la Pampa Argentina o Río de Janeiro.",
+    "ACTORES": "  • Fred Shields (Narrator)\n  • Zé Carioca (José Carioca (voice))\n  • Pinto Colvig (Goofy (voice))\n  • Walt Disney (Self)\n  • Clarence Nash (Donald Duck (voice))",
+    "DIRECTOR": "Wilfred Jackson",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/2719659788940"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 46929,
+    "ID_OKRU": "2703463484044",
+    "TITULO": "Bongo: Diversión y fantasía",
+    "FECHA": "1947-09-27",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/3iIsRyKyfdK8vS9Ve4bUgK4uHAH.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/gcLCXH7ZTr3Yk2JG1u7cXb7p1vy.jpg",
+    "GENERO": "Animación, Familia, Fantasía, Comedia, Aventura",
+    "RATING": 6.275,
+    "DURACION": 73,
+    "FRASE_PROMOCIONAL": "Bongo: Diversión y fantasía",
+    "SINOPSIS": "El noveno clásico Disney está lleno de magia, aventura y divertidas canciones. Es el único en el que participan tus personajes favoritos: Mickey Mouse, el Pato Donald, Goofy y Pepe Grillo.",
+    "ACTORES": "  • Edgar Bergen (Himself / Charlie McCarthy / Mortimer Snerd)\n  • Dinah Shore (Narrator (voice))\n  • Luana Patten (Herself)\n  • Walt Disney (Mickey Mouse (voice) (uncredited))\n  • Anita Gordon (Singing Harp (voice))",
+    "DIRECTOR": "Hamilton Luske",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/2703463484044"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 15947,
+    "ID_OKRU": "2717596519052",
+    "TITULO": "Los tres caballeros",
+    "FECHA": "1944-12-21",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/65e3wvaYjcWqkEaRI69no8G8QTC.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/kcWYiBWej3JdYbGEVaKYAQGfqYp.jpg",
+    "GENERO": "Animación, Familia, Música",
+    "RATING": 6.273,
+    "DURACION": 72,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "El gallo Panchito, el loro José Carioca y el Pato Donald protagonizan esta comedia musical en la que se combinan personajes reales con dibujos animados. Mucho ritmo, chicas guapas y diversión son los principales ingredientes.",
+    "ACTORES": "  • Clarence Nash (Donald Duck (voice))\n  • Sterling Holloway (Professor Holloway (voice))\n  • Joaquin Garay (Panchito (voice))\n  • Zé Carioca (José Carioca (voice))\n  • Aurora Miranda (Brazilian Girl)",
+    "DIRECTOR": "Norman Ferguson",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/2717596519052"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 418956,
+    "ID_OKRU": "4172108204684",
+    "TITULO": "El Patito Feo",
+    "FECHA": "1939-04-07",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/nCkMoq2penMxvdhQa0LGwK1G6fJ.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/woMB1t6cBbS9xPzZzsv8DI7IOxV.jpg",
+    "GENERO": "Animación, Comedia",
+    "RATING": 6.992,
+    "DURACION": 9,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Un patito es rechazado por su familia porque es diferente. También es despreciado por los otros pájaros y animales. Finalmente, una madre cisne lo adopta como una de sus crías.",
+    "ACTORES": "  • Clarence Nash (Ducks (voice) (uncredited))",
+    "DIRECTOR": "Hamilton Luske",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/4172108204684"
     ]
   }
 ]
