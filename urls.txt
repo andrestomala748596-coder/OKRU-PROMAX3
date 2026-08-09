@@ -7162,5 +7162,25 @@
     "URLS_OKRU": [
       "https://ok.ru/video/4172108204684"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 21448,
+    "ID_OKRU": "3012725967500",
+    "TITULO": "La Navidad mágica de Mickey",
+    "FECHA": "2001-11-06",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/jZ4OLwlFZr2ny2YEjAtIlpDzEX3.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/u0Ts1bQRyC5VRSHut0YaSEpKSYr.jpg",
+    "GENERO": "Animación, Familia, Comedia",
+    "RATING": 6.962,
+    "DURACION": 65,
+    "FRASE_PROMOCIONAL": "Mickey y sus amigos celebran la navidad por la nevada.",
+    "SINOPSIS": "Cuando una gran tormenta de nieve deja a todos varados, Mickey y todos sus invitados en la Casa del Ratón, incluyendo a Pooh, Bella, Blancanieves, Cenicienta, Ariel y muchos más de sus viejos y nuevos amigos, sacan las galletas y el chocolate caliente para ayudar a Donald a reparar su desgarrado espíritu navideño.",
+    "ACTORES": "  • Wayne Allwine (Mickey Mouse (voice))\n  • Tony Anselmo (Donald Duck / Huey / Dewey / Louie (voice))\n  • Bill Farmer (Goofy / Pluto / Practical Pig (voice))\n  • Russi Taylor (Minnie Mouse / Grandma Duck / Perla (voice))\n  • Tress MacNeille (Daisy Duck / Chip / Dale (voice))",
+    "DIRECTOR": "Bobs Gannaway",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3012725967500"
+    ]
   }
 ]
