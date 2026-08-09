@@ -6282,5 +6282,205 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7647542839940"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 18269,
+    "ID_OKRU": "7575386131076",
+    "TITULO": "La dama y el vagabundo 2: Las aventuras de Golfillo",
+    "FECHA": "2001-02-18",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/wHVa5xmRD4r2RT4peQMSQqz1hNs.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/rPIVGon9dNpgMvlGKqG2tvIG8vo.jpg",
+    "GENERO": "Animación, Familia, Romance, Aventura",
+    "RATING": 6.34,
+    "DURACION": 69,
+    "FRASE_PROMOCIONAL": "Un Film de Jeannine Roussel",
+    "SINOPSIS": "Los encantadores perritos Reina y Golfo han sido padres de cuatro cachorros: Anette, Colette, Daniela y Golfillo. Este último es el más travieso de todos y se ve atraído por la libertad del mundo exterior lejos de las normas domésticas. Una noche escapa de casa y conoce a Ángela, una preciosa perrita huérfana que vive en las calles. Junto a ella y un grupo de nuevos amigos descubrirá un mundo desconocido para él. ¿Encontrará Golfillo la aventura de su vida en las calles, o aprenderá a valorar el amor que le brinda la familia que dejó atrás?",
+    "ACTORES": "  • Scott Wolf (Scamp (voice))\n  • Alyssa Milano (Angel (voice))\n  • Chazz Palminteri (Buster (voice))\n  • Jeff Bennett (Tramp / Jock / Trusty / Dogcatcher (voice))\n  • Jodi Benson (Lady (voice))",
+    "DIRECTOR": "Darrell Rooney",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7575386131076"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 20235,
+    "ID_OKRU": "7570451139204",
+    "TITULO": "La bella y la bestia: El mundo mágico de Bella",
+    "FECHA": "1998-02-16",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/4148Rd05Q3j0SzndQcSehl9gkH2.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/dAuE36QjmEXW3AkIzYlHyaBOmmF.jpg",
+    "GENERO": "Animación, Fantasía, Familia, Romance",
+    "RATING": 6.2,
+    "DURACION": 92,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Inspirado en el clásico de Disney, “La Bella y la Bestia”, surgió El mundo mágico de Bella, un cuento en el que se incluyen cuatro historias, que transfieren la importancia del amor y la amistad. Hace tiempo, el mundo se enamoró de una hermosa heroína y del dueño de un castillo encantado que junto al resto de inquilinos, Lumier, Din Don, la Sra. Potts, Chip, y muchos más, nos introducen en un mágico regreso al castillo de Bestia... (FILMAFFINITY)",
+    "ACTORES": "  • Robby Benson (Beast (voice))\n  • Paige O'Hara (Belle (voice))\n  • David Ogden Stiers (Cogsworth (voice))\n  • Jerry Orbach (Lumiere (voice))\n  • Anne Rogers (Mrs. Potts (voice))",
+    "DIRECTOR": "Cullen Blaine",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7570451139204"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 594328,
+    "ID_OKRU": "7482563365508",
+    "TITULO": "Phineas y Ferb, la película: Candace contra el universo",
+    "FECHA": "2020-06-14",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/i5rPRIEf88IKSCM2loRy3iN2lQc.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/hXz0u1wEYU7LogAPspwd1o4xBfj.jpg",
+    "GENERO": "Familia, Animación, Ciencia ficción, Comedia",
+    "RATING": 7.2,
+    "DURACION": 86,
+    "FRASE_PROMOCIONAL": "¡Prepárate para una misión fuera de este mundo!",
+    "SINOPSIS": "Después de fracasar en sus repetidos intentos de pillar a sus hermanos, Phineas y Ferb, la sufridora Candace siente que el universo está en su contra. Cuando Candace es secuestrada por alienígenas, encuentra un planeta lejano, libre de sus pesados hermanos, donde la idolatran como salvadora. Mientras, Phineas y Ferb se disponen a cruzar la galaxia para rescatar a Candace a la vez que descubren los siniestros secretos de los extraterrestres.",
+    "ACTORES": "  • Ashley French (Candace Flynn (voice))\n  • Vincent Martella (Phineas Flynn (voice))\n  • David Errigo Jr. (Ferb Fletcher (voice))\n  • Dan Povenmire (Dr. Doofenshmirtz (voice))\n  • Olivia Olson (Vanessa Doofenshmirtz (voice))",
+    "DIRECTOR": "Dan Povenmire",
+    "TRAILER": "https://youtube.com/watch?v=lUAG_dHh-kw",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7482563365508"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 13691,
+    "ID_OKRU": "7478314994308",
+    "TITULO": "La gran película de Piglet",
+    "FECHA": "2003-03-16",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/3gumCa7HRNHE2wBLWdDgj0tvaKx.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/yrIL6TukQ3m2KLf9oFoLMF7kDnz.jpg",
+    "GENERO": "Animación, Familia",
+    "RATING": 6.69,
+    "DURACION": 79,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Una historia de amistad y de aprendizaje; para sentirse grande no hace falta hacer grandes cosas. El pequeño cerdito Piglet se siente inferior porque sus amigos comienzan la \"cosecha de la miel\" y a él le dicen que es demasiado pequeño para participar. Cuando Piglet desaparece, todos sus amigos comienzan a buscarle, y descubrirán que el pequeño animal ha sido un gran héroe en muchos aspectos.",
+    "ACTORES": "  • John Fiedler (Piglet (voice))\n  • Jim Cummings (Winnie the Pooh / Tigger (voice))\n  • Nikita Hopkins (Roo (voice))\n  • Ken Sansom (Rabbit (voice))\n  • Peter Cullen (Eeyore (voice))",
+    "DIRECTOR": "Francis Glebas",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7478314994308"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 16394,
+    "ID_OKRU": "7478253587076",
+    "TITULO": "Winnie the Pooh: Una primavera con Rito",
+    "FECHA": "2004-03-09",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/qTCvI3AXpritP3fCHo7TcJkIbzM.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/eg6db3KpXpUBfFaWQNa7S6Ob3MC.jpg",
+    "GENERO": "Aventura, Animación, Comedia, Familia",
+    "RATING": 6.701,
+    "DURACION": 65,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Cuento está protagonizado por Winnie the Pooh y su pequeño amiguito, Roo. Cada año Rabbit trae un huevo de Pascua. Pero este año no ha sido así. Si no hay huevo de Pascua significa que no hay ningún dulce para Pooh, nada de caza para Tigger, ninguna cesta para el cochinillo, ningunas orejas mullidas de conejo para Eeyore y nada de diversión para Roo. Rabbit espera que todos entren en acción: ¡que frieguen, quiten el polvo, y barran! Pero el amor y la sabiduría de Roo demuestran a Rabbit que los días especiales deben ser compartidos de una manera especial. (FILMAFFINITY)",
+    "ACTORES": "  • Jim Cummings (Winnie The Pooh / Tigger (voice))\n  • Ken Sansom (Rabbit (voice))\n  • Jimmy Bennett (Roo (voice))\n  • David Ogden Stiers (Narrator (voice))\n  • John Fiedler (Piglet (voice))",
+    "DIRECTOR": "Saul Blinkoff",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7478253587076"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 59387,
+    "ID_OKRU": "7477542718084",
+    "TITULO": "Las Supernenas: la película",
+    "FECHA": "2002-07-03",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/yAFalW8UtdJg1z1gPjXx8C1sXZq.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/9JYhHvfdLC0rUI1AtXyw6l4bUpV.jpg",
+    "GENERO": "Animación, Acción, Familia",
+    "RATING": 6.8,
+    "DURACION": 74,
+    "FRASE_PROMOCIONAL": "Creadas con azucar... especias... muchas cosas bonitas",
+    "SINOPSIS": "Creadas con azucar... especias... muchas cosas bonitas... y una enorme dosis de la potente y misteriosa sustancia conocida como ingrediente X, Pétalo, Burbuja y Cactus -las Supernenas- comienzan la increible aventura de cómo se convirtieron en las protectoras de la ciudad de Townsville. Si bien tienen poderes tan increíbles como ojos de rayos láser, una fuerza sobrehumana y la capacidad de volar a la velocidad de la luz, las Chicas sólo están en párvulos. Aunque no quieren hacer daño a nadie, sus ganas de jugar unidas a sus superpoderes, casi destruyen su querida ciudad y ahora los hombres, mujeres y niños de Townsville las ven como una amenaza. Las Supernenas, abatidas, acuden al misterioso genio Mojo Jojo en busca de ayuda... pero el malvado Mojo Jojo tiene sus propios planes perversos, ¡cómo liderar un ejército de monos para destruir el mundo! ¿Conseguirán Las Supernenas saber la verdad sobre Mojo Jojo y salvar Townsville y el mundo por primera vez... antes de irse a dormir?",
+    "ACTORES": "  • Cathy Cavadini (Blossom (voice))\n  • Tara Strong (Bubbles (voice))\n  • E. G. Daily (Buttercup (voice))\n  • Roger L. Jackson (Mojo Jojo (voice))\n  • Tom Kane (Professor Utonium (voice))",
+    "DIRECTOR": "Craig McCracken",
+    "TRAILER": "https://youtube.com/watch?v=4NdBbKkt06k",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7477542718084"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 15655,
+    "ID_OKRU": "7477505821316",
+    "TITULO": "La película de Tigger",
+    "FECHA": "2000-02-11",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/zMEky5WS29EjnmeSXvSm4YATV2R.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/60JMvMGuLHSlVjoUpi86UiB5Lmq.jpg",
+    "GENERO": "Animación, Familia, Comedia",
+    "RATING": 6.687,
+    "DURACION": 80,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Tigger y Rito hacen una minuciosa búsqueda en el Bosque de los Cien Acres reuniendo pistas sobre la familia de Tigger.",
+    "ACTORES": "  • Jim Cummings (Tigger / Winnie the Pooh (voice))\n  • Nikita Hopkins (Roo (voice))\n  • Ken Sansom (Rabbit (voice))\n  • John Fiedler (Piglet (voice))\n  • Peter Cullen (Eeyore (voice))",
+    "DIRECTOR": "Jun Falkenstein",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7477505821316"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 14405,
+    "ID_OKRU": "7471216265860",
+    "TITULO": "Un chihuahua en Beverly Hills",
+    "FECHA": "2008-10-03",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/d2bIGAs9BI46UPyF6o1hrsBMEl8.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/vKCiYKgTYVlsDaecEKFOYG7ZM15.jpg",
+    "GENERO": "Comedia, Familia, Aventura, Romance",
+    "RATING": 5.388,
+    "DURACION": 91,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Narra las aventuras de Chloe, una consentida perrita Chihuahua de Beverly Hills que se pierde en las humildes calles de México, sin ningún spa ni tienda exclusiva de Rodeo Drive a la vista. Sola por primera vez en su vida, no tiene más remedio que confiar en algunos inesperados amigos - un pastor alemán callejero y un tierno cachorro- para que le \"echen una pata\" y la ayuden a recuperar el coraje que necesita para volver a casa.",
+    "ACTORES": "  • Drew Barrymore (Chloe (voice))\n  • Piper Perabo (Rachel Ashe Lynn)\n  • Andy Garcia (Delgado (voice))\n  • George López (Papi (voice))\n  • Paul Rodríguez (Chico (voice))",
+    "DIRECTOR": "Raja Gosnell",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7471216265860"
+    ]
+  },
+  {
+    "CATEGORIA": "TERROR_ANIMADO",
+    "TMDB_ID": 89247,
+    "ID_OKRU": "7625505245828",
+    "TITULO": "Papá, soy una zombi",
+    "FECHA": "2012-01-10",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/rqA1DzWrheUQRvKAmkm4ftXehvA.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/pKZ5hu90kZNN2xDPCmtEdUpfxlK.jpg",
+    "GENERO": "Animación, Fantasía, Comedia",
+    "RATING": 7.159,
+    "DURACION": 80,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "La vida de una adolescente gótica que vive en una funeraria y que un buen día se convierte en muerta viviente con una meta en la vida-muerte: luchar contra el mal.",
+    "ACTORES": "  • Roser Batalla (Nigreda / Sofía (voice))\n  • Francesc Belda (Thorko (voice))\n  • Elisabeth Bergalló (Piroska (voice))\n  • Rigoberta Bandini (Dixie (voice))\n  • Núria Trifol (Isis / Julia (voice))",
+    "DIRECTOR": "Joan Espinach",
+    "TRAILER": "https://youtube.com/watch?v=PlxRt9j7wGQ",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7625505245828"
+    ]
+  },
+  {
+    "CATEGORIA": "TERROR_ANIMADO",
+    "TMDB_ID": 77174,
+    "ID_OKRU": "3451026147957",
+    "TITULO": "El alucinante mundo de Norman",
+    "FECHA": "2012-08-03",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/bezAm2iDqShEumdYsGqAjT0CCXE.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/fRhpdmaA1wTAboeiKW2ZHvDezIm.jpg",
+    "GENERO": "Familia, Animación, Aventura, Comedia",
+    "RATING": 7.046,
+    "DURACION": 92,
+    "FRASE_PROMOCIONAL": "No te conviertes en heroe siendo un chico normal",
+    "SINOPSIS": "Los aterrorizados habitantes de un pueblo asediado por zombis solo pueden pedir ayuda al incomprendido Norman, un joven que sabe hablar con los muertos. Además de plantar cara a los muertos vivientes, tendrá que enfrentarse a fantasmas, brujas y, lo que es peor, a adultos de lo más atontados para salvar a su pueblo de una maldición milenaria.",
+    "ACTORES": "  • Kodi Smit-McPhee (Norman Babcock (voice))\n  • Tucker Albrizzi (Neil Downe (voice))\n  • Anna Kendrick (Courtney Babcock (voice))\n  • Casey Affleck (Mitch Downe (voice))\n  • Christopher Mintz-Plasse (Alvin (voice))",
+    "DIRECTOR": "Sam Fell",
+    "TRAILER": "https://youtube.com/watch?v=5ivARRy6CiY",
+    "URLS_OKRU": [
+      "https://ok.ru/video/3451026147957"
+    ]
   }
 ]
