@@ -1,0 +1,36 @@
+[
+  {
+    "tmdb_id": 1497970,
+    "titulo": "Tom y Jerry: La brújula mágica",
+    "categoria": "DISNEY_PIXAR",
+    "portada": "https://image.tmdb.org/t/p/w500/9laETggkidiMurdlAazvl2Axz5N.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/9VM1KI9sVZETl0d00FK7CnBzxiw.jpg",
+    "anio": "2025",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Fantasía",
+      "Aventura"
+    ],
+    "duracion": 104,
+    "rating": 6.5,
+    "tagline": "¡Tom y Jerry viajan en el tiempo!",
+    "trailer": "https://www.youtube.com/watch?v=VhUgSHlvVms",
+    "actores": [
+      "John Shang",
+      "黑兔子",
+      "Jiang Wen",
+      "顺子",
+      "Lan Long"
+    ],
+    "director": [
+      "张钢"
+    ],
+    "sinopsis": "Tom y Jerry viajan en el tiempo. Tras una loca persecución en el Museo Metropolitan de Nueva York, un portal del tiempo los transporta a una ciudad dorada inspirada en la Antigua China, llena de magia, guerreros y criaturas sorprendentes. Para regresar a casa, viven una increíble aventura repleta de acción y humor, donde deben enfrentarse a nuevos enemigos… ¡y quizás aprender a trabajar juntos!",
+    "stream_url": "https://69t.btv.mx/69T/NENA/MOV/CAM/Tom%20And%20Jerry%20Forbidden%20Compass%202025%201080L4T%20mp4.mp4",
+    "urls_okru": [
+      "https://69t.btv.mx/69T/NENA/MOV/CAM/Tom%20And%20Jerry%20Forbidden%20Compass%202025%201080L4T%20mp4.mp4"
+    ]
+  }
+]
