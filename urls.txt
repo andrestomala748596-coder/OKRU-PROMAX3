@@ -7182,5 +7182,105 @@
     "URLS_OKRU": [
       "https://ok.ru/video/3012725967500"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 52611,
+    "ID_OKRU": "1867168090756",
+    "TITULO": "El Ratón Pérez 2",
+    "FECHA": "2008-12-12",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/3GQPIn1W4RQCkVWUMJzeZTiMgrF.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/elcBFpTXqfVwwkDVVDFVBkLBT6O.jpg",
+    "GENERO": "Animación, Familia",
+    "RATING": 6.8,
+    "DURACION": 90,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "",
+    "ACTORES": "  • Claudia Fontán (Muriel Labecque)\n  • Manuel Manquiña (Gil Penkoff)\n  • Matías Sandor (Lucas)\n  • Camila Riveros (Ana)\n  • Fernando Guillén Cuervo ()",
+    "DIRECTOR": "Andrés G. Schaer",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/1867168090756"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 28032,
+    "ID_OKRU": "2823588219574",
+    "TITULO": "Pulgarcita",
+    "FECHA": "1994-03-30",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/qcFSpEmYptyyx3XbroebkBAwv7Z.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/jhxmxSNBNCAKtHeJnJhWpkOOI7d.jpg",
+    "GENERO": "Animación, Fantasía, Romance, Familia",
+    "RATING": 6.461,
+    "DURACION": 87,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Pulgarcita es una muchacha diminuta nacida de un grano de cebada mágico, y cree que si sigue a su corazón nada le será imposible. Pulgarcita conocerá al también diminuto príncipe Cornelius. Pero antes de que puedan enamorarse, Pulgarcita será secuestrada por unos malvados sapos, acechada por un astuto escarabajo y se prometerá en matrimonio con un atolondrado topo.",
+    "ACTORES": "  • Jodi Benson (Thumbelina (voice))\n  • Gino Conforti (Jacquimo (voice))\n  • Barbara Cook (Mother (voice))\n  • Will Ryan (Hero / Reverend Rat (voice))\n  • June Foray (Queen Tabitha (voice))",
+    "DIRECTOR": "Gary Goldman",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/2823588219574"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 18937,
+    "ID_OKRU": "2879797070518",
+    "TITULO": "La espada mágica: En busca de Camelot",
+    "FECHA": "1998-05-15",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/rmZ4yJnq3XZfIwwppX9Nhsl36iY.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/m58yUAi6CuHJ61eYGtSOaV996qn.jpg",
+    "GENERO": "Fantasía, Animación, Drama, Romance, Familia",
+    "RATING": 6.838,
+    "DURACION": 86,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Una muchacha llamada Kayley, que quiere ser un caballero de la Mesa Redonda de Camelot, como su fallecido padre Sir Lionel, va en busca de Excalibur, la espada mágica del rey Arturo, que se encuentra perdida en el Bosque Prohibido después del intento fallido del malvado Ruber, un antiguo caballero y traidor, de robarla.",
+    "ACTORES": "  • Jessalyn Gilsig (Kayley (voice))\n  • Andrea Corr (Kayley (singing voice))\n  • Cary Elwes (Garrett (voice))\n  • Bryan White (Garrett (singing voice))\n  • Gary Oldman (Ruber (voice))",
+    "DIRECTOR": "Frederik Du Chau",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/2879797070518"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 28178,
+    "ID_OKRU": "1993814118694",
+    "TITULO": "Siempre a tu Lado: Hachiko",
+    "FECHA": "2009-06-08",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/a5pOEjOLvr04Hr8qktIDM75OZi0.jpg",
+    "GENERO": "Drama, Familia",
+    "RATING": 8.005,
+    "DURACION": 93,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Basada en una historia real. Un profesor de universidad adopta a un perro vagabundo en una estación del tren. Tras recabar información sobre el animal, el profesor descubre que el perro iba a los andenes a diario durante semanas para esperar el regreso de su amo, pero éste había muerto en un accidente en la ciudad. El perro Hachiko, al lado de su nuevo amo a quien también le cambiará la vida cuando descubre los lazos que se pueden crear entre un animal y una persona.",
+    "ACTORES": "  • Richard Gere (Parker Wilson)\n  • Joan Allen (Cate Wilson)\n  • Sarah Roemer (Andy)\n  • Cary-Hiroyuki Tagawa (Ken)\n  • Erick Avari (Jasjeet)",
+    "DIRECTOR": "Lasse Hallström",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/1993814118694"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 330457,
+    "ID_OKRU": "16189095807512",
+    "TITULO": "Frozen 2",
+    "FECHA": "2019-11-20",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/AoSZyb37ljMAxw0RdeQEBHKtgcc.jpg",
+    "GENERO": "Familia, Animación, Aventura, Comedia, Fantasía",
+    "RATING": 7.227,
+    "DURACION": 103,
+    "FRASE_PROMOCIONAL": "Se fuerte. Enfréntate a tus miedos.",
+    "SINOPSIS": "¿Por qué Elsa nació con poderes mágicos? La respuesta la está llamando y amenazando su reino. Junto con Anna, Kristoff, Olaf y Sven, se embarcará en un peligroso, pero extraordinario viaje. En Frozen: Una Aventura Congelada, Elsa temía que sus poderes fueran demasiado para el mundo. En Frozen 2, ella debe esperar que sean suficientes. Del equipo ganador del Óscar®, los directores Jennifer Lee y Chris Buck, y el productor Peter Del Vecho; con las voces originales en inglés de Idina Menzel, Kristen Bell, Jonathan Groff y Josh Gad; y la música de los compositores Kristen Anderson-Lopez y Robert Lopez, ganadores del premio de la Academia, llega Frozen 2, la nueva película animada de Disney.",
+    "ACTORES": "  • Kristen Bell (Anna (voice))\n  • Idina Menzel (Elsa (voice))\n  • Josh Gad (Olaf (voice))\n  • Evan Rachel Wood (Iduna (voice))\n  • Jonathan Groff (Kristoff / Sven / Reindeers (voice))",
+    "DIRECTOR": "Jennifer Lee",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/16189095807512"
+    ]
   }
 ]
