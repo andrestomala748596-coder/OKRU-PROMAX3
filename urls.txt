@@ -7282,5 +7282,25 @@
     "URLS_OKRU": [
       "https://ok.ru/video/16189095807512"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 277834,
+    "ID_OKRU": null,
+    "TITULO": "Moana: Un mar de aventuras",
+    "FECHA": "2016-10-13",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/hw4FlDdufQuLIsYiqBYIL0Bxn26.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/qLVNZFHYUR6Li64He67SWl6BHQe.jpg",
+    "GENERO": "Aventura, Comedia, Familia, Animación",
+    "RATING": 7.566,
+    "DURACION": 107,
+    "FRASE_PROMOCIONAL": "El océano te llama.",
+    "SINOPSIS": "En la antigua Polinesia, cuando una terrible maldición del semidiós Maui llega a la isla de Moana, ella responde al llamado del océano para buscar al semidiós y arreglar las cosas.",
+    "ACTORES": "  • Auliʻi Cravalho (Moana (voice))\n  • Dwayne Johnson (Maui (voice))\n  • Rachel House (Gramma Tala (voice))\n  • Temuera Morrison (Chief Tui (voice))\n  • Jemaine Clement (Tamatoa (voice))",
+    "DIRECTOR": "John Musker",
+    "TRAILER": "https://youtube.com/watch?v=JRw_t5MZJOw",
+    "URLS_OKRU": [
+      "https://peliculas.hyloft.online/Vaiana%20%282016%29.mp4"
+    ]
   }
 ]
