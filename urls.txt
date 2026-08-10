@@ -7582,5 +7582,25 @@
     "URLS_OKRU": [
       "https://peliculas.hyloft.online/Shrek%20%282001%29.mp4"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 803796,
+    "ID_OKRU": "12403799034606",
+    "TITULO": "Las guerreras k-pop",
+    "FECHA": "2025-06-20",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/6EQMqEmdG5HoGe2zT1WwWUMvVhv.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+    "GENERO": "Fantasía, Música, Comedia, Animación",
+    "RATING": 8.002,
+    "DURACION": 96,
+    "FRASE_PROMOCIONAL": "Cantan. Bailan. Luchan contra demonios.",
+    "SINOPSIS": "Cuando no están llenando estadios, las superestrellas del k‑pop Rumi, Mira y Zoey usan sus superpoderes secretos para proteger a sus fans de amenazas sobrenaturales.",
+    "ACTORES": "  • Arden Cho (Rumi (voice))\n  • May Hong (Mira (voice))\n  • Ji-young Yoo (Zoey (voice))\n  • 안효섭 (Jinu (voice))\n  • 김윤진 (Celine (voice))",
+    "DIRECTOR": "Maggie Kang",
+    "TRAILER": "https://youtube.com/watch?v=61EyTn4ZxYk",
+    "URLS_OKRU": [
+      "https://ok.ru/video/12403799034606"
+    ]
   }
 ]
