@@ -7302,5 +7302,25 @@
     "URLS_OKRU": [
       "https://peliculas.hyloft.online/Vaiana%20%282016%29.mp4"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 460793,
+    "ID_OKRU": null,
+    "TITULO": "Olaf: Otra aventura congelada de Frozen",
+    "FECHA": "2017-10-27",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/vtDqtd3jifF3pEGcMUZXwW8yuem.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/64Rw7FFXTzx59qlugqxPB6YctFD.jpg",
+    "GENERO": "Animación, Familia, Aventura, Comedia, Fantasía",
+    "RATING": 6.462,
+    "DURACION": 22,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Todos se van de Arendelle por las fiestas y Anna y Elsa se dan cuenta de que no tienen tradiciones familiares propias, por lo que Olaf se embarca en la misión de llevar a casa las mejores tradiciones y salvar la Navidad.",
+    "ACTORES": "  • Josh Gad (Olaf (Voice))\n  • Kristen Bell (Anna (Voice))\n  • Idina Menzel (Elsa (Voice))\n  • Jonathan Groff (Kristoff (voice))\n  • Eva Bella (Young Elsa (voice))",
+    "DIRECTOR": "Kevin Deters",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://peliculas.hyloft.online/Frozen%3A%20Una%20aventura%20de%20Olaf%20%282017%29.mp4"
+    ]
   }
 ]
