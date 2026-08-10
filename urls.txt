@@ -7322,5 +7322,205 @@
     "URLS_OKRU": [
       "https://peliculas.hyloft.online/Frozen%3A%20Una%20aventura%20de%20Olaf%20%282017%29.mp4"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 920,
+    "ID_OKRU": null,
+    "TITULO": "Cars",
+    "FECHA": "2006-06-08",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/sOLgkBKf1gjMRc4yXxM5aciXdfr.jpg",
+    "GENERO": "Animación, Aventura, Comedia, Familia",
+    "RATING": 7.044,
+    "DURACION": 116,
+    "FRASE_PROMOCIONAL": "Una aventura sobre ruedas",
+    "SINOPSIS": "El aspirante campeón de carreras, Rayo McQueen, parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado. Sin embargo, Rayo cometió el error de desviar su destino y terminó llegando a un pequeño pueblo olvidado de la Ruta 66.",
+    "ACTORES": "  • Owen Wilson (Lightning McQueen (voice))\n  • Paul Newman (Doc Hudson (voice))\n  • Bonnie Hunt (Sally Carrera (voice))\n  • Larry the Cable Guy (Mater (voice))\n  • Cheech Marin (Ramone (voice))",
+    "DIRECTOR": "John Lasseter",
+    "TRAILER": "https://youtube.com/watch?v=nuQDFYpPUh4",
+    "URLS_OKRU": [
+      "https://peliculas.hyloft.online/Cars%20%282006%29.mp4"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 49013,
+    "ID_OKRU": null,
+    "TITULO": "Cars 2",
+    "FECHA": "2011-06-11",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/eQo1LQs5Vo9RHVHYUhNSfMZa3VB.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/robYRZk9LxJTwD7GlZCginji5k.jpg",
+    "GENERO": "Animación, Familia, Aventura, Comedia",
+    "RATING": 6.187,
+    "DURACION": 106,
+    "FRASE_PROMOCIONAL": "Cars 2: Una nueva aventura sobre ruedas",
+    "SINOPSIS": "El coche de carreras de estrellas Lightning McQueen y su amigo mater en el extranjero para competir en la carrera del Gran Premio Mundial. Pero el camino al campeonato se vuelve rocoso cuando Mater se ve atrapado en una intrigante aventura propia: el espionaje internacional.",
+    "ACTORES": "  • Larry the Cable Guy (Mater (voice))\n  • Owen Wilson (Lightning McQueen (voice))\n  • Michael Caine (Finn McMissile (voice))\n  • Emily Mortimer (Holley Shiftwell (voice))\n  • Suzy Eddie Izzard (Sir Miles Axlerod (voice))",
+    "DIRECTOR": "John Lasseter",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://peliculas.hyloft.online/Cars%202%20%282011%29.mp4"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 260514,
+    "ID_OKRU": null,
+    "TITULO": "Cars 3",
+    "FECHA": "2017-06-15",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/6485g21CJuFmekWchDFf3EtVU82.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg",
+    "GENERO": "Animación, Drama, Familia",
+    "RATING": 6.864,
+    "DURACION": 109,
+    "FRASE_PROMOCIONAL": "A partir de ahora, todo cambiará",
+    "SINOPSIS": "La elegante corredora Cruz Ramirez ayudará al veterano campeón Rayo McQueen a regresar a la pista enfrentando a una nueva generación de corredores de alta tecnología. Pronto, Rayo McQueen demostrará que sigue siendo el mejor del mundo.",
+    "ACTORES": "  • Owen Wilson (Lightning McQueen (voice))\n  • Cristela Alonzo (Cruz Ramirez (voice))\n  • Chris Cooper (Smokey (voice))\n  • Nathan Fillion (Sterling (voice))\n  • Larry the Cable Guy (Mater (voice))",
+    "DIRECTOR": "Brian Fee",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://peliculas.hyloft.online/Cars%203%20%282017%29.mp4"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 10193,
+    "ID_OKRU": null,
+    "TITULO": "Toy Story 3",
+    "FECHA": "2010-06-16",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/ntoCb04GqfsGHyeGvYygvWp4VMP.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg",
+    "GENERO": "Animación, Familia, Comedia",
+    "RATING": 7.8,
+    "DURACION": 103,
+    "FRASE_PROMOCIONAL": "Woody, Buzz Lightyear y el resto de los juguetes regresan para una nueva aventura.",
+    "SINOPSIS": "Los juguetes son entregados por error a una guardería en lugar del ático justo antes de que Andy se vaya a la universidad, y depende de Woody convencer a los otros juguetes de que no fueron abandonados y volver a casa.",
+    "ACTORES": "  • Tom Hanks (Woody (voice))\n  • Tim Allen (Buzz Lightyear (voice))\n  • Joan Cusack (Jessie (voice))\n  • Don Rickles (Mr. Potato Head (voice))\n  • Wallace Shawn (Rex (voice))",
+    "DIRECTOR": "Lee Unkrich",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://peliculas.hyloft.online/Toy%20Story%203%20%282010%29.mp4"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 863,
+    "ID_OKRU": null,
+    "TITULO": "Toy Story 2",
+    "FECHA": "1999-10-30",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/ig04sol7lYflNuEsoAjKGjf5hIL.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/7iUDfakacY1HpajP1DtHrCuDB95.jpg",
+    "GENERO": "Animación, Comedia, Familia",
+    "RATING": 7.617,
+    "DURACION": 99,
+    "FRASE_PROMOCIONAL": "Reúnete con viejos amigos y conoce a otros nuevos.",
+    "SINOPSIS": "Cuando Woody es robado por un coleccionista de juguetes, Buzz y sus amigos emprenden una misión de rescate para salvar a Woody antes de que se convierta en una propiedad de un museo de juguetes con su pandilla de redadas Jessie, el oloroso Pete y Tiro al blanco.",
+    "ACTORES": "  • Tom Hanks (Woody (voice))\n  • Tim Allen (Buzz Lightyear (voice))\n  • Joan Cusack (Jessie (voice))\n  • Kelsey Grammer (Prospector (voice))\n  • Don Rickles (Mr. Potato Head (voice))",
+    "DIRECTOR": "John Lasseter",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://peliculas.hyloft.online/Toy%20Story%202%20%281999%29.mp4"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 862,
+    "ID_OKRU": null,
+    "TITULO": "Toy Story",
+    "FECHA": "1995-11-22",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/p05ZMpMiigegGLqS5XxnmyG15iH.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+    "GENERO": "Familia, Comedia, Animación, Aventura",
+    "RATING": 7.985,
+    "DURACION": 81,
+    "FRASE_PROMOCIONAL": "Bienvenido a un mundo asombroso donde los juguetes juegan mientras sus dueños no están.",
+    "SINOPSIS": "Un muñeco vaquero se siente profundamente amenazado y celoso cuando una nueva figura del hombre del espacio lo suplanta como juguete principal en el cuarto de un niño.",
+    "ACTORES": "  • Tom Hanks (Woody (voice))\n  • Tim Allen (Buzz Lightyear (voice))\n  • Don Rickles (Mr. Potato Head (voice))\n  • Jim Varney (Slinky Dog (voice))\n  • Wallace Shawn (Rex (voice))",
+    "DIRECTOR": "John Lasseter",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://peliculas.hyloft.online/Toy%20Story%20%281995%29.mp4"
+    ]
+  },
+  {
+    "CATEGORIA": "MI_VILLANO_FAVORITO",
+    "TMDB_ID": 211672,
+    "ID_OKRU": null,
+    "TITULO": "Los Minions",
+    "FECHA": "2015-06-17",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/ayvvnNES3Y8tFosd1yr1vNZDWWS.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg",
+    "GENERO": "Familia, Animación, Aventura, Comedia",
+    "RATING": 6.423,
+    "DURACION": 91,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "La historia de Los Minions se remonta al principio de los tiempos. Empezaron siendo organismos amarillos unicelulares que evolucionaron a través del tiempo, poniéndose siempre al servicio de los amos más despreciables. Ante su incapacidad para mantener a esos amos – desde el T. Rex a Napoleón –, los Minions acaban encontrándose solos y caen en una profunda depresión. Sin embargo, uno de ellos, llamado Kevin, tiene un plan. Acompañado por el rebelde Stuart y el adorable Bob, emprende un emocionante viaje para conseguir una jefa a quien servir, la terrible Scarlet Overkill. Pasarán de la helada Antártida, a la ciudad de Nueva York en los años sesenta, para acabar en el Londres de la misma época, donde deberán enfrentarse al mayor reto hasta la fecha: salvar a la raza Minion de la aniquilación.",
+    "ACTORES": "  • Sandra Bullock (Scarlet Overkill (voice))\n  • Jon Hamm (Herb Overkill (voice))\n  • Michael Keaton (Walter Nelson (voice))\n  • Allison Janney (Madge Nelson (voice))\n  • Steve Coogan (Professor Flux / Tower Guard (voice))",
+    "DIRECTOR": "Kyle Balda",
+    "TRAILER": "https://youtube.com/watch?v=31Irue4rhbs",
+    "URLS_OKRU": [
+      "https://peliculas.hyloft.online/Los%20Minions%20%282015%29.mp4"
+    ]
+  },
+  {
+    "CATEGORIA": "MI_VILLANO_FAVORITO",
+    "TMDB_ID": 324852,
+    "ID_OKRU": null,
+    "TITULO": "Mi Villano Favorito 3",
+    "FECHA": "2017-06-15",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/1xQ6K6623qdjVkOwEjNneMSxdiB.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/ftRkFtAGuHngHnLiOxktq0aCVMF.jpg",
+    "GENERO": "Acción, Animación, Comedia, Familia, Aventura",
+    "RATING": 6.469,
+    "DURACION": 90,
+    "FRASE_PROMOCIONAL": "Separados al nacer.",
+    "SINOPSIS": "Nuevas aventuras de Gru, Lucy, sus adorables hijas Margo, Edith y Agnes y por supuesto los Minions. En esta ocasión veremos como el gemelo de Gru, desparecido hace muchísimos años, emerge, lo que ocasionará una enorme rivalidad entre hermanos. Además, aparecerá en escena un nuevo villano llamado Balthazar Bratt. Se trata de una estrella juvenil de los años 80 que que ha estado haciendo maldades en el mundo desde que alcanzó la pubertad y su show fue cancelado. Odia que le ridiculicen y eso le lleva a querer controlar el mundo.",
+    "ACTORES": "  • Steve Carell (Gru / Dru (voice))\n  • Kristen Wiig (Lucy Wilde (voice))\n  • Trey Parker (Balthazar Bratt (voice))\n  • Miranda Cosgrove (Margo (voice))\n  • Dana Gaier Ellis (Edith (voice))",
+    "DIRECTOR": "Kyle Balda",
+    "TRAILER": "https://youtube.com/watch?v=kdYRLVG-Mi8",
+    "URLS_OKRU": [
+      "https://peliculas.hyloft.online/Despicable%20Me%203%20%282017%29.mp4"
+    ]
+  },
+  {
+    "CATEGORIA": "MI_VILLANO_FAVORITO",
+    "TMDB_ID": 93456,
+    "ID_OKRU": null,
+    "TITULO": "Mi Villano Favorito 2",
+    "FECHA": "2013-06-26",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/nVqR5FXFLCXLsMBGFPT2Qdf9KbW.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/uD267eSiACfWLxp47t3gYymOQRj.jpg",
+    "GENERO": "Animación, Comedia, Familia, Ciencia ficción",
+    "RATING": 6.948,
+    "DURACION": 98,
+    "FRASE_PROMOCIONAL": "De regreso al trabajo.",
+    "SINOPSIS": "Ahora que el incansable y emprendedor Gru ha dejado atrás una vida dedicada a las fechorías para criar a Margo, Edith y Agnes, dispone de mucho tiempo libre para disfrutarlo con ellas, el Dr. Nefario y los minions. Pero, justo cuando empieza a adaptarse a su papel de padre de familia, una organización mundial ultrasecreta dedicada a la lucha contra el mal llama a su puerta.",
+    "ACTORES": "  • Steve Carell (Gru (voice))\n  • Kristen Wiig (Lucy (voice))\n  • Benjamin Bratt (Eduardo / El Macho (voice))\n  • Miranda Cosgrove (Margo (voice))\n  • Dana Gaier Ellis (Edith (voice))",
+    "DIRECTOR": "Chris Renaud",
+    "TRAILER": "https://youtube.com/watch?v=QDVhZ-p6Omo",
+    "URLS_OKRU": [
+      "https://peliculas.hyloft.online/Despicable%20Me%202%20%282013%29.mp4"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 1241982,
+    "ID_OKRU": null,
+    "TITULO": "Moana 2",
+    "FECHA": "2024-11-21",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/mLAGAFUrRw9pphjnbnhtG1hASSN.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/vYqt6kb4lcF8wwqsMMaULkP9OEn.jpg",
+    "GENERO": "Aventura, Animación, Comedia, Familia, Fantasía",
+    "RATING": 6.988,
+    "DURACION": 100,
+    "FRASE_PROMOCIONAL": "El océano los está llamando.",
+    "SINOPSIS": "Después de recibir una llamada inesperada de sus antepasados ​​navegantes, Moana viajará a los lejanos mares de Oceanía, donde vivirá una peligrosa aventura con su nueva tripulación.",
+    "ACTORES": "  • Auliʻi Cravalho (Moana (voice))\n  • Dwayne Johnson (Maui (voice))\n  • Hualālai Chung (Moni (voice))\n  • Rose Matafeo (Loto (voice))\n  • David Fane (Kele (voice))",
+    "DIRECTOR": "David G. Derrick Jr.",
+    "TRAILER": "https://youtube.com/watch?v=vp0sjmy_ad4",
+    "URLS_OKRU": [
+      "https://peliculas.hyloft.online/Moana%202%20%282024%29.mp4"
+    ]
   }
 ]
