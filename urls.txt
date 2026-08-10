@@ -7522,5 +7522,65 @@
     "URLS_OKRU": [
       "https://peliculas.hyloft.online/Moana%202%20%282024%29.mp4"
     ]
+  },
+  {
+    "CATEGORIA": "SHREK",
+    "TMDB_ID": 810,
+    "ID_OKRU": null,
+    "TITULO": "Shrek Tercero",
+    "FECHA": "2007-05-17",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/7sTwtmVPTX77CFOUXdwAM7lKtKL.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/wvXxKpFGXvQJRB0nvvfURhRD3C0.jpg",
+    "GENERO": "Fantasía, Aventura, Animación, Comedia, Familia",
+    "RATING": 6.314,
+    "DURACION": 93,
+    "FRASE_PROMOCIONAL": "¿Quién está listo para tres?",
+    "SINOPSIS": "Designado a regañadientes como el heredero de la tierra de Muy Muy Lejano, Shrek urde un plan para instalar al rebelde Artie como el nuevo rey mientras la princesa Fiona trata de evitar un golpe de estado por parte del Príncipe Encantador.",
+    "ACTORES": "  • Mike Myers (Shrek (voice))\n  • Eddie Murphy (Donkey (voice))\n  • Cameron Diaz (Princess Fiona (voice))\n  • Antonio Banderas (Puss in Boots (voice))\n  • Julie Andrews (Queen Lillian (voice))",
+    "DIRECTOR": "Chris Miller",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://peliculas.hyloft.online/Shrek%20the%20Third%20%282007%29.mp4"
+    ]
+  },
+  {
+    "CATEGORIA": "SHREK",
+    "TMDB_ID": 809,
+    "ID_OKRU": null,
+    "TITULO": "Shrek 2",
+    "FECHA": "2004-05-19",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/knRt4E8KyfwEv0SVu9LsLvD28IQ.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/8ohobj5lAIbl5XWw11FywS3IRrS.jpg",
+    "GENERO": "Animación, Comedia, Familia, Fantasía, Romance",
+    "RATING": 7.327,
+    "DURACION": 93,
+    "FRASE_PROMOCIONAL": "Una vez más en otro tiempo...",
+    "SINOPSIS": "Shrek y Fiona viajan al Reino de Muy Muy Lejano, donde los padres de Fiona son el Rey y la Reina, para celebrar su matrimonio. Cuando llegan, se dan cuenta de que no son tan bienvenidos como pensaban.",
+    "ACTORES": "  • Mike Myers (Shrek (voice))\n  • Eddie Murphy (Donkey (voice))\n  • Cameron Diaz (Princess Fiona (voice))\n  • Julie Andrews (Queen Lillian (voice))\n  • Antonio Banderas (Puss in Boots (voice))",
+    "DIRECTOR": "Conrad Vernon",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://peliculas.hyloft.online/Shrek%202%20%282004%29.mp4"
+    ]
+  },
+  {
+    "CATEGORIA": "SHREK",
+    "TMDB_ID": 808,
+    "ID_OKRU": null,
+    "TITULO": "Shrek",
+    "FECHA": "2001-05-18",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
+    "GENERO": "Animación, Comedia, Fantasía, Aventura, Familia",
+    "RATING": 7.775,
+    "DURACION": 90,
+    "FRASE_PROMOCIONAL": "El más grande cuento de hadas jamás contado.",
+    "SINOPSIS": "Un malvado lord exilia a las criaturas de cuentos de hadas al pantano de un ogro gruñón, que debe ir en busca y rescatar a una princesa para el lord con el fin de recuperar su tierra.",
+    "ACTORES": "  • Mike Myers (Shrek / Blind Mouse (voice))\n  • Eddie Murphy (Donkey (voice))\n  • Cameron Diaz (Princess Fiona (voice))\n  • John Lithgow (Lord Farquaad (voice))\n  • Vincent Cassel (Monsieur Hood (voice))",
+    "DIRECTOR": "Andrew Adamson",
+    "TRAILER": "https://youtube.com/watch?v=rhng15NnWFI",
+    "URLS_OKRU": [
+      "https://peliculas.hyloft.online/Shrek%20%282001%29.mp4"
+    ]
   }
 ]
