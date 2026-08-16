@@ -7622,5 +7622,25 @@
     "URLS_OKRU": [
       "https://ok.ru/video/15261832710894"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 11970,
+    "ID_OKRU": "15288598072046",
+    "TITULO": "Hércules",
+    "FECHA": "1997-06-13",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/4Q2rLG6a9fJhKM5emIYLzgw4HCa.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/oG9dcGSSu13fjFp1Uly15ZXjRKV.jpg",
+    "GENERO": "Animación, Familia, Fantasía, Aventura, Comedia, Romance",
+    "RATING": 7.499,
+    "DURACION": 93,
+    "FRASE_PROMOCIONAL": "De cero a héroe...",
+    "SINOPSIS": "El hijo de Zeus y Hera es despojado de su inmortalidad cuando es un niño y debe convertirse en un verdadero héroe para poder reclamarla.",
+    "ACTORES": "  • Tate Donovan (Hercules (voice))\n  • Josh Keaton (Young Hercules (voice))\n  • Roger Bart (Young Hercules (singing voice))\n  • Danny DeVito (Philoctetes (voice))\n  • James Woods (Hades (voice))",
+    "DIRECTOR": "Ron Clements",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/15288598072046"
+    ]
   }
 ]
