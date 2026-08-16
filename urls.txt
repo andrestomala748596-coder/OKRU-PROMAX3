@@ -8182,5 +8182,45 @@
     "URLS_OKRU": [
       "https://ok.ru/video/7498259761796"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 354912,
+    "ID_OKRU": "16224128404164",
+    "TITULO": "Coco",
+    "FECHA": "2017-10-27",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+    "GENERO": "Familia, Animación, Música, Aventura",
+    "RATING": 8.197,
+    "DURACION": 109,
+    "FRASE_PROMOCIONAL": "La aventura de toda una generación.",
+    "SINOPSIS": "A pesar de la desconcertante prohibición de la generación de música de su familia, Miguel sueña con convertirse en un músico consumado como su ídolo, Ernesto de la Cruz. Desesperado por demostrar su talento, Miguel se encuentra en la deslumbrante y colorida Tierra de los Muertos siguiendo una misteriosa cadena de eventos. En el camino, se encuentra con el encantador y tramposo Héctor. Juntos, realizan un viaje extraordinario para descubrir la historia real detrás de la familia de Miguel.",
+    "ACTORES": "  • Anthony Gonzalez (Miguel Rivera (voice))\n  • Gael García Bernal (Héctor (voice))\n  • Benjamin Bratt (Ernesto de la Cruz (voice))\n  • Alanna Ubach (Mamá Imelda (voice))\n  • Renée Victor (Abuelita (voice))",
+    "DIRECTOR": "Lee Unkrich",
+    "TRAILER": "https://youtube.com/watch?v=dFy0wYW3LBo",
+    "URLS_OKRU": [
+      "https://ok.ru/video/16224128404164"
+    ]
+  },
+  {
+    "CATEGORIA": "MADAGASCAR",
+    "TMDB_ID": 953,
+    "ID_OKRU": "16210274290372",
+    "TITULO": "Madagascar",
+    "FECHA": "2005-05-25",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/zrV5GnfCcLWzyjrFgYTpjQPRMfl.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/tPaurpIUskVji5vwV0dhy9pq4Vs.jpg",
+    "GENERO": "Aventura, Animación, Comedia, Familia",
+    "RATING": 6.929,
+    "DURACION": 85,
+    "FRASE_PROMOCIONAL": "Madagascar",
+    "SINOPSIS": "Cuatro amigos animales prueban la vida salvaje cuando, luego de escapar de su cautiverio en el zoológico de Central Park, van a parar a la orilla de la isla de Madagascar.",
+    "ACTORES": "  • Ben Stiller (Alex (voice))\n  • Chris Rock (Marty (voice))\n  • David Schwimmer (Melman (voice))\n  • Jada Pinkett Smith (Gloria (voice))\n  • Sacha Baron Cohen (King Julien (voice))",
+    "DIRECTOR": "Eric Darnell",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/16210274290372"
+    ]
   }
 ]
