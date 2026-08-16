@@ -4025,21 +4025,21 @@
   {
     "CATEGORIA": "DISNEY_PIXAR",
     "TMDB_ID": 11319,
-    "ID_OKRU": "9349920328372",
-    "TITULO": "Los rescatadores",
+    "ID_OKRU": "9961396767470",
+    "TITULO": "Bernardo y Bianca",
     "FECHA": "1977-06-22",
-    "PORTADA": "https://image.tmdb.org/t/p/w500/4Vi5VEkVWdqJgbG3pGdREFOwZdJ.jpg",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/jagftpq3KOHJgWj0Y51xBiemve3.jpg",
     "BACKDROP": "https://image.tmdb.org/t/p/w500/dSlofjxxcTSLmnH6602WsSSELU5.jpg",
     "GENERO": "Fantasía, Familia, Animación, Aventura",
-    "RATING": 6.791,
-    "DURACION": 78,
-    "FRASE_PROMOCIONAL": "Dos diminutos agentes contra la mujer más malvada del mundo en una deslumbrante aventura animada.",
-    "SINOPSIS": "Una niña huérfana que ha sido secuestrada envía una nota dentro de una botella pidiendo ayuda. Bernardo y Bianca, dos valientes ratones, miembros de la Sociedad Internacional de Rescate, reciben el mensaje que los llevará al peligroso \"Pantano del Diablo\". Allí, ayudados por la libélula Evinrude y los habitantes del pantano, vivirán un sinfín de emocionantes aventuras luchando contra la malvada Madame Medusa",
+    "RATING": 6.793,
+    "DURACION": 74,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Una niña huérfana que ha sido secuestrada envía una nota dentro de una botella pidiendo ayuda. Bernardo y Bianca, dos valientes ratones, miembros de la Sociedad Internacional de Rescate, reciben el mensaje que los llevará al peligroso «Pantano del Diablo». Allí, ayudados por la libélula Evinrude y los habitantes del pantano, vivirán un sinfín de emocionantes aventuras luchando contra la malvada Madame Medusa",
     "ACTORES": "  • Bob Newhart (Bernard (voice))\n  • Eva Gabor (Miss Bianca (voice))\n  • Geraldine Page (Madame Medusa (voice))\n  • Joe Flynn (Mr. Snoops (voice))\n  • Jeanette Nolan (Ellie Mae (voice))",
     "DIRECTOR": "Wolfgang Reitherman",
     "TRAILER": "No disponible",
     "URLS_OKRU": [
-      "https://ok.ru/video/9349920328372"
+      "https://ok.ru/video/9961396767470"
     ]
   },
   {
@@ -7466,21 +7466,21 @@
   {
     "CATEGORIA": "MI_VILLANO_FAVORITO",
     "TMDB_ID": 324852,
-    "ID_OKRU": null,
+    "ID_OKRU": "7493930453636",
     "TITULO": "Mi Villano Favorito 3",
     "FECHA": "2017-06-15",
     "PORTADA": "https://image.tmdb.org/t/p/w500/1xQ6K6623qdjVkOwEjNneMSxdiB.jpg",
     "BACKDROP": "https://image.tmdb.org/t/p/w500/ftRkFtAGuHngHnLiOxktq0aCVMF.jpg",
     "GENERO": "Acción, Animación, Comedia, Familia, Aventura",
-    "RATING": 6.469,
+    "RATING": 6.47,
     "DURACION": 90,
     "FRASE_PROMOCIONAL": "Separados al nacer.",
     "SINOPSIS": "Nuevas aventuras de Gru, Lucy, sus adorables hijas Margo, Edith y Agnes y por supuesto los Minions. En esta ocasión veremos como el gemelo de Gru, desparecido hace muchísimos años, emerge, lo que ocasionará una enorme rivalidad entre hermanos. Además, aparecerá en escena un nuevo villano llamado Balthazar Bratt. Se trata de una estrella juvenil de los años 80 que que ha estado haciendo maldades en el mundo desde que alcanzó la pubertad y su show fue cancelado. Odia que le ridiculicen y eso le lleva a querer controlar el mundo.",
     "ACTORES": "  • Steve Carell (Gru / Dru (voice))\n  • Kristen Wiig (Lucy Wilde (voice))\n  • Trey Parker (Balthazar Bratt (voice))\n  • Miranda Cosgrove (Margo (voice))\n  • Dana Gaier Ellis (Edith (voice))",
-    "DIRECTOR": "Kyle Balda",
+    "DIRECTOR": "Pierre Coffin",
     "TRAILER": "https://youtube.com/watch?v=kdYRLVG-Mi8",
     "URLS_OKRU": [
-      "https://peliculas.hyloft.online/Despicable%20Me%203%20%282017%29.mp4"
+      "https://ok.ru/video/7493930453636"
     ]
   },
   {
@@ -7841,6 +7841,346 @@
     "TRAILER": "No disponible",
     "URLS_OKRU": [
       "https://ok.ru/video/10262625651438"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 42001,
+    "ID_OKRU": "10050374666990",
+    "TITULO": "The Princess and the Goblin",
+    "FECHA": "1991-06-03",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/gWXeEzpOavcmv1Ca8sjqkorfuIO.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/x1XWqlbmfSrOPiZ81An6MFjO3Aq.jpg",
+    "GENERO": "Aventura, Animación, Familia, Fantasía",
+    "RATING": 5.816,
+    "DURACION": 82,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "",
+    "ACTORES": "  • Joss Ackland (King Papa (voice))\n  • Claire Bloom (Great Great Grandmother Irene (voice))\n  • Roy Kinnear (Mump (voice))\n  • Sally Ann Marsh (Princess Irene (voice))\n  • Rik Mayall (Prince Froglip (voice))",
+    "DIRECTOR": "Gémes József",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/10050374666990"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 12233,
+    "ID_OKRU": "10036020775662",
+    "TITULO": "Oliver y su pandilla",
+    "FECHA": "1988-11-18",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/31pu0jSoa6iUouojFnjjlqgOnHB.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/k18aKqDPrbTsijtN9jRpnTHxQks.jpg",
+    "GENERO": "Animación, Comedia, Familia",
+    "RATING": 6.7,
+    "DURACION": 74,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Un gatito huérfano llamado Oliver se une a Fagin y a su banda de ladronzuelos con Dodger, un maestro moviéndose por la ciudad, y el simpático Chiguagua Tito. Un buen día, el pequeño Oliver deja las calles al ser adoptado por Jenny, una niña rica que se lo lleva a su casa, donde vivirá con todas las comodidades. Pero cuando Jenny es secuestrada por el malvado jefe de Fagin y su terrorífico Doberman, Oliver comprobará el valor de la verdadera amistad al ver cómo toda la banda se pone en marcha para rescatarla. Adaptación animada y muy libre de \"Oliver Twist\", de Charles Dickens.",
+    "ACTORES": "  • Joey Lawrence (Oliver (voice))\n  • Billy Joel (Dodger (voice))\n  • Cheech Marin (Tito (voice))\n  • Richard Mulligan (Einstein (voice))\n  • Roscoe Lee Browne (Francis (voice))",
+    "DIRECTOR": "George Scribner",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/10036020775662"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 13053,
+    "ID_OKRU": "9952445401838",
+    "TITULO": "Bolt: Un perro fuera de serie",
+    "FECHA": "2008-11-21",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/hpunLKNEvjuzCLwLbuWJqzu3OE7.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/zWqxBc6pdSIjklqWfZ70l5ce28P.jpg",
+    "GENERO": "Animación, Familia, Aventura, Comedia",
+    "RATING": 6.553,
+    "DURACION": 96,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "¡Que comience la acción! Prepárate para la aventura más absolutamente fabulosa de todos los tiempos cuando Bolt, el mejor héroe de todo el planeta, y yo, Rhino, su fiel compañero y leal hámster acompañante, ¡emprendemos una misión súper secreta! Como uno de los integrantes de este Dúo Dinámico, te contaré cuál es la acción. Un día, estaba viendo \"Bolt\", mi programa favorito de televisión, y al momento siguiente ¡ya estaba trabajando en modalidad \"stealth\", al lado de mi héroe favorito de todos los tiempos! Juntos tenemos que recorrer la distancia de Nueva York a Hollywood para derrotar a las fuerzas del mal y salvar a la adorable Miss Penney del máximo peligro. Pero no se preocupen – armado con el \"súper ladrido\" de Bolt y mi pelota de trueno – estamos preparados para todo.",
+    "ACTORES": "  • John Travolta (Bolt (voice))\n  • Miley Cyrus (Penny (voice))\n  • Susie Essman (Mittens (voice))\n  • Mark Walton (Rhino (voice))\n  • Malcolm McDowell (Dr. Calico (voice))",
+    "DIRECTOR": "Chris Williams",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9952445401838"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 15512,
+    "ID_OKRU": "9951553325806",
+    "TITULO": "Monstruos vs Aliens",
+    "FECHA": "2009-03-19",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/qLmmfRyuRwUNkTNKlCrem1Gy7M0.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/fbxZeJEcyf76oEQIGmotlclwmiH.jpg",
+    "GENERO": "Animación, Familia, Aventura, Ciencia ficción",
+    "RATING": 6.264,
+    "DURACION": 94,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "A Susan Murphy le cae encima un meteorito lleno de pringue espacial y crece rápidamente hasta los 15 metros de altura, la capturan y la encierran en una zona de contención secreta del gobierno. Susan se ve rodeada de otros monstruos encarcelados: el inteligente, aunque con cabeza de insecto, Dr. Cucaracha; el machote medio simio medio pez Eslabón; el gelatinoso e indestructible B.O.B.; y la larva de 100 metros llamada Insectosaurio...",
+    "ACTORES": "  • Reese Witherspoon (Susan Murphy / Ginormica (voice))\n  • Seth Rogen (B.O.B. (voice))\n  • Hugh Laurie (Dr. Cockroach Ph.D. (voice))\n  • Rainn Wilson (Gallaxhar (voice))\n  • Will Arnett (The Missing Link (voice))",
+    "DIRECTOR": "Rob Letterman",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9951553325806"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 9023,
+    "ID_OKRU": "9906840472302",
+    "TITULO": "Spirit: El corcel indomable",
+    "FECHA": "2002-05-24",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/gNRQdU3KEsYTIl4y9Xte3onUSsx.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/b8hPBW0NJmiIVzvQjT3CwIpAdzl.jpg",
+    "GENERO": "Animación, Aventura, Familia, Drama, Western",
+    "RATING": 7.705,
+    "DURACION": 85,
+    "FRASE_PROMOCIONAL": "Líder. Héroe. Leyenda.",
+    "SINOPSIS": "Sigue las aventuras de un corcel salvaje e ingobernable que recorre la indómita frontera norteamericana. Cuando encuentra a un hombre por primera vez, un joven de la tribu de los Lakota llamado Little Creek, Spirit se niega a dejarse domar por él pero sí se hace amigo suyo. El valiente corcel también encuentra el amor con una hermosa yegua llamada Rain. Spirit se convertirá en uno de los grandes héroes anónimos del Viejo Oeste.",
+    "ACTORES": "  • Matt Damon (Spirit (voice))\n  • James Cromwell (The Colonel (voice))\n  • Daniel Studi (Little Creek (voice))\n  • Chopper Bernet (Sgt. Adams (voice))\n  • Jeff LeBeau (Murphy / Railroad Foreman (voice))",
+    "DIRECTOR": "Kelly Asbury",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9906840472302"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 2062,
+    "ID_OKRU": "9823113448174",
+    "TITULO": "Ratatouille",
+    "FECHA": "2007-06-28",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/nGUelOVetiRpY2wTBMHTbrTIGYC.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/jQ6Vuxe1CEPMXTF7d0fZgdIBY8U.jpg",
+    "GENERO": "Animación, Comedia, Familia, Fantasía",
+    "RATING": 7.846,
+    "DURACION": 110,
+    "FRASE_PROMOCIONAL": "Él se muere por ser un chef.",
+    "SINOPSIS": "Remy, una simpática rata, sueña en convertirse en un chef que pueda crear sus obras culinarias a su gusto. Pero cuando termina en la alcantarilla debajo de uno de los mejores restaurantes de París, el Roedor Gourmet, se encuentra en el lugar ideal para hacer realidad su sueño.",
+    "ACTORES": "  • Patton Oswalt (Remy (voice))\n  • Ian Holm (Skinner (voice))\n  • Lou Romano (Linguini (voice))\n  • Brian Dennehy (Django (voice))\n  • Peter Sohn (Emile (voice))",
+    "DIRECTOR": "Brad Bird",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9823113448174"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 13700,
+    "ID_OKRU": "9811901549294",
+    "TITULO": "Vacas Vaqueras",
+    "FECHA": "2004-04-02",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/p6xPtCH7Bph1PStv9AjTgikspEA.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/Jghbo8U2XkmGjCfKD9NiMM70ha.jpg",
+    "GENERO": "Animación, Familia",
+    "RATING": 6.071,
+    "DURACION": 76,
+    "FRASE_PROMOCIONAL": "Unas vacas de cuidado.",
+    "SINOPSIS": "Cuando un poderoso forajido intenta apoderarse de la granja de lácteos \"paraíso\", tres vacas determinadas, un semental karateca llamado Buck y un colorido elenco de animalitos unen sus fuerzas para salvar a la granja. El riesgo es muy alto cuando esta peculiar alianza de animales arriesga sus pellejos al entablar una batalla de ingenios con la misteriosa banda de malosos. No te pierdas esta aventura de Disney, con asombrosa animación y canciones originales.",
+    "ACTORES": "  • Roseanne Barr (Maggie (voice))\n  • Judi Dench (Mrs. Caloway (voice))\n  • Jennifer Tilly (Grace (voice))\n  • Steve Buscemi (Wesley (voice))\n  • G.W. Bailey (Rusty (voice))",
+    "DIRECTOR": "Will Finn",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9811901549294"
+    ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 16690,
+    "ID_OKRU": "9761679674094",
+    "TITULO": "Peter Pan 2: El regreso al país de Nunca Jamás",
+    "FECHA": "2002-02-14",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/9nLZKPzcEN3B2F2l5V1VwWTqJ4Z.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/tz0MjeUUGgyfNfBPiIksaqEgos6.jpg",
+    "GENERO": "Aventura, Fantasía, Animación, Familia",
+    "RATING": 6.471,
+    "DURACION": 72,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Aunque su intención era secuestrar a Wendy, el capitán Garfio secuestra a la hija de esta para atraer a Peter Pan y tenderle una trampa. Wendy ya no cree ni en Peter Pan ni en la magia, pero tendrá que derribar los muros del escepticismo por su hija.",
+    "ACTORES": "  • Harriet Owen (Jane / Young Wendy (Voice))\n  • Blayne Weaver (Peter Pan (Voice))\n  • Jeff Bennett (Smee / Pirates (Voice))\n  • Kath Soucie (Wendy Darling (voice))\n  • Corey Burton (Captain Hook (voice))",
+    "DIRECTOR": "Robin Budd",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9761679674094"
+    ]
+  },
+  {
+    "CATEGORIA": "TINKER_BELL",
+    "TMDB_ID": 297270,
+    "ID_OKRU": "9758154361582",
+    "TITULO": "Tinker Bell y La Bestia de Nunca Jamas",
+    "FECHA": "2014-12-12",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/cPFmJzjCoySeBU5zqzkdG1Ijun7.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/9s58ybtK5rj4QGmAtzOMzVeiY5P.jpg",
+    "GENERO": "Aventura, Animación, Familia",
+    "RATING": 7.409,
+    "DURACION": 77,
+    "FRASE_PROMOCIONAL": "Ellas no ven lo que yo veo.",
+    "SINOPSIS": "Un antiguo mito de una criatura de gran destruccion despierta la curiosidad de Tinker Bell y su buen amiga Fawn, una hada animal que no tiene miedo de romper las reglas para ayudar a un animal en necesidad. Pero esta criatura no es bienvenida en Pixie Hollow - y las hadas scout están decididas a capturar a la bestia misteriosa, que temen destruirá su hogar. Fawn debe convencer a sus amigas hadas de arriesgarlo todo para rescatar a La Bestia de Nunca Jamas.",
+    "ACTORES": "  • Ginnifer Goodwin (Fawn (voice))\n  • Mae Whitman (Tinker Bell (voice))\n  • Rosario Dawson (Nyx (voice))\n  • Lucy Liu (Silvermist (voice))\n  • Raven-Symoné (Iridessa (voice))",
+    "DIRECTOR": "Steve Loter",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9758154361582"
+    ]
+  },
+  {
+    "CATEGORIA": "PIE_PEQUE_O",
+    "TMDB_ID": 12144,
+    "ID_OKRU": "9874339662574",
+    "TITULO": "En busca del valle encantado",
+    "FECHA": "1988-11-18",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/jsxGmtUe06AAhfWihGiLDukI0QS.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/sXfQGa7juaTpZ5IF17Xa6hI53nx.jpg",
+    "GENERO": "Familia, Animación, Aventura, Drama",
+    "RATING": 7.2,
+    "DURACION": 69,
+    "FRASE_PROMOCIONAL": "¡La aventura que lo inició todo!",
+    "SINOPSIS": "Un brontosaurio huérfano se une a otros dinosaurios jóvenes para reunirse con sus familias en un valle.",
+    "ACTORES": "  • Gabriel Damon (Littlefoot (voice))\n  • Candace Hutson (Cera (voice))\n  • Will Ryan (Petrie (voice))\n  • Judith Barsi (Ducky (voice))\n  • Helen Shaver (Littlefoot's Mother (voice))",
+    "DIRECTOR": "Don Bluth",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9874339662574"
+    ]
+  },
+  {
+    "CATEGORIA": "PIE_PEQUE_O",
+    "TMDB_ID": 15997,
+    "ID_OKRU": "9874556914414",
+    "TITULO": "En busca del valle encantado 2: Aventuras en el gran valle",
+    "FECHA": "1994-12-12",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/1lC7oGqh9zhd55W4naq1niu6Z1M.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/8Db2ogq0e4UepMMxwqdv79YJMNq.jpg",
+    "GENERO": "Animación, Aventura, Familia",
+    "RATING": 6.288,
+    "DURACION": 73,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Esta vez, mientras construyen un escondite en su nuevo hogar del Gran Valle, Pie Pequeño y la pandilla rescatan un misterioso huevo de dos intrigantes secuestradores de huevos y hacen una sorpresa estelar - y un nuevo amigo - cuando el huevo eclosiona.",
+    "ACTORES": "  • Scott McAfee (Littlefoot (voice))\n  • Candace Hutson (Cera (voice))\n  • Heather Hogan (Ducky (voice))\n  • Jeff Bennett (Petrie / Ozzy (voice))\n  • Rob Paulsen (Spike / Strut / Chomper (voice))",
+    "DIRECTOR": "Roy Allen Smith",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9874556914414"
+    ]
+  },
+  {
+    "CATEGORIA": "PIE_PEQUE_O",
+    "TMDB_ID": 19004,
+    "ID_OKRU": "9882284460782",
+    "TITULO": "En busca del valle encantado 3: La fuente de la vida",
+    "FECHA": "1995-03-16",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/tO6o64SAmNiLxXG4Ozbam5QI3UO.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/iH3w4JwrsslnDKkNi5kLtiNh7DN.jpg",
+    "GENERO": "Animación, Aventura, Familia",
+    "RATING": 6.157,
+    "DURACION": 71,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Cuando una repentina escasez de agua amenaza toda la vida en el Gran Valle, la pandilla de jóvenes dinosaurios debe cooperar con un grupo de matones para hacer un viaje arriesgado fuera del valle y encontrar la causa.",
+    "ACTORES": "  • Scott McAfee (Littlefoot (voice))\n  • Candace Hutson (Cera (voice))\n  • Heather Hogan (Ducky (voice))\n  • Jeff Bennett (Petrie / Mutt / Iguanadon (voice))\n  • Rob Paulsen (Spike (voice))",
+    "DIRECTOR": "Roy Allen Smith",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9882284460782"
+    ]
+  },
+  {
+    "CATEGORIA": "PIE_PEQUE_O",
+    "TMDB_ID": 19164,
+    "ID_OKRU": "9882380929774",
+    "TITULO": "En busca del valle encantado 4: Viaje a la Tierra de las Brumas",
+    "FECHA": "1996-11-01",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/auROSiN4VL3Ckjab1s8FiKDbXsh.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/ctzWJ7TALj46muJXWELhdmtIxTE.jpg",
+    "GENERO": "Aventura, Animación, Comedia, Familia",
+    "RATING": 6.183,
+    "DURACION": 74,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Cuando el abuelo de Pie Pequeño se enferma, la única manera de curarlo es con una flor en la Tierra de las Brumas que contiene riesgos y peligros inesperados.",
+    "ACTORES": "  • John Ingle (Narrator (voice))\n  • Candace Hutson (Cera (voice))\n  • Heather Hogan (Ducky (voice))\n  • Rob Paulsen (Spike (voice))\n  • Jeff Bennett (Petrie / Ichy (voice))",
+    "DIRECTOR": "Roy Allen Smith",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/9882380929774"
+    ]
+  },
+  {
+    "CATEGORIA": "HUEVOS",
+    "TMDB_ID": 16761,
+    "ID_OKRU": "7498550676100",
+    "TITULO": "Una película de huevos",
+    "FECHA": "2006-04-21",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/eHqGqr5xBat3P2b9YdRbKMLli4J.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/bdo313RjHEymI0W5tKYBKE54Las.jpg",
+    "GENERO": "Animación, Comedia, Familia",
+    "RATING": 7.861,
+    "DURACION": 90,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Un pequeño huevo llamado Toto decide que quiere cumplir su propósito en la vida y convertirse en un pollo en lugar de morir en una sartén; por lo que comienza una búsqueda para regresar a las granjas junto con su nuevo amigo, el ruidoso huevo Willy y una loca raya de tocino. Los tres amigos enfrentarán muchos obstáculos en su búsqueda.",
+    "ACTORES": "  • Bruno Bichir (Toto (voice))\n  • Carlos Espejel (Willy (voice))\n  • Angélica Vale (Bibi (voice))\n  • Rodolfo Riva Palacio Alatriste (Coco / Cuache / Iguano (voice))\n  • Gabriel Riva Palacio Alatriste (Confi / Serp / Torti / Huevo Poeta (voice))",
+    "DIRECTOR": "Rodolfo Riva Palacio Alatriste",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7498550676100"
+    ]
+  },
+  {
+    "CATEGORIA": "HUEVOS",
+    "TMDB_ID": 37221,
+    "ID_OKRU": "7498585082500",
+    "TITULO": "Otra película de huevos y un pollo",
+    "FECHA": "2009-03-20",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/c7LMN9NrJQ97RxYM33qu5ItcbCn.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/pDcBSQlMO2ymWeGdg871bCtuVkt.jpg",
+    "GENERO": "Animación, Comedia, Aventura, Familia",
+    "RATING": 7.812,
+    "DURACION": 105,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Un huevo brujo necesita del corazón de Toto para realizar un hechizo y entonces manda a secuestrarlo. Ahora, para rescatarlo sus amigos se aventurarán en un peligroso desierto.",
+    "ACTORES": "  • Bruno Bichir (Toto (voice))\n  • Carlos Espejel (Willy (voice))\n  • Angélica Vale (Bibi (voice))\n  • Darío T. Pie (Huevo Brujo (voice))\n  • Lucila Mariscal (Lancha (voice))",
+    "DIRECTOR": "Rodolfo Riva Palacio Alatriste",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7498585082500"
+    ]
+  },
+  {
+    "CATEGORIA": "HUEVOS",
+    "TMDB_ID": 573164,
+    "ID_OKRU": "7499073063556",
+    "TITULO": "Un rescate de huevitos",
+    "FECHA": "2021-08-12",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/14yoknWhaEJAE4e6gTrTo9o5du.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/sIMyHMcbFR1jeQ8OC1Y2b93EhXN.jpg",
+    "GENERO": "Animación, Comedia, Aventura, Familia",
+    "RATING": 7.9,
+    "DURACION": 89,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Toto y Di ahora viven una nueva vida en el granero con sus dos hijos sin experiencia, muy traviesos, pero adorables. Sin embargo, estos son capturados por una cocinera de huevos cuando los llevan a África para un evento de comida, a lo que Toto y sus amigos se embarcan en una nueva misión de rescate para salvar a los huevitos.",
+    "ACTORES": "  • Bruno Bichir (Toto (voice))\n  • Maite Perroni (Di (voice))\n  • Carlos Espejel (Willy (voice))\n  • Angélica Vale (Bibi (voice))\n  • Dione Riva Palacio Santacruz (Uly (voice))",
+    "DIRECTOR": "Gabriel Riva Palacio Alatriste",
+    "TRAILER": "https://youtube.com/watch?v=82Sc7KJikX4",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7499073063556"
+    ]
+  },
+  {
+    "CATEGORIA": "HUEVOS",
+    "TMDB_ID": 264419,
+    "ID_OKRU": "7498259761796",
+    "TITULO": "Un gallo con muchos huevos",
+    "FECHA": "2015-09-04",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/eEqfi9fbsqHMJd78g4tawtIhc8n.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/Ant957vTnlFwOvyLdCu0OKrPCe1.jpg",
+    "GENERO": "Animación, Aventura, Comedia, Familia",
+    "RATING": 7.0,
+    "DURACION": 99,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Toto ha crecido y ahora es un joven gallito. Un ranchero malvado engaña a la dueña del rancho donde vive y la obliga a apostar la propiedad en una pelea de gallos en el palenque. Toto es la única opción para defender su hogar, por lo que deberá entrenarse en tan solo una semana y vencer al gallo campeón del palenque.",
+    "ACTORES": "  • Bruno Bichir (Toto (voice))\n  • Maite Perroni (Di (voice))\n  • Carlos Espejel (Willy (voice))\n  • Angélica Vale (Bibi (voice))\n  • Omar Chaparro (Patin Patán (voice))",
+    "DIRECTOR": "Gabriel Riva Palacio Alatriste",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/7498259761796"
     ]
   }
 ]
