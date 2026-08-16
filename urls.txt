@@ -8242,5 +8242,25 @@
     "URLS_OKRU": [
       "https://ok.ru/video/10781343550190"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 9906,
+    "ID_OKRU": "15235336964846",
+    "TITULO": "Ant Bully: Las aventuras de Lucas",
+    "FECHA": "2006-07-28",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/eTHEpTkEfmFwdzuwxCiTGjmLWJO.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/bSAFxs1REUSNk50yjuiVugDKDxz.jpg",
+    "GENERO": "Fantasía, Aventura, Animación, Comedia, Familia",
+    "RATING": 5.8,
+    "DURACION": 89,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Al pobre Lucas Nickle, un niño de 10 años, todo le sale mal. Hace poco que se ha mudado a una nueva ciudad con su familia y no se ha hecho ni un amigo. Su hermana Tiffany, una quinceañera, no hace más que darle la tabarra y últimamente sus padres no le hacen ni caso ya que están muy ocupados planeando su gran viaje de aniversario de bodas a Puerto Vallarta. Mientras tanto la abuela, cariñosa pero algo excéntrica, dedica su tiempo a proteger a la familia de unos extraterrestres que conoce a través de la prensa sensacionalista. Por si esto no fuera suficiente, Lucas es el blanco favorito del \"bully\" del lugar, Steve, quién no pierde oportunidad de intimidarle. A su vez, Lucas disfruta destruyendo los pequeños montículos que forman las hormigas en su jardín - descarga su frustración sobre los montículos de tierra y sus minúsculos habitantes pataleándoles, pisoteándoles, y regándoles con la manguera.",
+    "ACTORES": "  • Zach Tyler Eisen (Lucas Nickle (voice))\n  • Julia Roberts (Hova (voice))\n  • Meryl Streep (Queen (voice))\n  • Nicolas Cage (Zoc (voice))\n  • Paul Giamatti (Stan Beals (voice))",
+    "DIRECTOR": "John A. Davis",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/15235336964846"
+    ]
   }
 ]
