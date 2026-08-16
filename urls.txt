@@ -7602,5 +7602,25 @@
     "URLS_OKRU": [
       "https://ok.ru/video/12403799034606"
     ]
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 12155,
+    "ID_OKRU": "15261832710894",
+    "TITULO": "Alicia en el país de las maravillas",
+    "FECHA": "2010-03-03",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/l3Ng3mRtQ6YN4SfFPCk9oxSGa3i.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/ocOWbTzHcJVTw9Tz173KPeskDOP.jpg",
+    "GENERO": "Familia, Fantasía, Aventura",
+    "RATING": 6.644,
+    "DURACION": 108,
+    "FRASE_PROMOCIONAL": "Estás invitado a una cita muy importante.",
+    "SINOPSIS": "Alice, ahora de 19 años, regresa al mundo de maravillas, en el que entró cuando era niña, y se embarca en un viaje para descubrir su verdadero destino.",
+    "ACTORES": "  • Mia Wasikowska (Alice Kingsleigh)\n  • Johnny Depp (Tarrant Hightopp / Mad Hatter)\n  • Anne Hathaway (Mirana / White Queen)\n  • Helena Bonham Carter (Iracebeth / Red Queen)\n  • Crispin Glover (Ilosovic Stayne / Knave of Hearts)",
+    "DIRECTOR": "Tim Burton",
+    "TRAILER": "No disponible",
+    "URLS_OKRU": [
+      "https://ok.ru/video/15261832710894"
+    ]
   }
 ]
